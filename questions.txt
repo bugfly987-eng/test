@@ -1,0 +1,7998 @@
+Question 1: What is the complementary DNA sequence for 5'-ATAC-3'?
+W) 3'-AACA-5'
+X) 3'-ACCA-5'
+Y) 3'-TATG-5'
+Z) 3'-CGAT-5'
+Answer: Y
+
+
+Question 2: What is the complementary DNA sequence for 5'-TAGTAAG-3'?
+W) 3'-TAAATCT-5'
+X) 3'-ATCATTC-5'
+Y) 3'-GCGCCAA-5'
+Z) 3'-CGCCGTC-5'
+Answer: X
+
+
+Question 3: What is the complementary DNA sequence for 5'-CCACCA-3'?
+W) 3'-TTGCAT-5'
+X) 3'-GCCATG-5'
+Y) 3'-GGTGGT-5'
+Z) 3'-GAGGTA-5'
+Answer: Y
+
+
+Question 4: What is the complementary DNA sequence for 5'-ACTCG-3'?
+W) 3'-ATGCG-5'
+X) 3'-AACGT-5'
+Y) 3'-TAGCA-5'
+Z) 3'-TGAGC-5'
+Answer: Z
+
+
+Question 5: What is the complementary DNA sequence for 5'-GTTAAC-3'?
+W) 3'-GGCTAT-5'
+X) 3'-GCATAG-5'
+Y) 3'-CAATTG-5'
+Z) 3'-CGGCAC-5'
+Answer: Y
+
+
+Question 6: What is the complementary DNA sequence for 5'-GGATA-3'?
+W) 3'-CCTAT-5'
+X) 3'-GGATC-5'
+Y) 3'-CATGC-5'
+Z) 3'-TGTAC-5'
+Answer: W
+
+
+Question 7: What is the complementary DNA sequence for 5'-AAAC-3'?
+W) 3'-TTCC-5'
+X) 3'-AATC-5'
+Y) 3'-TTTG-5'
+Z) 3'-CACA-5'
+Answer: Y
+
+
+Question 8: What is the complementary DNA sequence for 5'-AATTTCC-3'?
+W) 3'-TTAAAGG-5'
+X) 3'-TTTAGTG-5'
+Y) 3'-CAGGGGG-5'
+Z) 3'-GATTGAA-5'
+Answer: W
+
+
+Question 9: What is the complementary DNA sequence for 5'-ATATGTG-3'?
+W) 3'-TGCCCAC-5'
+X) 3'-TATACAC-5'
+Y) 3'-CGAGAAC-5'
+Z) 3'-TTGGCCA-5'
+Answer: X
+
+
+Question 10: What is the complementary DNA sequence for 5'-CAACC-3'?
+W) 3'-TTCTT-5'
+X) 3'-ACTGG-5'
+Y) 3'-GTTGG-5'
+Z) 3'-ACCAC-5'
+Answer: Y
+
+
+Question 11: What is the complementary DNA sequence for 5'-GTAG-3'?
+W) 3'-CATC-5'
+X) 3'-AGTC-5'
+Y) 3'-CCGC-5'
+Z) 3'-GAAA-5'
+Answer: W
+
+
+Question 12: What is the complementary DNA sequence for 5'-CACTT-3'?
+W) 3'-CTAAG-5'
+X) 3'-GTGAA-5'
+Y) 3'-AGCTC-5'
+Z) 3'-GGATT-5'
+Answer: X
+
+
+Question 13: What is the complementary DNA sequence for 5'-CAATGG-3'?
+W) 3'-GGAAAG-5'
+X) 3'-GTTACC-5'
+Y) 3'-GGGACT-5'
+Z) 3'-GTCAGG-5'
+Answer: X
+
+
+Question 14: What is the complementary DNA sequence for 5'-ACTATA-3'?
+W) 3'-TTAGTC-5'
+X) 3'-CGTAGT-5'
+Y) 3'-TGATAT-5'
+Z) 3'-GTGGAC-5'
+Answer: Y
+
+
+Question 15: What is the complementary DNA sequence for 5'-TGTGAGA-3'?
+W) 3'-ATGGCCA-5'
+X) 3'-ACACTCT-5'
+Y) 3'-GCCTCCA-5'
+Z) 3'-ATCGCGC-5'
+Answer: X
+
+
+Question 16: What is the complementary DNA sequence for 5'-TGTAGC-3'?
+W) 3'-TTCCGG-5'
+X) 3'-ACATCG-5'
+Y) 3'-GATGAA-5'
+Z) 3'-CCTCCA-5'
+Answer: X
+
+
+Question 17: What is the complementary DNA sequence for 5'-TCACTAC-3'?
+W) 3'-AGGATAG-5'
+X) 3'-CAAGTGC-5'
+Y) 3'-AGTGATG-5'
+Z) 3'-GCGGCCC-5'
+Answer: Y
+
+
+Question 18: What is the complementary DNA sequence for 5'-TACGCCT-3'?
+W) 3'-ATTTCAA-5'
+X) 3'-TGCCGGT-5'
+Y) 3'-CCATCTA-5'
+Z) 3'-ATGCGGA-5'
+Answer: Z
+
+
+Question 19: What is the complementary DNA sequence for 5'-GGTCCCA-3'?
+W) 3'-CCAGGGT-5'
+X) 3'-TACATCA-5'
+Y) 3'-CATATAT-5'
+Z) 3'-ATATCTA-5'
+Answer: W
+
+
+Question 20: What is the complementary DNA sequence for 5'-GTCAGA-3'?
+W) 3'-TTCGCG-5'
+X) 3'-CAGTCT-5'
+Y) 3'-AGAAAG-5'
+Z) 3'-CATAGT-5'
+Answer: X
+
+
+Question 21: What is the complementary DNA sequence for 5'-GCGT-3'?
+W) 3'-CGCA-5'
+X) 3'-GACG-5'
+Y) 3'-GGCA-5'
+Z) 3'-ACTC-5'
+Answer: W
+
+
+Question 22: What is the complementary DNA sequence for 5'-CTGG-3'?
+W) 3'-GACC-5'
+X) 3'-CTCG-5'
+Y) 3'-TGCT-5'
+Z) 3'-AGCG-5'
+Answer: W
+
+
+Question 23: What is the complementary DNA sequence for 5'-GGAGAT-3'?
+W) 3'-GTGCTA-5'
+X) 3'-CCTCTA-5'
+Y) 3'-GACTGC-5'
+Z) 3'-CTAGAA-5'
+Answer: X
+
+
+Question 24: What is the complementary DNA sequence for 5'-TTAC-3'?
+W) 3'-ACTC-5'
+X) 3'-CTTT-5'
+Y) 3'-AATG-5'
+Z) 3'-TCTG-5'
+Answer: Y
+
+
+Question 25: What is the complementary DNA sequence for 5'-TCGCGGT-3'?
+W) 3'-TGTGAAT-5'
+X) 3'-TTCAAAT-5'
+Y) 3'-GCGAATT-5'
+Z) 3'-AGCGCCA-5'
+Answer: Z
+
+
+Question 26: What is the complementary DNA sequence for 5'-AACTCC-3'?
+W) 3'-GTGTCT-5'
+X) 3'-TTGAGG-5'
+Y) 3'-TAACAT-5'
+Z) 3'-CAGAGC-5'
+Answer: X
+
+
+Question 27: What is the complementary DNA sequence for 5'-TTGAA-3'?
+W) 3'-AAATA-5'
+X) 3'-AGCGG-5'
+Y) 3'-AACTT-5'
+Z) 3'-TGCGA-5'
+Answer: Y
+
+
+Question 28: What is the complementary DNA sequence for 5'-CGCTAA-3'?
+W) 3'-TTTAGG-5'
+X) 3'-GTCGAC-5'
+Y) 3'-GCGATT-5'
+Z) 3'-CGGCTA-5'
+Answer: Y
+
+
+Question 29: What is the complementary DNA sequence for 5'-TTAATT-3'?
+W) 3'-CTGAAT-5'
+X) 3'-AGGGAG-5'
+Y) 3'-TACCTT-5'
+Z) 3'-AATTAA-5'
+Answer: Z
+
+
+Question 30: What is the complementary DNA sequence for 5'-GTCAG-3'?
+W) 3'-AGGTA-5'
+X) 3'-CAGTC-5'
+Y) 3'-GTCCT-5'
+Z) 3'-CAACC-5'
+Answer: X
+
+
+Question 31: What is the complementary DNA sequence for 5'-CTGCGGT-3'?
+W) 3'-GTGCGTT-5'
+X) 3'-CTTACCA-5'
+Y) 3'-GACGCCA-5'
+Z) 3'-CGTACTC-5'
+Answer: Y
+
+
+Question 32: What is the complementary DNA sequence for 5'-CGTCGGT-3'?
+W) 3'-GCAGCCA-5'
+X) 3'-TCTCATG-5'
+Y) 3'-ACCGGTC-5'
+Z) 3'-TCCGGGT-5'
+Answer: W
+
+
+Question 33: What is the complementary DNA sequence for 5'-CACT-3'?
+W) 3'-ATAT-5'
+X) 3'-CAAT-5'
+Y) 3'-GTGA-5'
+Z) 3'-AAGG-5'
+Answer: Y
+
+
+Question 34: What is the complementary DNA sequence for 5'-CGAAGCA-3'?
+W) 3'-GCTTCGT-5'
+X) 3'-TTGATTA-5'
+Y) 3'-GCATTCC-5'
+Z) 3'-GATTTAG-5'
+Answer: W
+
+
+Question 35: What is the complementary DNA sequence for 5'-AGTAGG-3'?
+W) 3'-AGAATG-5'
+X) 3'-GCAACA-5'
+Y) 3'-TCATCC-5'
+Z) 3'-GGCGGG-5'
+Answer: Y
+
+
+Question 36: What is the complementary DNA sequence for 5'-ATCAA-3'?
+W) 3'-TAGTT-5'
+X) 3'-TAGAG-5'
+Y) 3'-CGCGG-5'
+Z) 3'-TGTGC-5'
+Answer: W
+
+
+Question 37: What is the complementary DNA sequence for 5'-GACT-3'?
+W) 3'-GCGA-5'
+X) 3'-GAAA-5'
+Y) 3'-CCCG-5'
+Z) 3'-CTGA-5'
+Answer: Z
+
+
+Question 38: What is the complementary DNA sequence for 5'-CAAAGA-3'?
+W) 3'-ACTTGC-5'
+X) 3'-GTTTCT-5'
+Y) 3'-CGTCAT-5'
+Z) 3'-CCCGCG-5'
+Answer: X
+
+
+Question 39: What is the complementary DNA sequence for 5'-CGTTAA-3'?
+W) 3'-AAGTAG-5'
+X) 3'-GAACAG-5'
+Y) 3'-GTCCCA-5'
+Z) 3'-GCAATT-5'
+Answer: Z
+
+
+Question 40: What is the complementary DNA sequence for 5'-CGAGA-3'?
+W) 3'-TCTAC-5'
+X) 3'-GCTCT-5'
+Y) 3'-TGCAT-5'
+Z) 3'-ATAAT-5'
+Answer: X
+
+
+Question 41: What is the complementary DNA sequence for 5'-GGTA-3'?
+W) 3'-CTCT-5'
+X) 3'-AACC-5'
+Y) 3'-CCAT-5'
+Z) 3'-CTGT-5'
+Answer: Y
+
+
+Question 42: What is the complementary DNA sequence for 5'-TGTGT-3'?
+W) 3'-CTTTG-5'
+X) 3'-ACACA-5'
+Y) 3'-CTAAG-5'
+Z) 3'-CTAAT-5'
+Answer: X
+
+
+Question 43: What is the complementary DNA sequence for 5'-TCGGCGC-3'?
+W) 3'-AGCCGCG-5'
+X) 3'-CCAGGTA-5'
+Y) 3'-TCACAAG-5'
+Z) 3'-TGCGGGG-5'
+Answer: W
+
+
+Question 44: What is the complementary DNA sequence for 5'-AACA-3'?
+W) 3'-TGCG-5'
+X) 3'-TTAT-5'
+Y) 3'-TTGT-5'
+Z) 3'-CGAC-5'
+Answer: Y
+
+
+Question 45: What is the complementary DNA sequence for 5'-TCTT-3'?
+W) 3'-ATCA-5'
+X) 3'-TCTC-5'
+Y) 3'-AGAA-5'
+Z) 3'-TGAT-5'
+Answer: Y
+
+
+Question 46: What is the complementary DNA sequence for 5'-TATTAC-3'?
+W) 3'-ATAATG-5'
+X) 3'-TTATTT-5'
+Y) 3'-CTTGAG-5'
+Z) 3'-ACCTTC-5'
+Answer: W
+
+
+Question 47: What is the complementary DNA sequence for 5'-TATT-3'?
+W) 3'-GACC-5'
+X) 3'-AGTG-5'
+Y) 3'-ATAA-5'
+Z) 3'-AGCA-5'
+Answer: Y
+
+
+Question 48: What is the complementary DNA sequence for 5'-TAAGA-3'?
+W) 3'-GCTCC-5'
+X) 3'-ATTCT-5'
+Y) 3'-CGCGT-5'
+Z) 3'-GTTTC-5'
+Answer: X
+
+
+Question 49: What is the complementary DNA sequence for 5'-CTTAGA-3'?
+W) 3'-TAAAGT-5'
+X) 3'-GGTGCT-5'
+Y) 3'-GGCCTC-5'
+Z) 3'-GAATCT-5'
+Answer: Z
+
+
+Question 50: What is the complementary DNA sequence for 5'-ATTC-3'?
+W) 3'-AACT-5'
+X) 3'-TAAG-5'
+Y) 3'-ATTT-5'
+Z) 3'-TCGC-5'
+Answer: X
+
+
+Question 51: What is the complementary DNA sequence for 5'-GTCCA-3'?
+W) 3'-CAGGT-5'
+X) 3'-CACCT-5'
+Y) 3'-ACGGG-5'
+Z) 3'-ACCAT-5'
+Answer: W
+
+
+Question 52: What is the complementary DNA sequence for 5'-AAAGA-3'?
+W) 3'-TTTCT-5'
+X) 3'-GATAG-5'
+Y) 3'-GGGAT-5'
+Z) 3'-GGATT-5'
+Answer: W
+
+
+Question 53: What is the complementary DNA sequence for 5'-AAGGGAC-3'?
+W) 3'-CCAAATC-5'
+X) 3'-CTGGCTA-5'
+Y) 3'-TTCCCTG-5'
+Z) 3'-ACGATTG-5'
+Answer: Y
+
+
+Question 54: What is the complementary DNA sequence for 5'-GGTTTTA-3'?
+W) 3'-AAAGCTG-5'
+X) 3'-CCAAAAT-5'
+Y) 3'-ATACTAA-5'
+Z) 3'-GTGGTCG-5'
+Answer: X
+
+
+Question 55: What is the complementary DNA sequence for 5'-ACCA-3'?
+W) 3'-CCTA-5'
+X) 3'-GTCC-5'
+Y) 3'-TGGT-5'
+Z) 3'-TCAC-5'
+Answer: Y
+
+
+Question 56: What is the complementary DNA sequence for 5'-GATTCTA-3'?
+W) 3'-CTAAGAT-5'
+X) 3'-TCGCGTA-5'
+Y) 3'-ACGAAGG-5'
+Z) 3'-ACACGAT-5'
+Answer: W
+
+
+Question 57: What is the complementary DNA sequence for 5'-TGATGGT-3'?
+W) 3'-TTGCGCA-5'
+X) 3'-CGCTACT-5'
+Y) 3'-ACTACCA-5'
+Z) 3'-ATGCGTG-5'
+Answer: Y
+
+
+Question 58: What is the complementary DNA sequence for 5'-TCGCTC-3'?
+W) 3'-AGCGAG-5'
+X) 3'-ACTGAA-5'
+Y) 3'-GACTCC-5'
+Z) 3'-AAGCTA-5'
+Answer: W
+
+
+Question 59: What is the complementary DNA sequence for 5'-GCCTCAA-3'?
+W) 3'-GTACGTT-5'
+X) 3'-GTGTAGT-5'
+Y) 3'-CTTCTTT-5'
+Z) 3'-CGGAGTT-5'
+Answer: Z
+
+
+Question 60: What is the complementary DNA sequence for 5'-GCGCGC-3'?
+W) 3'-GCCGGA-5'
+X) 3'-CGCGCG-5'
+Y) 3'-TGCCAT-5'
+Z) 3'-AAAGAC-5'
+Answer: X
+
+
+Question 61: What is the complementary DNA sequence for 5'-TCAGCCG-3'?
+W) 3'-GTCCACC-5'
+X) 3'-GAGCTAA-5'
+Y) 3'-AGTCGGC-5'
+Z) 3'-ACGGCTA-5'
+Answer: Y
+
+
+Question 62: What is the complementary DNA sequence for 5'-GAAC-3'?
+W) 3'-CTCT-5'
+X) 3'-CTTG-5'
+Y) 3'-CCGT-5'
+Z) 3'-GTGC-5'
+Answer: X
+
+
+Question 63: What is the complementary DNA sequence for 5'-ATTT-3'?
+W) 3'-AGTG-5'
+X) 3'-AAAT-5'
+Y) 3'-TAAA-5'
+Z) 3'-TTGC-5'
+Answer: Y
+
+
+Question 64: What is the complementary DNA sequence for 5'-GGTGGG-3'?
+W) 3'-CATCGC-5'
+X) 3'-CCACCC-5'
+Y) 3'-GCAAGT-5'
+Z) 3'-GTATTA-5'
+Answer: X
+
+
+Question 65: What is the complementary DNA sequence for 5'-TGCG-3'?
+W) 3'-TTCA-5'
+X) 3'-CACG-5'
+Y) 3'-TGCA-5'
+Z) 3'-ACGC-5'
+Answer: Z
+
+
+Question 66: What is the complementary DNA sequence for 5'-CTACTA-3'?
+W) 3'-CCCTCT-5'
+X) 3'-AGTTCG-5'
+Y) 3'-ACGCAG-5'
+Z) 3'-GATGAT-5'
+Answer: Z
+
+
+Question 67: What is the complementary DNA sequence for 5'-GCGC-3'?
+W) 3'-CATG-5'
+X) 3'-CACC-5'
+Y) 3'-CGCG-5'
+Z) 3'-GGCC-5'
+Answer: Y
+
+
+Question 68: What is the complementary DNA sequence for 5'-CCAT-3'?
+W) 3'-GGTA-5'
+X) 3'-CCCG-5'
+Y) 3'-TTAC-5'
+Z) 3'-CTGC-5'
+Answer: W
+
+
+Question 69: What is the complementary DNA sequence for 5'-GTCCCG-3'?
+W) 3'-CAGGGC-5'
+X) 3'-TTCGCT-5'
+Y) 3'-TGGGCC-5'
+Z) 3'-CGTTGT-5'
+Answer: W
+
+
+Question 70: What is the complementary DNA sequence for 5'-TTCTT-3'?
+W) 3'-CACCA-5'
+X) 3'-TTACG-5'
+Y) 3'-AAGAA-5'
+Z) 3'-CCCAT-5'
+Answer: Y
+
+
+Question 71: What is the complementary DNA sequence for 5'-GGAC-3'?
+W) 3'-TTAG-5'
+X) 3'-CACG-5'
+Y) 3'-GTCG-5'
+Z) 3'-CCTG-5'
+Answer: Z
+
+
+Question 72: What is the complementary DNA sequence for 5'-GAGGA-3'?
+W) 3'-CGACT-5'
+X) 3'-CGTTC-5'
+Y) 3'-CGTAT-5'
+Z) 3'-CTCCT-5'
+Answer: Z
+
+
+Question 73: What is the complementary DNA sequence for 5'-CCATTCA-3'?
+W) 3'-TCCTTAC-5'
+X) 3'-GGTAAGT-5'
+Y) 3'-GTGATTT-5'
+Z) 3'-CCTTTTA-5'
+Answer: X
+
+
+Question 74: What is the complementary DNA sequence for 5'-CGGGCCG-3'?
+W) 3'-CGCCTGA-5'
+X) 3'-GCCCGGC-5'
+Y) 3'-CGGGGGC-5'
+Z) 3'-TAGTTGT-5'
+Answer: X
+
+
+Question 75: What is the complementary DNA sequence for 5'-TCAAC-3'?
+W) 3'-TATGC-5'
+X) 3'-AGTTG-5'
+Y) 3'-ACGTC-5'
+Z) 3'-TGCCA-5'
+Answer: X
+
+
+Question 76: What is the complementary DNA sequence for 5'-GAGA-3'?
+W) 3'-CTCT-5'
+X) 3'-CTGT-5'
+Y) 3'-GGTC-5'
+Z) 3'-TGGG-5'
+Answer: W
+
+
+Question 77: What is the complementary DNA sequence for 5'-ACCC-3'?
+W) 3'-ATTG-5'
+X) 3'-AAAT-5'
+Y) 3'-CCCG-5'
+Z) 3'-TGGG-5'
+Answer: Z
+
+
+Question 78: What is the complementary DNA sequence for 5'-AACT-3'?
+W) 3'-TTGA-5'
+X) 3'-CGAA-5'
+Y) 3'-AGAG-5'
+Z) 3'-TCGG-5'
+Answer: W
+
+
+Question 79: What is the complementary DNA sequence for 5'-TACAT-3'?
+W) 3'-AGGGC-5'
+X) 3'-GTTAT-5'
+Y) 3'-ATGTA-5'
+Z) 3'-TTGGC-5'
+Answer: Y
+
+
+Question 80: What is the complementary DNA sequence for 5'-GATATT-3'?
+W) 3'-CTATAA-5'
+X) 3'-CTTTAT-5'
+Y) 3'-AAGCCA-5'
+Z) 3'-TCGATC-5'
+Answer: W
+
+
+Question 81: What is the complementary DNA sequence for 5'-AACC-3'?
+W) 3'-GGCC-5'
+X) 3'-TTGG-5'
+Y) 3'-TATT-5'
+Z) 3'-TCTT-5'
+Answer: X
+
+
+Question 82: What is the complementary DNA sequence for 5'-GTATAGC-3'?
+W) 3'-CACGTGT-5'
+X) 3'-CATATCG-5'
+Y) 3'-ACCCTAA-5'
+Z) 3'-CCTCTAC-5'
+Answer: X
+
+
+Question 83: What is the complementary DNA sequence for 5'-GAGA-3'?
+W) 3'-AATA-5'
+X) 3'-AACA-5'
+Y) 3'-CGGC-5'
+Z) 3'-CTCT-5'
+Answer: Z
+
+
+Question 84: What is the complementary DNA sequence for 5'-ACCT-3'?
+W) 3'-AGCA-5'
+X) 3'-CTTG-5'
+Y) 3'-CCTG-5'
+Z) 3'-TGGA-5'
+Answer: Z
+
+
+Question 85: What is the complementary DNA sequence for 5'-CGACGCG-3'?
+W) 3'-TTGCGAC-5'
+X) 3'-GCTGCGC-5'
+Y) 3'-AAGGTAA-5'
+Z) 3'-GATCAAA-5'
+Answer: X
+
+
+Question 86: What is the complementary DNA sequence for 5'-GTGCG-3'?
+W) 3'-AGCCG-5'
+X) 3'-GTGTG-5'
+Y) 3'-CTAAA-5'
+Z) 3'-CACGC-5'
+Answer: Z
+
+
+Question 87: What is the complementary DNA sequence for 5'-GTGGT-3'?
+W) 3'-TGTCC-5'
+X) 3'-CACCA-5'
+Y) 3'-ACGCA-5'
+Z) 3'-GATGT-5'
+Answer: X
+
+
+Question 88: What is the complementary DNA sequence for 5'-TAATTTA-3'?
+W) 3'-GGCATAT-5'
+X) 3'-CTTTTAG-5'
+Y) 3'-ATTAAAT-5'
+Z) 3'-ATCTATA-5'
+Answer: Y
+
+
+Question 89: What is the complementary DNA sequence for 5'-TTTAT-3'?
+W) 3'-AAATA-5'
+X) 3'-TGTCG-5'
+Y) 3'-ACCAA-5'
+Z) 3'-TTGGG-5'
+Answer: W
+
+
+Question 90: What is the complementary DNA sequence for 5'-TATTC-3'?
+W) 3'-ATAAG-5'
+X) 3'-AGACG-5'
+Y) 3'-GTGAG-5'
+Z) 3'-CGGTT-5'
+Answer: W
+
+
+Question 91: What is the complementary DNA sequence for 5'-GGTT-3'?
+W) 3'-TCGC-5'
+X) 3'-GAGT-5'
+Y) 3'-CACC-5'
+Z) 3'-CCAA-5'
+Answer: Z
+
+
+Question 92: What is the complementary DNA sequence for 5'-GCTC-3'?
+W) 3'-CGAG-5'
+X) 3'-TCCC-5'
+Y) 3'-AGCT-5'
+Z) 3'-GGTA-5'
+Answer: W
+
+
+Question 93: What is the complementary DNA sequence for 5'-TCCAGTT-3'?
+W) 3'-CATAGGC-5'
+X) 3'-AGGTCAA-5'
+Y) 3'-CTACTAA-5'
+Z) 3'-GAGCTTG-5'
+Answer: X
+
+
+Question 94: What is the complementary DNA sequence for 5'-CGATAC-3'?
+W) 3'-GCTATG-5'
+X) 3'-TACACT-5'
+Y) 3'-GATTTG-5'
+Z) 3'-CAGGAA-5'
+Answer: W
+
+
+Question 95: What is the complementary DNA sequence for 5'-CTGCGCT-3'?
+W) 3'-CGCTATT-5'
+X) 3'-CTATACC-5'
+Y) 3'-CAAATAC-5'
+Z) 3'-GACGCGA-5'
+Answer: Z
+
+
+Question 96: What is the complementary DNA sequence for 5'-AGGCTCT-3'?
+W) 3'-GTAAGTT-5'
+X) 3'-TCCGAGA-5'
+Y) 3'-CATCGCA-5'
+Z) 3'-AGGTGAC-5'
+Answer: X
+
+
+Question 97: What is the complementary DNA sequence for 5'-TGTTG-3'?
+W) 3'-AAAAT-5'
+X) 3'-ACAAC-5'
+Y) 3'-CTCCA-5'
+Z) 3'-TGGAG-5'
+Answer: X
+
+
+Question 98: What is the complementary DNA sequence for 5'-GTCGCG-3'?
+W) 3'-GAGTAT-5'
+X) 3'-CCAATA-5'
+Y) 3'-GTACCT-5'
+Z) 3'-CAGCGC-5'
+Answer: Z
+
+
+Question 99: What is the complementary DNA sequence for 5'-CTGTGTA-3'?
+W) 3'-CCTTCAA-5'
+X) 3'-CATATGT-5'
+Y) 3'-GACACAT-5'
+Z) 3'-GCCTCTA-5'
+Answer: Y
+
+
+Question 100: What is the complementary DNA sequence for 5'-TAGAC-3'?
+W) 3'-ACAGT-5'
+X) 3'-CTTGA-5'
+Y) 3'-TTCAC-5'
+Z) 3'-ATCTG-5'
+Answer: Z
+
+
+Question 101: What is the complementary DNA sequence for 5'-ACCTATA-3'?
+W) 3'-TGGATAT-5'
+X) 3'-GCTAAGA-5'
+Y) 3'-ACCATAC-5'
+Z) 3'-TTTGGCC-5'
+Answer: W
+
+
+Question 102: What is the complementary DNA sequence for 5'-AAGCT-3'?
+W) 3'-GTATA-5'
+X) 3'-TTCGA-5'
+Y) 3'-GCTCC-5'
+Z) 3'-CCCGC-5'
+Answer: X
+
+
+Question 103: What is the complementary DNA sequence for 5'-TATCC-3'?
+W) 3'-GGGAG-5'
+X) 3'-GAATA-5'
+Y) 3'-CTCGG-5'
+Z) 3'-ATAGG-5'
+Answer: Z
+
+
+Question 104: What is the complementary DNA sequence for 5'-TTCCAAA-3'?
+W) 3'-CTTGAAG-5'
+X) 3'-AAGGTTT-5'
+Y) 3'-GGATCGC-5'
+Z) 3'-ACACCAA-5'
+Answer: X
+
+
+Question 105: What is the complementary DNA sequence for 5'-TTCGT-3'?
+W) 3'-GCTCA-5'
+X) 3'-AAGCA-5'
+Y) 3'-GTTCT-5'
+Z) 3'-TCGCA-5'
+Answer: X
+
+
+Question 106: What is the complementary DNA sequence for 5'-GGCACA-3'?
+W) 3'-AGTGCA-5'
+X) 3'-GAATGA-5'
+Y) 3'-GAGCCA-5'
+Z) 3'-CCGTGT-5'
+Answer: Z
+
+
+Question 107: What is the complementary DNA sequence for 5'-GATT-3'?
+W) 3'-ACTC-5'
+X) 3'-CTAA-5'
+Y) 3'-TCTG-5'
+Z) 3'-GTCA-5'
+Answer: X
+
+
+Question 108: What is the complementary DNA sequence for 5'-ATATG-3'?
+W) 3'-TATAC-5'
+X) 3'-GGACG-5'
+Y) 3'-AGCAG-5'
+Z) 3'-CACAT-5'
+Answer: W
+
+
+Question 109: What is the complementary DNA sequence for 5'-GAAAGAC-3'?
+W) 3'-CTTTCTG-5'
+X) 3'-TGATTGC-5'
+Y) 3'-AATTCGA-5'
+Z) 3'-CTTAAGC-5'
+Answer: W
+
+
+Question 110: What is the complementary DNA sequence for 5'-AGTC-3'?
+W) 3'-CAGA-5'
+X) 3'-TCAG-5'
+Y) 3'-TGAG-5'
+Z) 3'-CGTA-5'
+Answer: X
+
+
+Question 111: What is the complementary DNA sequence for 5'-TGAA-3'?
+W) 3'-TGAA-5'
+X) 3'-GGAG-5'
+Y) 3'-ACTT-5'
+Z) 3'-TCCC-5'
+Answer: Y
+
+
+Question 112: What is the complementary DNA sequence for 5'-AGAGTC-3'?
+W) 3'-TACCCT-5'
+X) 3'-TCTCAG-5'
+Y) 3'-GTATTC-5'
+Z) 3'-TTTTGT-5'
+Answer: X
+
+
+Question 113: What is the complementary DNA sequence for 5'-GTCTGCT-3'?
+W) 3'-GGAGAGG-5'
+X) 3'-CGGGACT-5'
+Y) 3'-CAGACGA-5'
+Z) 3'-ATAGGAG-5'
+Answer: Y
+
+
+Question 114: What is the complementary DNA sequence for 5'-CGCGA-3'?
+W) 3'-GGTTT-5'
+X) 3'-CGCCA-5'
+Y) 3'-GCGCT-5'
+Z) 3'-AAACA-5'
+Answer: Y
+
+
+Question 115: What is the complementary DNA sequence for 5'-GGTAC-3'?
+W) 3'-TGTAT-5'
+X) 3'-AAGGG-5'
+Y) 3'-CCATG-5'
+Z) 3'-GGGGG-5'
+Answer: Y
+
+
+Question 116: What is the complementary DNA sequence for 5'-CGTCT-3'?
+W) 3'-AACCG-5'
+X) 3'-CCATT-5'
+Y) 3'-GCATG-5'
+Z) 3'-GCAGA-5'
+Answer: Z
+
+
+Question 117: What is the complementary DNA sequence for 5'-AGACCG-3'?
+W) 3'-ATCGGT-5'
+X) 3'-TCATGC-5'
+Y) 3'-TCTGGC-5'
+Z) 3'-TTAATA-5'
+Answer: Y
+
+
+Question 118: What is the complementary DNA sequence for 5'-GAAT-3'?
+W) 3'-CTTA-5'
+X) 3'-GGCT-5'
+Y) 3'-AGGT-5'
+Z) 3'-ATGA-5'
+Answer: W
+
+
+Question 119: What is the complementary DNA sequence for 5'-ATGTC-3'?
+W) 3'-GCCTA-5'
+X) 3'-AGCTA-5'
+Y) 3'-TACAG-5'
+Z) 3'-TCTAA-5'
+Answer: Y
+
+
+Question 120: What is the complementary DNA sequence for 5'-TAGT-3'?
+W) 3'-TTAA-5'
+X) 3'-ATCA-5'
+Y) 3'-GTCT-5'
+Z) 3'-TTGC-5'
+Answer: X
+
+
+Question 121: What is the complementary DNA sequence for 5'-CGTG-3'?
+W) 3'-AATC-5'
+X) 3'-GCGC-5'
+Y) 3'-ATTG-5'
+Z) 3'-GCAC-5'
+Answer: Z
+
+
+Question 122: What is the complementary DNA sequence for 5'-GTGA-3'?
+W) 3'-CAGA-5'
+X) 3'-CTCG-5'
+Y) 3'-AAAA-5'
+Z) 3'-CACT-5'
+Answer: Z
+
+
+Question 123: What is the complementary DNA sequence for 5'-GCGACC-3'?
+W) 3'-GTCCTA-5'
+X) 3'-GAACCG-5'
+Y) 3'-CGCTGG-5'
+Z) 3'-AAGGGG-5'
+Answer: Y
+
+
+Question 124: What is the complementary DNA sequence for 5'-TGCA-3'?
+W) 3'-ACGT-5'
+X) 3'-GTGG-5'
+Y) 3'-TTTT-5'
+Z) 3'-CGAT-5'
+Answer: W
+
+
+Question 125: What is the complementary DNA sequence for 5'-CATGTTC-3'?
+W) 3'-CCAGAAA-5'
+X) 3'-TAGACTG-5'
+Y) 3'-ATATTTG-5'
+Z) 3'-GTACAAG-5'
+Answer: Z
+
+
+Question 126: What is the complementary DNA sequence for 5'-CAGCTAG-3'?
+W) 3'-GTCGATC-5'
+X) 3'-GAGCCAT-5'
+Y) 3'-GCCTTAG-5'
+Z) 3'-CCTTACG-5'
+Answer: W
+
+
+Question 127: What is the complementary DNA sequence for 5'-GGTATCC-3'?
+W) 3'-CCATAGG-5'
+X) 3'-CGCACAA-5'
+Y) 3'-CAGGGCC-5'
+Z) 3'-TCTTTTT-5'
+Answer: W
+
+
+Question 128: What is the complementary DNA sequence for 5'-CCGTT-3'?
+W) 3'-TACCA-5'
+X) 3'-GGCAA-5'
+Y) 3'-CACGG-5'
+Z) 3'-CCGGG-5'
+Answer: X
+
+
+Question 129: What is the complementary DNA sequence for 5'-ATGGACT-3'?
+W) 3'-GCGTTAG-5'
+X) 3'-TGTGCGA-5'
+Y) 3'-TACCTGA-5'
+Z) 3'-ATCTGTT-5'
+Answer: Y
+
+
+Question 130: What is the complementary DNA sequence for 5'-GGGAGAA-3'?
+W) 3'-TTACCGG-5'
+X) 3'-TGTATAG-5'
+Y) 3'-CCCTCTT-5'
+Z) 3'-CAGGATT-5'
+Answer: Y
+
+
+Question 131: What is the complementary DNA sequence for 5'-AGTAC-3'?
+W) 3'-TAAGT-5'
+X) 3'-CCTCA-5'
+Y) 3'-TCATG-5'
+Z) 3'-GTGAG-5'
+Answer: Y
+
+
+Question 132: What is the complementary DNA sequence for 5'-CACCA-3'?
+W) 3'-TCAGT-5'
+X) 3'-GTGGT-5'
+Y) 3'-CAGCC-5'
+Z) 3'-ACTTC-5'
+Answer: X
+
+
+Question 133: What is the complementary DNA sequence for 5'-CCTCC-3'?
+W) 3'-ATCAC-5'
+X) 3'-CAAAA-5'
+Y) 3'-GGAGG-5'
+Z) 3'-TCAGA-5'
+Answer: Y
+
+
+Question 134: What is the complementary DNA sequence for 5'-GCTAAAA-3'?
+W) 3'-CTGGACG-5'
+X) 3'-GTCTAGG-5'
+Y) 3'-CTGTAGG-5'
+Z) 3'-CGATTTT-5'
+Answer: Z
+
+
+Question 135: What is the complementary DNA sequence for 5'-TTCGAG-3'?
+W) 3'-AAGCTC-5'
+X) 3'-ATGTTG-5'
+Y) 3'-GCGACA-5'
+Z) 3'-GATCGC-5'
+Answer: W
+
+
+Question 136: What is the complementary DNA sequence for 5'-CGGCGT-3'?
+W) 3'-GCCGCA-5'
+X) 3'-TGTACA-5'
+Y) 3'-GCCCTC-5'
+Z) 3'-GCCCAG-5'
+Answer: W
+
+
+Question 137: What is the complementary DNA sequence for 5'-GCGAC-3'?
+W) 3'-TAGAA-5'
+X) 3'-AGGGA-5'
+Y) 3'-CGCTG-5'
+Z) 3'-CTATG-5'
+Answer: Y
+
+
+Question 138: What is the complementary DNA sequence for 5'-TGCATAC-3'?
+W) 3'-ACGTATG-5'
+X) 3'-TTGGGTG-5'
+Y) 3'-CCTTACA-5'
+Z) 3'-GGGCGCC-5'
+Answer: W
+
+
+Question 139: What is the complementary DNA sequence for 5'-CAAACC-3'?
+W) 3'-GCATGG-5'
+X) 3'-ACAGTT-5'
+Y) 3'-GTTTGG-5'
+Z) 3'-CGTCGA-5'
+Answer: Y
+
+
+Question 140: What is the complementary DNA sequence for 5'-GTCGACC-3'?
+W) 3'-ATCGCTG-5'
+X) 3'-GGTGGTA-5'
+Y) 3'-CAGCTGG-5'
+Z) 3'-TCCTCGC-5'
+Answer: Y
+
+
+Question 141: What is the complementary DNA sequence for 5'-CGACGA-3'?
+W) 3'-TAATAA-5'
+X) 3'-CCCGCC-5'
+Y) 3'-GCTGCT-5'
+Z) 3'-GCCGCG-5'
+Answer: Y
+
+
+Question 142: What is the complementary DNA sequence for 5'-AAGACT-3'?
+W) 3'-TCCCAC-5'
+X) 3'-TCGCCA-5'
+Y) 3'-TTCTGA-5'
+Z) 3'-TTGCGA-5'
+Answer: Y
+
+
+Question 143: What is the complementary DNA sequence for 5'-GCCGC-3'?
+W) 3'-CGGTA-5'
+X) 3'-CGGCG-5'
+Y) 3'-CAACT-5'
+Z) 3'-TCACT-5'
+Answer: X
+
+
+Question 144: What is the complementary DNA sequence for 5'-ATAG-3'?
+W) 3'-TGTA-5'
+X) 3'-AACT-5'
+Y) 3'-TATC-5'
+Z) 3'-CCTC-5'
+Answer: Y
+
+
+Question 145: What is the complementary DNA sequence for 5'-GCTTG-3'?
+W) 3'-AAGTG-5'
+X) 3'-CTCGC-5'
+Y) 3'-ATACG-5'
+Z) 3'-CGAAC-5'
+Answer: Z
+
+
+Question 146: What is the complementary DNA sequence for 5'-ACGCCT-3'?
+W) 3'-GCCACA-5'
+X) 3'-TGCGGA-5'
+Y) 3'-TCTAAG-5'
+Z) 3'-CGAGGC-5'
+Answer: X
+
+
+Question 147: What is the complementary DNA sequence for 5'-ACAAA-3'?
+W) 3'-ACACA-5'
+X) 3'-TTTTA-5'
+Y) 3'-TAGGT-5'
+Z) 3'-TGTTT-5'
+Answer: Z
+
+
+Question 148: What is the complementary DNA sequence for 5'-GTAGTT-3'?
+W) 3'-CTGCCA-5'
+X) 3'-CGACGG-5'
+Y) 3'-CTCATG-5'
+Z) 3'-CATCAA-5'
+Answer: Z
+
+
+Question 149: What is the complementary DNA sequence for 5'-TCGT-3'?
+W) 3'-GGGG-5'
+X) 3'-AGCA-5'
+Y) 3'-TCCA-5'
+Z) 3'-AGAA-5'
+Answer: X
+
+
+Question 150: What is the complementary DNA sequence for 5'-CTACGT-3'?
+W) 3'-CATAAT-5'
+X) 3'-GATGCA-5'
+Y) 3'-TCCACG-5'
+Z) 3'-GATGCC-5'
+Answer: X
+
+
+Question 151: What is the complementary DNA sequence for 5'-GTTTCA-3'?
+W) 3'-CGGACT-5'
+X) 3'-CAAAGT-5'
+Y) 3'-GAAACA-5'
+Z) 3'-CTCGCC-5'
+Answer: X
+
+
+Question 152: What is the complementary DNA sequence for 5'-TGCGAC-3'?
+W) 3'-GACGAG-5'
+X) 3'-CGAACC-5'
+Y) 3'-ACGCTG-5'
+Z) 3'-ATAAGG-5'
+Answer: Y
+
+
+Question 153: What is the complementary DNA sequence for 5'-ACCGTG-3'?
+W) 3'-TGGCAC-5'
+X) 3'-CGATGA-5'
+Y) 3'-GACAGC-5'
+Z) 3'-TCCCTT-5'
+Answer: W
+
+
+Question 154: What is the complementary DNA sequence for 5'-GGAGTAC-3'?
+W) 3'-TAACGCT-5'
+X) 3'-CCTCATG-5'
+Y) 3'-TACTCCT-5'
+Z) 3'-AACACGA-5'
+Answer: X
+
+
+Question 155: What is the complementary DNA sequence for 5'-CCACCTA-3'?
+W) 3'-CATAAGC-5'
+X) 3'-TGGAGCG-5'
+Y) 3'-GGTGGAT-5'
+Z) 3'-GACTCTT-5'
+Answer: Y
+
+
+Question 156: What is the complementary DNA sequence for 5'-TCAGC-3'?
+W) 3'-GGCCT-5'
+X) 3'-AGTCG-5'
+Y) 3'-ATACG-5'
+Z) 3'-ACAGG-5'
+Answer: X
+
+
+Question 157: What is the complementary DNA sequence for 5'-ATAGTGT-3'?
+W) 3'-CTTACTG-5'
+X) 3'-TTTCGTG-5'
+Y) 3'-TATCACA-5'
+Z) 3'-ACGCAAC-5'
+Answer: Y
+
+
+Question 158: What is the complementary DNA sequence for 5'-TTTCCGC-3'?
+W) 3'-AAAGGCG-5'
+X) 3'-AGTAAAA-5'
+Y) 3'-CTCAATT-5'
+Z) 3'-CCCAGAA-5'
+Answer: W
+
+
+Question 159: What is the complementary DNA sequence for 5'-GGCT-3'?
+W) 3'-ACCA-5'
+X) 3'-ACGT-5'
+Y) 3'-CCGA-5'
+Z) 3'-AAAA-5'
+Answer: Y
+
+
+Question 160: What is the complementary DNA sequence for 5'-TTCCCAA-3'?
+W) 3'-AAGGGTT-5'
+X) 3'-TGGTGTC-5'
+Y) 3'-AGCTTAA-5'
+Z) 3'-TGGGGGC-5'
+Answer: W
+
+
+Question 161: What is the complementary DNA sequence for 5'-GGTTC-3'?
+W) 3'-AGAAC-5'
+X) 3'-AAACG-5'
+Y) 3'-CCAAG-5'
+Z) 3'-CATGC-5'
+Answer: Y
+
+
+Question 162: What is the complementary DNA sequence for 5'-TACACGA-3'?
+W) 3'-CAATAGG-5'
+X) 3'-ATGTGCT-5'
+Y) 3'-GGGTTGG-5'
+Z) 3'-TGAAGTA-5'
+Answer: X
+
+
+Question 163: What is the complementary DNA sequence for 5'-TGACTG-3'?
+W) 3'-ATGGTA-5'
+X) 3'-ACTGAC-5'
+Y) 3'-CTACTA-5'
+Z) 3'-TGATTG-5'
+Answer: X
+
+
+Question 164: What is the complementary DNA sequence for 5'-TTGTTTC-3'?
+W) 3'-GCCTTTG-5'
+X) 3'-GCGCGCG-5'
+Y) 3'-AGCTATA-5'
+Z) 3'-AACAAAG-5'
+Answer: Z
+
+
+Question 165: What is the complementary DNA sequence for 5'-AGTCT-3'?
+W) 3'-TCAGA-5'
+X) 3'-CCAGT-5'
+Y) 3'-AAGGA-5'
+Z) 3'-TTCGT-5'
+Answer: W
+
+
+Question 166: What is the complementary DNA sequence for 5'-TTCA-3'?
+W) 3'-AAGT-5'
+X) 3'-ATTT-5'
+Y) 3'-CGAA-5'
+Z) 3'-AGTC-5'
+Answer: W
+
+
+Question 167: What is the complementary DNA sequence for 5'-CCTAGA-3'?
+W) 3'-GACAGT-5'
+X) 3'-ATCCAT-5'
+Y) 3'-GGATCT-5'
+Z) 3'-AGTAGC-5'
+Answer: Y
+
+
+Question 168: What is the complementary DNA sequence for 5'-CAGACGT-3'?
+W) 3'-ACCCCCC-5'
+X) 3'-TGCTTGC-5'
+Y) 3'-GTCTGCA-5'
+Z) 3'-TTCGTTT-5'
+Answer: Y
+
+
+Question 169: What is the complementary DNA sequence for 5'-TTAGG-3'?
+W) 3'-ATTCT-5'
+X) 3'-AATCC-5'
+Y) 3'-TATTA-5'
+Z) 3'-ACTTT-5'
+Answer: X
+
+
+Question 170: What is the complementary DNA sequence for 5'-TCGTGA-3'?
+W) 3'-AGCACT-5'
+X) 3'-AACAAT-5'
+Y) 3'-CCAATT-5'
+Z) 3'-TCCTCA-5'
+Answer: W
+
+
+Question 171: What is the complementary DNA sequence for 5'-CAAGATT-3'?
+W) 3'-CTGAGAC-5'
+X) 3'-CAGTTAG-5'
+Y) 3'-ACATGGA-5'
+Z) 3'-GTTCTAA-5'
+Answer: Z
+
+
+Question 172: What is the complementary DNA sequence for 5'-TTTACG-3'?
+W) 3'-GATCTG-5'
+X) 3'-ATAGCT-5'
+Y) 3'-AGCCCA-5'
+Z) 3'-AAATGC-5'
+Answer: Z
+
+
+Question 173: What is the complementary DNA sequence for 5'-CGAAG-3'?
+W) 3'-GCTTC-5'
+X) 3'-GGGTA-5'
+Y) 3'-TTCAA-5'
+Z) 3'-CTAGT-5'
+Answer: W
+
+
+Question 174: What is the complementary DNA sequence for 5'-GCGACT-3'?
+W) 3'-CGCTGA-5'
+X) 3'-GGACGA-5'
+Y) 3'-GCTGCC-5'
+Z) 3'-GCTCTA-5'
+Answer: W
+
+
+Question 175: What is the complementary DNA sequence for 5'-ACAGAG-3'?
+W) 3'-ATACGC-5'
+X) 3'-GATGAG-5'
+Y) 3'-CCTTCA-5'
+Z) 3'-TGTCTC-5'
+Answer: Z
+
+
+Question 176: What is the complementary DNA sequence for 5'-GACCCG-3'?
+W) 3'-ACCGCC-5'
+X) 3'-CGCCCT-5'
+Y) 3'-AACAAT-5'
+Z) 3'-CTGGGC-5'
+Answer: Z
+
+
+Question 177: What is the complementary DNA sequence for 5'-CCCCGGC-3'?
+W) 3'-CTCCTTG-5'
+X) 3'-AATAAGA-5'
+Y) 3'-GGGGCCG-5'
+Z) 3'-GGTCGTA-5'
+Answer: Y
+
+
+Question 178: What is the complementary DNA sequence for 5'-GGGG-3'?
+W) 3'-ATTC-5'
+X) 3'-CCCC-5'
+Y) 3'-TATG-5'
+Z) 3'-CCCA-5'
+Answer: X
+
+
+Question 179: What is the complementary DNA sequence for 5'-GAGCCG-3'?
+W) 3'-CTCCAA-5'
+X) 3'-CTCGGC-5'
+Y) 3'-ACCAGT-5'
+Z) 3'-GTGTGG-5'
+Answer: X
+
+
+Question 180: What is the complementary DNA sequence for 5'-CACAAC-3'?
+W) 3'-TAACAT-5'
+X) 3'-GTGTTG-5'
+Y) 3'-ACGAAC-5'
+Z) 3'-TTCCAT-5'
+Answer: X
+
+
+Question 181: What is the complementary DNA sequence for 5'-ATTCC-3'?
+W) 3'-ATTAT-5'
+X) 3'-GCTGA-5'
+Y) 3'-TAAGG-5'
+Z) 3'-CGATG-5'
+Answer: Y
+
+
+Question 182: What is the complementary DNA sequence for 5'-CACA-3'?
+W) 3'-ACGC-5'
+X) 3'-GTGT-5'
+Y) 3'-GTTG-5'
+Z) 3'-TTTC-5'
+Answer: X
+
+
+Question 183: What is the complementary DNA sequence for 5'-CCAATGC-3'?
+W) 3'-GAGCATG-5'
+X) 3'-ACATTGC-5'
+Y) 3'-ATGCACT-5'
+Z) 3'-GGTTACG-5'
+Answer: Z
+
+
+Question 184: What is the complementary DNA sequence for 5'-TTATTC-3'?
+W) 3'-AGCGCG-5'
+X) 3'-AATAAG-5'
+Y) 3'-GGACTA-5'
+Z) 3'-GCATGC-5'
+Answer: X
+
+
+Question 185: What is the complementary DNA sequence for 5'-TTCTA-3'?
+W) 3'-GCCAA-5'
+X) 3'-CCCAA-5'
+Y) 3'-CGGTG-5'
+Z) 3'-AAGAT-5'
+Answer: Z
+
+
+Question 186: What is the complementary DNA sequence for 5'-CGGTT-3'?
+W) 3'-GAAGC-5'
+X) 3'-TGGGT-5'
+Y) 3'-GCCAA-5'
+Z) 3'-TCAAC-5'
+Answer: Y
+
+
+Question 187: What is the complementary DNA sequence for 5'-CCCTG-3'?
+W) 3'-GGGAC-5'
+X) 3'-ATTCG-5'
+Y) 3'-TAAAG-5'
+Z) 3'-GAGGG-5'
+Answer: W
+
+
+Question 188: What is the complementary DNA sequence for 5'-GTGCGCT-3'?
+W) 3'-TGGATGG-5'
+X) 3'-CACGCGA-5'
+Y) 3'-GCCCCAA-5'
+Z) 3'-TGGACGA-5'
+Answer: X
+
+
+Question 189: What is the complementary DNA sequence for 5'-TGCGTCA-3'?
+W) 3'-CCACACC-5'
+X) 3'-ATGGGAT-5'
+Y) 3'-CACGCTT-5'
+Z) 3'-ACGCAGT-5'
+Answer: Z
+
+
+Question 190: What is the complementary DNA sequence for 5'-TTGGC-3'?
+W) 3'-AACCG-5'
+X) 3'-CAGAC-5'
+Y) 3'-TTGTC-5'
+Z) 3'-AAACT-5'
+Answer: W
+
+
+Question 191: What is the complementary DNA sequence for 5'-CTAC-3'?
+W) 3'-GTCG-5'
+X) 3'-TTCA-5'
+Y) 3'-GATG-5'
+Z) 3'-AAAT-5'
+Answer: Y
+
+
+Question 192: What is the complementary DNA sequence for 5'-GATACC-3'?
+W) 3'-GATTTA-5'
+X) 3'-CTATGG-5'
+Y) 3'-CCGATC-5'
+Z) 3'-TCTACT-5'
+Answer: X
+
+
+Question 193: What is the complementary DNA sequence for 5'-CACCG-3'?
+W) 3'-CTCGT-5'
+X) 3'-GTGGC-5'
+Y) 3'-TCGGT-5'
+Z) 3'-ACCCT-5'
+Answer: X
+
+
+Question 194: What is the complementary DNA sequence for 5'-GAACAG-3'?
+W) 3'-AATGTC-5'
+X) 3'-GGTTCC-5'
+Y) 3'-TACTCC-5'
+Z) 3'-CTTGTC-5'
+Answer: Z
+
+
+Question 195: What is the complementary DNA sequence for 5'-GGTTAA-3'?
+W) 3'-ACTGGA-5'
+X) 3'-CCAATT-5'
+Y) 3'-GACCCC-5'
+Z) 3'-ATGGTG-5'
+Answer: X
+
+
+Question 196: What is the complementary DNA sequence for 5'-GCGCTC-3'?
+W) 3'-GGCTAT-5'
+X) 3'-CGCGAG-5'
+Y) 3'-AGGGTA-5'
+Z) 3'-TATGAT-5'
+Answer: X
+
+
+Question 197: What is the complementary DNA sequence for 5'-TTGTT-3'?
+W) 3'-AATGA-5'
+X) 3'-GAGCG-5'
+Y) 3'-TAGGT-5'
+Z) 3'-AACAA-5'
+Answer: Z
+
+
+Question 198: What is the complementary DNA sequence for 5'-CTGT-3'?
+W) 3'-ATTT-5'
+X) 3'-GACA-5'
+Y) 3'-AATA-5'
+Z) 3'-CCAT-5'
+Answer: X
+
+
+Question 199: What is the complementary DNA sequence for 5'-CATGCA-3'?
+W) 3'-TAGGAG-5'
+X) 3'-GTACGT-5'
+Y) 3'-CGCCTT-5'
+Z) 3'-AGATAT-5'
+Answer: X
+
+
+Question 200: What is the complementary DNA sequence for 5'-GGTT-3'?
+W) 3'-CCAA-5'
+X) 3'-AGCG-5'
+Y) 3'-CCTA-5'
+Z) 3'-TCCG-5'
+Answer: W
+
+
+Question 201: What is the mRNA sequence transcribed from the DNA sequence 3'-AATG-5'?
+W) 5'-UCAC-3'
+X) 5'-UUAC-3'
+Y) 5'-UUCC-3'
+Z) 5'-AUUC-3'
+Answer: X
+
+
+Question 202: What is the mRNA sequence transcribed from the DNA sequence 3'-GTTGC-5'?
+W) 5'-GUGCA-3'
+X) 5'-CUCGA-3'
+Y) 5'-CAACG-3'
+Z) 5'-CAGCU-3'
+Answer: Y
+
+
+Question 203: What is the mRNA sequence transcribed from the DNA sequence 3'-TCAAACG-5'?
+W) 5'-GGCUUCU-3'
+X) 5'-CGGCCCG-3'
+Y) 5'-AGUUUGC-3'
+Z) 5'-AGUGCGG-3'
+Answer: Y
+
+
+Question 204: What is the mRNA sequence transcribed from the DNA sequence 3'-ACGA-5'?
+W) 5'-UAUC-3'
+X) 5'-UGCU-3'
+Y) 5'-AAAC-3'
+Z) 5'-CCUU-3'
+Answer: X
+
+
+Question 205: What is the mRNA sequence transcribed from the DNA sequence 3'-GCAAAC-5'?
+W) 5'-CGUUUG-3'
+X) 5'-CUUACC-3'
+Y) 5'-UUGACU-3'
+Z) 5'-UGCUAC-3'
+Answer: W
+
+
+Question 206: What is the mRNA sequence transcribed from the DNA sequence 3'-GCAATTC-5'?
+W) 5'-CGUUAAG-3'
+X) 5'-GACCGGU-3'
+Y) 5'-CCCCGCA-3'
+Z) 5'-CCCACCC-3'
+Answer: W
+
+
+Question 207: What is the mRNA sequence transcribed from the DNA sequence 3'-TGGTAG-5'?
+W) 5'-CGUAUG-3'
+X) 5'-CCCAUA-3'
+Y) 5'-AGGCUA-3'
+Z) 5'-ACCAUC-3'
+Answer: Z
+
+
+Question 208: What is the mRNA sequence transcribed from the DNA sequence 3'-GCCTA-5'?
+W) 5'-GGCGG-3'
+X) 5'-GAACA-3'
+Y) 5'-CGGAU-3'
+Z) 5'-GUUCC-3'
+Answer: Y
+
+
+Question 209: What is the mRNA sequence transcribed from the DNA sequence 3'-CGAA-5'?
+W) 5'-GCUU-3'
+X) 5'-CUCU-3'
+Y) 5'-UUCG-3'
+Z) 5'-AGAG-3'
+Answer: W
+
+
+Question 210: What is the mRNA sequence transcribed from the DNA sequence 3'-ACTG-5'?
+W) 5'-CCUU-3'
+X) 5'-UGAC-3'
+Y) 5'-CACG-3'
+Z) 5'-GUCU-3'
+Answer: X
+
+
+Question 211: What is the mRNA sequence transcribed from the DNA sequence 3'-CCGAAA-5'?
+W) 5'-GCGGCC-3'
+X) 5'-AGACGC-3'
+Y) 5'-GGCUUU-3'
+Z) 5'-UAUAAA-3'
+Answer: Y
+
+
+Question 212: What is the mRNA sequence transcribed from the DNA sequence 3'-TCATGG-5'?
+W) 5'-CCGUGU-3'
+X) 5'-AGAUCA-3'
+Y) 5'-AGUACC-3'
+Z) 5'-AUGUGA-3'
+Answer: Y
+
+
+Question 213: What is the mRNA sequence transcribed from the DNA sequence 3'-CAACTTG-5'?
+W) 5'-GUUGAAC-3'
+X) 5'-CCGUUGG-3'
+Y) 5'-GCAGGUC-3'
+Z) 5'-ACGCUCG-3'
+Answer: W
+
+
+Question 214: What is the mRNA sequence transcribed from the DNA sequence 3'-AGCTGTG-5'?
+W) 5'-UCGACAC-3'
+X) 5'-GUACGCU-3'
+Y) 5'-UACUGUA-3'
+Z) 5'-AAGAUGC-3'
+Answer: W
+
+
+Question 215: What is the mRNA sequence transcribed from the DNA sequence 3'-AAGA-5'?
+W) 5'-CGAC-3'
+X) 5'-UUCU-3'
+Y) 5'-AGCU-3'
+Z) 5'-GAAC-3'
+Answer: X
+
+
+Question 216: What is the mRNA sequence transcribed from the DNA sequence 3'-CAAAT-5'?
+W) 5'-UGGCU-3'
+X) 5'-GUUUA-3'
+Y) 5'-AUGAG-3'
+Z) 5'-GUACG-3'
+Answer: X
+
+
+Question 217: What is the mRNA sequence transcribed from the DNA sequence 3'-CTAA-5'?
+W) 5'-CGAU-3'
+X) 5'-UCCU-3'
+Y) 5'-GAAG-3'
+Z) 5'-GAUU-3'
+Answer: Z
+
+
+Question 218: What is the mRNA sequence transcribed from the DNA sequence 3'-CCTC-5'?
+W) 5'-GUAA-3'
+X) 5'-CCCC-3'
+Y) 5'-UUAA-3'
+Z) 5'-GGAG-3'
+Answer: Z
+
+
+Question 219: What is the mRNA sequence transcribed from the DNA sequence 3'-TCAGGC-5'?
+W) 5'-AAAGGU-3'
+X) 5'-GGCUCA-3'
+Y) 5'-AGUCCG-3'
+Z) 5'-AGAUAU-3'
+Answer: Y
+
+
+Question 220: What is the mRNA sequence transcribed from the DNA sequence 3'-GAGT-5'?
+W) 5'-GUAC-3'
+X) 5'-CUCA-3'
+Y) 5'-UACU-3'
+Z) 5'-AGCC-3'
+Answer: X
+
+
+Question 221: What is the mRNA sequence transcribed from the DNA sequence 3'-TTGA-5'?
+W) 5'-AACU-3'
+X) 5'-GUUA-3'
+Y) 5'-ACAA-3'
+Z) 5'-CCGA-3'
+Answer: W
+
+
+Question 222: What is the mRNA sequence transcribed from the DNA sequence 3'-GATAG-5'?
+W) 5'-GGCCA-3'
+X) 5'-CUAUC-3'
+Y) 5'-UCGAU-3'
+Z) 5'-UAUGA-3'
+Answer: X
+
+
+Question 223: What is the mRNA sequence transcribed from the DNA sequence 3'-GGTAG-5'?
+W) 5'-CAUAG-3'
+X) 5'-CCUUG-3'
+Y) 5'-CUAUA-3'
+Z) 5'-CCAUC-3'
+Answer: Z
+
+
+Question 224: What is the mRNA sequence transcribed from the DNA sequence 3'-ATCCGT-5'?
+W) 5'-ACAGCC-3'
+X) 5'-UAGGCA-3'
+Y) 5'-GCCCAC-3'
+Z) 5'-ACUCCU-3'
+Answer: X
+
+
+Question 225: What is the mRNA sequence transcribed from the DNA sequence 3'-GATCTA-5'?
+W) 5'-AUGCGA-3'
+X) 5'-CACAGA-3'
+Y) 5'-CAUUCU-3'
+Z) 5'-CUAGAU-3'
+Answer: Z
+
+
+Question 226: What is the mRNA sequence transcribed from the DNA sequence 3'-TCACCCT-5'?
+W) 5'-AGUGGGA-3'
+X) 5'-CUGCCUG-3'
+Y) 5'-CGGGGAG-3'
+Z) 5'-UAGUGAU-3'
+Answer: W
+
+
+Question 227: What is the mRNA sequence transcribed from the DNA sequence 3'-TCTAGAG-5'?
+W) 5'-AGAUCUC-3'
+X) 5'-CUUCUCC-3'
+Y) 5'-UGGAUUA-3'
+Z) 5'-GUUAGAU-3'
+Answer: W
+
+
+Question 228: What is the mRNA sequence transcribed from the DNA sequence 3'-GGCCA-5'?
+W) 5'-UCAUG-3'
+X) 5'-CCGGU-3'
+Y) 5'-ACAUU-3'
+Z) 5'-AAUAU-3'
+Answer: X
+
+
+Question 229: What is the mRNA sequence transcribed from the DNA sequence 3'-GAGCCCT-5'?
+W) 5'-GUAUACA-3'
+X) 5'-CUCGGGA-3'
+Y) 5'-ACAUUCA-3'
+Z) 5'-GGGGCGC-3'
+Answer: X
+
+
+Question 230: What is the mRNA sequence transcribed from the DNA sequence 3'-AGCG-5'?
+W) 5'-UCGC-3'
+X) 5'-CACU-3'
+Y) 5'-CUUA-3'
+Z) 5'-GUUC-3'
+Answer: W
+
+
+Question 231: What is the mRNA sequence transcribed from the DNA sequence 3'-GACTGGT-5'?
+W) 5'-AUGUCCG-3'
+X) 5'-GGUGACA-3'
+Y) 5'-CUGACCA-3'
+Z) 5'-AUGGAGG-3'
+Answer: Y
+
+
+Question 232: What is the mRNA sequence transcribed from the DNA sequence 3'-TTGTCTC-5'?
+W) 5'-AGAUCCA-3'
+X) 5'-AACAGAG-3'
+Y) 5'-CUAGCAG-3'
+Z) 5'-UGCUUUU-3'
+Answer: X
+
+
+Question 233: What is the mRNA sequence transcribed from the DNA sequence 3'-CCGAAT-5'?
+W) 5'-GGCUUA-3'
+X) 5'-GAAUUG-3'
+Y) 5'-UUCGCG-3'
+Z) 5'-AAGCGG-3'
+Answer: W
+
+
+Question 234: What is the mRNA sequence transcribed from the DNA sequence 3'-CTAA-5'?
+W) 5'-AACG-3'
+X) 5'-GCCG-3'
+Y) 5'-UGUG-3'
+Z) 5'-GAUU-3'
+Answer: Z
+
+
+Question 235: What is the mRNA sequence transcribed from the DNA sequence 3'-AAAT-5'?
+W) 5'-CAAC-3'
+X) 5'-UUUA-3'
+Y) 5'-CAUG-3'
+Z) 5'-CGAU-3'
+Answer: X
+
+
+Question 236: What is the mRNA sequence transcribed from the DNA sequence 3'-AACGA-5'?
+W) 5'-GGAAG-3'
+X) 5'-CAAUA-3'
+Y) 5'-UUGCU-3'
+Z) 5'-CGGGA-3'
+Answer: Y
+
+
+Question 237: What is the mRNA sequence transcribed from the DNA sequence 3'-AGGG-5'?
+W) 5'-AAAU-3'
+X) 5'-ACAC-3'
+Y) 5'-UACC-3'
+Z) 5'-UCCC-3'
+Answer: Z
+
+
+Question 238: What is the mRNA sequence transcribed from the DNA sequence 3'-GGTCA-5'?
+W) 5'-CAGGU-3'
+X) 5'-CUGUU-3'
+Y) 5'-CUUUC-3'
+Z) 5'-CCAGU-3'
+Answer: Z
+
+
+Question 239: What is the mRNA sequence transcribed from the DNA sequence 3'-TTCC-5'?
+W) 5'-GAUG-3'
+X) 5'-UGGG-3'
+Y) 5'-GUAC-3'
+Z) 5'-AAGG-3'
+Answer: Z
+
+
+Question 240: What is the mRNA sequence transcribed from the DNA sequence 3'-ATCG-5'?
+W) 5'-UAGC-3'
+X) 5'-CGAU-3'
+Y) 5'-AAGU-3'
+Z) 5'-AUUG-3'
+Answer: W
+
+
+Question 241: What is the mRNA sequence transcribed from the DNA sequence 3'-TCTTTG-5'?
+W) 5'-ACAAGG-3'
+X) 5'-AUUCAA-3'
+Y) 5'-AGAAAC-3'
+Z) 5'-AACGUC-3'
+Answer: Y
+
+
+Question 242: What is the mRNA sequence transcribed from the DNA sequence 3'-TTTGCGA-5'?
+W) 5'-CGUCUAC-3'
+X) 5'-AAACGCU-3'
+Y) 5'-UACCCCU-3'
+Z) 5'-UGUUUUA-3'
+Answer: X
+
+
+Question 243: What is the mRNA sequence transcribed from the DNA sequence 3'-TCTCGTA-5'?
+W) 5'-UACGAAC-3'
+X) 5'-UUGUAAA-3'
+Y) 5'-CAUGCGC-3'
+Z) 5'-AGAGCAU-3'
+Answer: Z
+
+
+Question 244: What is the mRNA sequence transcribed from the DNA sequence 3'-TCCGTTC-5'?
+W) 5'-GACUCGU-3'
+X) 5'-CUAGUAC-3'
+Y) 5'-CUUUGGG-3'
+Z) 5'-AGGCAAG-3'
+Answer: Z
+
+
+Question 245: What is the mRNA sequence transcribed from the DNA sequence 3'-TCCTTA-5'?
+W) 5'-AGGAAU-3'
+X) 5'-GCUCUU-3'
+Y) 5'-CAUCGG-3'
+Z) 5'-UCCCGC-3'
+Answer: W
+
+
+Question 246: What is the mRNA sequence transcribed from the DNA sequence 3'-CTAA-5'?
+W) 5'-GCUC-3'
+X) 5'-GAAU-3'
+Y) 5'-GAUU-3'
+Z) 5'-CUUU-3'
+Answer: Y
+
+
+Question 247: What is the mRNA sequence transcribed from the DNA sequence 3'-AAGTC-5'?
+W) 5'-GUAGA-3'
+X) 5'-UGCAG-3'
+Y) 5'-UUCAG-3'
+Z) 5'-UCAAA-3'
+Answer: Y
+
+
+Question 248: What is the mRNA sequence transcribed from the DNA sequence 3'-CGTGGA-5'?
+W) 5'-GCGCGA-3'
+X) 5'-CUACGU-3'
+Y) 5'-CCACCG-3'
+Z) 5'-GCACCU-3'
+Answer: Z
+
+
+Question 249: What is the mRNA sequence transcribed from the DNA sequence 3'-TTCTTG-5'?
+W) 5'-AAGAAC-3'
+X) 5'-GCGCGA-3'
+Y) 5'-UUCGGG-3'
+Z) 5'-UCGAGC-3'
+Answer: W
+
+
+Question 250: What is the mRNA sequence transcribed from the DNA sequence 3'-CATA-5'?
+W) 5'-GGGU-3'
+X) 5'-GGUG-3'
+Y) 5'-GUAU-3'
+Z) 5'-AUUG-3'
+Answer: Y
+
+
+Question 251: What is the mRNA sequence transcribed from the DNA sequence 3'-GGTT-5'?
+W) 5'-GCCU-3'
+X) 5'-CGCU-3'
+Y) 5'-GCGG-3'
+Z) 5'-CCAA-3'
+Answer: Z
+
+
+Question 252: What is the mRNA sequence transcribed from the DNA sequence 3'-GATCTAA-5'?
+W) 5'-UUCUCGG-3'
+X) 5'-CGGGGCG-3'
+Y) 5'-AUAGGGA-3'
+Z) 5'-CUAGAUU-3'
+Answer: Z
+
+
+Question 253: What is the mRNA sequence transcribed from the DNA sequence 3'-GACA-5'?
+W) 5'-UGAC-3'
+X) 5'-UUUA-3'
+Y) 5'-UGUC-3'
+Z) 5'-CUGU-3'
+Answer: Z
+
+
+Question 254: What is the mRNA sequence transcribed from the DNA sequence 3'-GGTCT-5'?
+W) 5'-AUACC-3'
+X) 5'-UAAGC-3'
+Y) 5'-AAGAG-3'
+Z) 5'-CCAGA-3'
+Answer: Z
+
+
+Question 255: What is the mRNA sequence transcribed from the DNA sequence 3'-GGTAT-5'?
+W) 5'-CCAUA-3'
+X) 5'-UCACA-3'
+Y) 5'-GUUCC-3'
+Z) 5'-GCGAC-3'
+Answer: W
+
+
+Question 256: What is the mRNA sequence transcribed from the DNA sequence 3'-AGAAAT-5'?
+W) 5'-UGUGUU-3'
+X) 5'-UGUGGC-3'
+Y) 5'-UCUUUA-3'
+Z) 5'-UUACUU-3'
+Answer: Y
+
+
+Question 257: What is the mRNA sequence transcribed from the DNA sequence 3'-GAGCGAA-5'?
+W) 5'-AAUCUGG-3'
+X) 5'-CUCGCUU-3'
+Y) 5'-AUCUUGG-3'
+Z) 5'-AAGAACU-3'
+Answer: X
+
+
+Question 258: What is the mRNA sequence transcribed from the DNA sequence 3'-TAGCG-5'?
+W) 5'-GGAAG-3'
+X) 5'-CUGCA-3'
+Y) 5'-ACCUC-3'
+Z) 5'-AUCGC-3'
+Answer: Z
+
+
+Question 259: What is the mRNA sequence transcribed from the DNA sequence 3'-GGGGAG-5'?
+W) 5'-CCCCUC-3'
+X) 5'-AUUCGA-3'
+Y) 5'-GUGCCC-3'
+Z) 5'-AUAGUA-3'
+Answer: W
+
+
+Question 260: What is the mRNA sequence transcribed from the DNA sequence 3'-GCTATA-5'?
+W) 5'-UACACG-3'
+X) 5'-CCCGCC-3'
+Y) 5'-UUUCAU-3'
+Z) 5'-CGAUAU-3'
+Answer: Z
+
+
+Question 261: What is the mRNA sequence transcribed from the DNA sequence 3'-AGTGCTA-5'?
+W) 5'-UCACGAU-3'
+X) 5'-CUGGAUC-3'
+Y) 5'-UCCGCCU-3'
+Z) 5'-UCGUCGA-3'
+Answer: W
+
+
+Question 262: What is the mRNA sequence transcribed from the DNA sequence 3'-CTGGAAC-5'?
+W) 5'-UCGGCUC-3'
+X) 5'-CGACAAA-3'
+Y) 5'-GUCCUUA-3'
+Z) 5'-GACCUUG-3'
+Answer: Z
+
+
+Question 263: What is the mRNA sequence transcribed from the DNA sequence 3'-CAAT-5'?
+W) 5'-GUUA-3'
+X) 5'-AAGG-3'
+Y) 5'-CAGA-3'
+Z) 5'-UAGC-3'
+Answer: W
+
+
+Question 264: What is the mRNA sequence transcribed from the DNA sequence 3'-GCAC-5'?
+W) 5'-CGUG-3'
+X) 5'-CGGC-3'
+Y) 5'-CCUU-3'
+Z) 5'-GAAC-3'
+Answer: W
+
+
+Question 265: What is the mRNA sequence transcribed from the DNA sequence 3'-CCTTA-5'?
+W) 5'-UAAGU-3'
+X) 5'-GUUUG-3'
+Y) 5'-GGAAU-3'
+Z) 5'-UCAUA-3'
+Answer: Y
+
+
+Question 266: What is the mRNA sequence transcribed from the DNA sequence 3'-GGCCGGG-5'?
+W) 5'-AUGUAAA-3'
+X) 5'-CUCCAAC-3'
+Y) 5'-CCGGCCC-3'
+Z) 5'-GUAGGAA-3'
+Answer: Y
+
+
+Question 267: What is the mRNA sequence transcribed from the DNA sequence 3'-CTGG-5'?
+W) 5'-GGCG-3'
+X) 5'-AGGG-3'
+Y) 5'-GGCA-3'
+Z) 5'-GACC-3'
+Answer: Z
+
+
+Question 268: What is the mRNA sequence transcribed from the DNA sequence 3'-CAAA-5'?
+W) 5'-GAAG-3'
+X) 5'-UCCG-3'
+Y) 5'-UGAU-3'
+Z) 5'-GUUU-3'
+Answer: Z
+
+
+Question 269: What is the mRNA sequence transcribed from the DNA sequence 3'-TATCTC-5'?
+W) 5'-AGCGAU-3'
+X) 5'-UGCCAU-3'
+Y) 5'-AUAGAG-3'
+Z) 5'-GGGCCG-3'
+Answer: Y
+
+
+Question 270: What is the mRNA sequence transcribed from the DNA sequence 3'-TAGA-5'?
+W) 5'-CGGG-3'
+X) 5'-GGUG-3'
+Y) 5'-AUCU-3'
+Z) 5'-CGCU-3'
+Answer: Y
+
+
+Question 271: What is the mRNA sequence transcribed from the DNA sequence 3'-CTACG-5'?
+W) 5'-GAUGC-3'
+X) 5'-AUAUC-3'
+Y) 5'-CAGUA-3'
+Z) 5'-CCGGU-3'
+Answer: W
+
+
+Question 272: What is the mRNA sequence transcribed from the DNA sequence 3'-AGCTG-5'?
+W) 5'-UCGAC-3'
+X) 5'-UUCCG-3'
+Y) 5'-UCAGG-3'
+Z) 5'-UCAUA-3'
+Answer: W
+
+
+Question 273: What is the mRNA sequence transcribed from the DNA sequence 3'-CGCATC-5'?
+W) 5'-GCGUAG-3'
+X) 5'-ACAGUA-3'
+Y) 5'-ACUCGG-3'
+Z) 5'-UUAUAA-3'
+Answer: W
+
+
+Question 274: What is the mRNA sequence transcribed from the DNA sequence 3'-CGCTACT-5'?
+W) 5'-UCAUUUA-3'
+X) 5'-ACGAGAU-3'
+Y) 5'-GCGAUGA-3'
+Z) 5'-UGCCCUA-3'
+Answer: Y
+
+
+Question 275: What is the mRNA sequence transcribed from the DNA sequence 3'-GTTA-5'?
+W) 5'-AUUU-3'
+X) 5'-CACA-3'
+Y) 5'-CAAU-3'
+Z) 5'-UUGG-3'
+Answer: Y
+
+
+Question 276: What is the mRNA sequence transcribed from the DNA sequence 3'-CACACCT-5'?
+W) 5'-GUACUUA-3'
+X) 5'-AACGUCC-3'
+Y) 5'-AGCGGCG-3'
+Z) 5'-GUGUGGA-3'
+Answer: Z
+
+
+Question 277: What is the mRNA sequence transcribed from the DNA sequence 3'-TAGG-5'?
+W) 5'-CUGU-3'
+X) 5'-AACU-3'
+Y) 5'-CACU-3'
+Z) 5'-AUCC-3'
+Answer: Z
+
+
+Question 278: What is the mRNA sequence transcribed from the DNA sequence 3'-TAGAG-5'?
+W) 5'-AUCUC-3'
+X) 5'-UAAGU-3'
+Y) 5'-GGAAC-3'
+Z) 5'-CAGAC-3'
+Answer: W
+
+
+Question 279: What is the mRNA sequence transcribed from the DNA sequence 3'-TTCA-5'?
+W) 5'-CCAG-3'
+X) 5'-CACU-3'
+Y) 5'-AAGU-3'
+Z) 5'-ACGA-3'
+Answer: Y
+
+
+Question 280: What is the mRNA sequence transcribed from the DNA sequence 3'-GCTGT-5'?
+W) 5'-UUCCC-3'
+X) 5'-AGUCG-3'
+Y) 5'-AUGUG-3'
+Z) 5'-CGACA-3'
+Answer: Z
+
+
+Question 281: What is the mRNA sequence transcribed from the DNA sequence 3'-ACGCGG-5'?
+W) 5'-GUGAGC-3'
+X) 5'-GCUCUA-3'
+Y) 5'-ACGGGC-3'
+Z) 5'-UGCGCC-3'
+Answer: Z
+
+
+Question 282: What is the mRNA sequence transcribed from the DNA sequence 3'-CCTTAGC-5'?
+W) 5'-CGGUAGU-3'
+X) 5'-GGAAUCG-3'
+Y) 5'-CUGGGAU-3'
+Z) 5'-AACGCCA-3'
+Answer: X
+
+
+Question 283: What is the mRNA sequence transcribed from the DNA sequence 3'-GGATC-5'?
+W) 5'-CAGCA-3'
+X) 5'-CCUAG-3'
+Y) 5'-CCACC-3'
+Z) 5'-UCAAC-3'
+Answer: X
+
+
+Question 284: What is the mRNA sequence transcribed from the DNA sequence 3'-ACGCCT-5'?
+W) 5'-CUGCGA-3'
+X) 5'-UGCGGA-3'
+Y) 5'-UGGAUU-3'
+Z) 5'-GUGUCU-3'
+Answer: X
+
+
+Question 285: What is the mRNA sequence transcribed from the DNA sequence 3'-AACACGT-5'?
+W) 5'-UAUGGGC-3'
+X) 5'-AAAUCAU-3'
+Y) 5'-GCCUUAA-3'
+Z) 5'-UUGUGCA-3'
+Answer: Z
+
+
+Question 286: What is the mRNA sequence transcribed from the DNA sequence 3'-AAAT-5'?
+W) 5'-GAAG-3'
+X) 5'-CCUU-3'
+Y) 5'-UUCA-3'
+Z) 5'-UUUA-3'
+Answer: Z
+
+
+Question 287: What is the mRNA sequence transcribed from the DNA sequence 3'-GGCTT-5'?
+W) 5'-CCGAA-3'
+X) 5'-ACCAA-3'
+Y) 5'-CCGGA-3'
+Z) 5'-UCACC-3'
+Answer: W
+
+
+Question 288: What is the mRNA sequence transcribed from the DNA sequence 3'-CTAGATT-5'?
+W) 5'-GGUGGAU-3'
+X) 5'-UUACCAC-3'
+Y) 5'-GAUCUAA-3'
+Z) 5'-GGUAAGG-3'
+Answer: Y
+
+
+Question 289: What is the mRNA sequence transcribed from the DNA sequence 3'-CTCGCTA-5'?
+W) 5'-GAGCGAU-3'
+X) 5'-AGUAAAU-3'
+Y) 5'-UGAAAAA-3'
+Z) 5'-CACGUCA-3'
+Answer: W
+
+
+Question 290: What is the mRNA sequence transcribed from the DNA sequence 3'-GATA-5'?
+W) 5'-AAUA-3'
+X) 5'-UAGA-3'
+Y) 5'-CUAU-3'
+Z) 5'-GACG-3'
+Answer: Y
+
+
+Question 291: What is the mRNA sequence transcribed from the DNA sequence 3'-AGCGGGG-5'?
+W) 5'-UCGAACA-3'
+X) 5'-GAAGGAU-3'
+Y) 5'-UCGCCCC-3'
+Z) 5'-CGUAGGG-3'
+Answer: Y
+
+
+Question 292: What is the mRNA sequence transcribed from the DNA sequence 3'-GCATGGT-5'?
+W) 5'-AAUUAGU-3'
+X) 5'-CCGCAGU-3'
+Y) 5'-CACCUGU-3'
+Z) 5'-CGUACCA-3'
+Answer: Z
+
+
+Question 293: What is the mRNA sequence transcribed from the DNA sequence 3'-TTCTCT-5'?
+W) 5'-ACUAGC-3'
+X) 5'-AAGAGA-3'
+Y) 5'-CGGAAA-3'
+Z) 5'-UUGUUA-3'
+Answer: X
+
+
+Question 294: What is the mRNA sequence transcribed from the DNA sequence 3'-TCGGAC-5'?
+W) 5'-CAACCU-3'
+X) 5'-AGCCUG-3'
+Y) 5'-UUGGGG-3'
+Z) 5'-ACGGGA-3'
+Answer: X
+
+
+Question 295: What is the mRNA sequence transcribed from the DNA sequence 3'-GTGTTG-5'?
+W) 5'-CACAAC-3'
+X) 5'-CUCCAA-3'
+Y) 5'-AAGUCU-3'
+Z) 5'-CUAUGG-3'
+Answer: W
+
+
+Question 296: What is the mRNA sequence transcribed from the DNA sequence 3'-ATCAACT-5'?
+W) 5'-GAACACU-3'
+X) 5'-UAGUUGA-3'
+Y) 5'-AAGUACA-3'
+Z) 5'-ACAGUAA-3'
+Answer: X
+
+
+Question 297: What is the mRNA sequence transcribed from the DNA sequence 3'-GGAATCT-5'?
+W) 5'-UCCUGUC-3'
+X) 5'-CCUUAGA-3'
+Y) 5'-CGCCCUA-3'
+Z) 5'-AAUGCGG-3'
+Answer: X
+
+
+Question 298: What is the mRNA sequence transcribed from the DNA sequence 3'-AGCTGAC-5'?
+W) 5'-GCCAUGC-3'
+X) 5'-GAAGUUU-3'
+Y) 5'-UGAGUCU-3'
+Z) 5'-UCGACUG-3'
+Answer: Z
+
+
+Question 299: What is the mRNA sequence transcribed from the DNA sequence 3'-CCTT-5'?
+W) 5'-UAAU-3'
+X) 5'-UACC-3'
+Y) 5'-GGAA-3'
+Z) 5'-CACU-3'
+Answer: Y
+
+
+Question 300: What is the mRNA sequence transcribed from the DNA sequence 3'-GAAATC-5'?
+W) 5'-UAGCAU-3'
+X) 5'-GCCGUU-3'
+Y) 5'-AACACG-3'
+Z) 5'-CUUUAG-3'
+Answer: Z
+
+
+Question 301: What is the mRNA sequence transcribed from the DNA sequence 3'-GGGT-5'?
+W) 5'-UACA-3'
+X) 5'-GGGA-3'
+Y) 5'-CCCA-3'
+Z) 5'-AAUG-3'
+Answer: Y
+
+
+Question 302: What is the mRNA sequence transcribed from the DNA sequence 3'-GTCC-5'?
+W) 5'-CAGG-3'
+X) 5'-AAAC-3'
+Y) 5'-GUUA-3'
+Z) 5'-AUAC-3'
+Answer: W
+
+
+Question 303: What is the mRNA sequence transcribed from the DNA sequence 3'-AATC-5'?
+W) 5'-GACG-3'
+X) 5'-UUAG-3'
+Y) 5'-GCCG-3'
+Z) 5'-GAGC-3'
+Answer: X
+
+
+Question 304: What is the mRNA sequence transcribed from the DNA sequence 3'-GCAAGT-5'?
+W) 5'-CGUUCA-3'
+X) 5'-CCCCAA-3'
+Y) 5'-AUAUCA-3'
+Z) 5'-GAAUAA-3'
+Answer: W
+
+
+Question 305: What is the mRNA sequence transcribed from the DNA sequence 3'-TCGCG-5'?
+W) 5'-CCCUU-3'
+X) 5'-AGCGC-3'
+Y) 5'-ACGCA-3'
+Z) 5'-CUAGU-3'
+Answer: X
+
+
+Question 306: What is the mRNA sequence transcribed from the DNA sequence 3'-GAAC-5'?
+W) 5'-GGAA-3'
+X) 5'-CUUG-3'
+Y) 5'-CUCA-3'
+Z) 5'-AAAC-3'
+Answer: X
+
+
+Question 307: What is the mRNA sequence transcribed from the DNA sequence 3'-TTCTGA-5'?
+W) 5'-AAGACU-3'
+X) 5'-GUAUCC-3'
+Y) 5'-GGGAUG-3'
+Z) 5'-GGCACU-3'
+Answer: W
+
+
+Question 308: What is the mRNA sequence transcribed from the DNA sequence 3'-TCAATA-5'?
+W) 5'-AGUUAU-3'
+X) 5'-AACCUG-3'
+Y) 5'-UAGUCA-3'
+Z) 5'-GGUUCC-3'
+Answer: W
+
+
+Question 309: What is the mRNA sequence transcribed from the DNA sequence 3'-CTATTAT-5'?
+W) 5'-ACUCGAG-3'
+X) 5'-GAACCAA-3'
+Y) 5'-GAUAAUA-3'
+Z) 5'-GUCACAC-3'
+Answer: Y
+
+
+Question 310: What is the mRNA sequence transcribed from the DNA sequence 3'-CCCGCC-5'?
+W) 5'-GGGCGG-3'
+X) 5'-GUACCA-3'
+Y) 5'-AUAGUU-3'
+Z) 5'-GGGACG-3'
+Answer: W
+
+
+Question 311: What is the mRNA sequence transcribed from the DNA sequence 3'-AAATC-5'?
+W) 5'-GACAA-3'
+X) 5'-ACAAC-3'
+Y) 5'-GAGGU-3'
+Z) 5'-UUUAG-3'
+Answer: Z
+
+
+Question 312: What is the mRNA sequence transcribed from the DNA sequence 3'-AATGAT-5'?
+W) 5'-UUACUA-3'
+X) 5'-GCGAAG-3'
+Y) 5'-CUCUUA-3'
+Z) 5'-UCGUUG-3'
+Answer: W
+
+
+Question 313: What is the mRNA sequence transcribed from the DNA sequence 3'-CGGGAGT-5'?
+W) 5'-GGAACGG-3'
+X) 5'-AUCGCCA-3'
+Y) 5'-GCCCUCA-3'
+Z) 5'-CGUCGGC-3'
+Answer: Y
+
+
+Question 314: What is the mRNA sequence transcribed from the DNA sequence 3'-CGTGGTC-5'?
+W) 5'-GUGGUCA-3'
+X) 5'-GCACCAG-3'
+Y) 5'-GCAUAGG-3'
+Z) 5'-CAUCCGG-3'
+Answer: X
+
+
+Question 315: What is the mRNA sequence transcribed from the DNA sequence 3'-TCAG-5'?
+W) 5'-UGAA-3'
+X) 5'-AGUC-3'
+Y) 5'-GGAU-3'
+Z) 5'-CCAC-3'
+Answer: X
+
+
+Question 316: What is the mRNA sequence transcribed from the DNA sequence 3'-TCCTCC-5'?
+W) 5'-AGGAGG-3'
+X) 5'-GGAAAA-3'
+Y) 5'-GCAACG-3'
+Z) 5'-CGCAUG-3'
+Answer: W
+
+
+Question 317: What is the mRNA sequence transcribed from the DNA sequence 3'-CCATC-5'?
+W) 5'-UCACG-3'
+X) 5'-GGUAG-3'
+Y) 5'-UAGGU-3'
+Z) 5'-CCUGA-3'
+Answer: X
+
+
+Question 318: What is the mRNA sequence transcribed from the DNA sequence 3'-TGAGACG-5'?
+W) 5'-GACGGGC-3'
+X) 5'-UGGAAUU-3'
+Y) 5'-ACUCUGC-3'
+Z) 5'-UUUACUG-3'
+Answer: Y
+
+
+Question 319: What is the mRNA sequence transcribed from the DNA sequence 3'-GCGGCT-5'?
+W) 5'-AACUAA-3'
+X) 5'-CCACCC-3'
+Y) 5'-GAGUGG-3'
+Z) 5'-CGCCGA-3'
+Answer: Z
+
+
+Question 320: What is the mRNA sequence transcribed from the DNA sequence 3'-GACTT-5'?
+W) 5'-CUGAA-3'
+X) 5'-UCACG-3'
+Y) 5'-ACAAU-3'
+Z) 5'-GCAUG-3'
+Answer: W
+
+
+Question 321: What is the mRNA sequence transcribed from the DNA sequence 3'-AAACGA-5'?
+W) 5'-UGCUAU-3'
+X) 5'-CGCUCU-3'
+Y) 5'-UUUGCU-3'
+Z) 5'-CGUCAC-3'
+Answer: Y
+
+
+Question 322: What is the mRNA sequence transcribed from the DNA sequence 3'-GGACA-5'?
+W) 5'-CGAAA-3'
+X) 5'-ACGAG-3'
+Y) 5'-CUCUG-3'
+Z) 5'-CCUGU-3'
+Answer: Z
+
+
+Question 323: What is the mRNA sequence transcribed from the DNA sequence 3'-GCGC-5'?
+W) 5'-GUCA-3'
+X) 5'-UCCC-3'
+Y) 5'-CGCG-3'
+Z) 5'-AGAA-3'
+Answer: Y
+
+
+Question 324: What is the mRNA sequence transcribed from the DNA sequence 3'-CTCTC-5'?
+W) 5'-UCCCC-3'
+X) 5'-GAGAG-3'
+Y) 5'-CGAAC-3'
+Z) 5'-UCAUG-3'
+Answer: X
+
+
+Question 325: What is the mRNA sequence transcribed from the DNA sequence 3'-GTACAA-5'?
+W) 5'-UAGACU-3'
+X) 5'-UGAAUG-3'
+Y) 5'-CAUGUU-3'
+Z) 5'-ACACUU-3'
+Answer: Y
+
+
+Question 326: What is the mRNA sequence transcribed from the DNA sequence 3'-CCGAGT-5'?
+W) 5'-GGCUCA-3'
+X) 5'-UCGCCG-3'
+Y) 5'-UAACAA-3'
+Z) 5'-UCACGC-3'
+Answer: W
+
+
+Question 327: What is the mRNA sequence transcribed from the DNA sequence 3'-AGGCTTG-5'?
+W) 5'-CUGGUCC-3'
+X) 5'-UCCGAAC-3'
+Y) 5'-AACGAAC-3'
+Z) 5'-GGUGGUU-3'
+Answer: X
+
+
+Question 328: What is the mRNA sequence transcribed from the DNA sequence 3'-AAGATCT-5'?
+W) 5'-GCGGGCA-3'
+X) 5'-UUCUAGA-3'
+Y) 5'-AUAUAGU-3'
+Z) 5'-UAGGGAU-3'
+Answer: X
+
+
+Question 329: What is the mRNA sequence transcribed from the DNA sequence 3'-TTACCA-5'?
+W) 5'-AGAUAU-3'
+X) 5'-UGCGAU-3'
+Y) 5'-CUUCUU-3'
+Z) 5'-AAUGGU-3'
+Answer: Z
+
+
+Question 330: What is the mRNA sequence transcribed from the DNA sequence 3'-ATACATT-5'?
+W) 5'-UAGAUGA-3'
+X) 5'-UCGAAUC-3'
+Y) 5'-UAUGUAA-3'
+Z) 5'-UUUGAAA-3'
+Answer: Y
+
+
+Question 331: What is the mRNA sequence transcribed from the DNA sequence 3'-CGCTGGC-5'?
+W) 5'-GGUAAAA-3'
+X) 5'-GCGACCG-3'
+Y) 5'-CGACUGC-3'
+Z) 5'-UUUGAAC-3'
+Answer: X
+
+
+Question 332: What is the mRNA sequence transcribed from the DNA sequence 3'-GAGACG-5'?
+W) 5'-CCAGCC-3'
+X) 5'-CAAUUC-3'
+Y) 5'-CUCUGC-3'
+Z) 5'-AAAGGU-3'
+Answer: Y
+
+
+Question 333: What is the mRNA sequence transcribed from the DNA sequence 3'-TCCTTTT-5'?
+W) 5'-UUAAACA-3'
+X) 5'-AACGUCU-3'
+Y) 5'-AGGAAAA-3'
+Z) 5'-UGAAGUU-3'
+Answer: Y
+
+
+Question 334: What is the mRNA sequence transcribed from the DNA sequence 3'-CAACC-5'?
+W) 5'-GUUGG-3'
+X) 5'-AGGGA-3'
+Y) 5'-UGCAA-3'
+Z) 5'-UAGCU-3'
+Answer: W
+
+
+Question 335: What is the mRNA sequence transcribed from the DNA sequence 3'-GTCGAT-5'?
+W) 5'-CAGCUA-3'
+X) 5'-GCACCA-3'
+Y) 5'-CGGAGU-3'
+Z) 5'-ACGCCU-3'
+Answer: W
+
+
+Question 336: What is the mRNA sequence transcribed from the DNA sequence 3'-AAACG-5'?
+W) 5'-GUCCU-3'
+X) 5'-ACCAA-3'
+Y) 5'-UUUGC-3'
+Z) 5'-AAAGG-3'
+Answer: Y
+
+
+Question 337: What is the mRNA sequence transcribed from the DNA sequence 3'-CATCT-5'?
+W) 5'-AGAGC-3'
+X) 5'-ACCCU-3'
+Y) 5'-CUAGG-3'
+Z) 5'-GUAGA-3'
+Answer: Z
+
+
+Question 338: What is the mRNA sequence transcribed from the DNA sequence 3'-GCCGAT-5'?
+W) 5'-AUCCAA-3'
+X) 5'-CGGCUA-3'
+Y) 5'-CGGAAC-3'
+Z) 5'-UGAAAG-3'
+Answer: X
+
+
+Question 339: What is the mRNA sequence transcribed from the DNA sequence 3'-ATTC-5'?
+W) 5'-AGGA-3'
+X) 5'-AAUA-3'
+Y) 5'-UCAG-3'
+Z) 5'-UAAG-3'
+Answer: Z
+
+
+Question 340: What is the mRNA sequence transcribed from the DNA sequence 3'-GAGC-5'?
+W) 5'-GGAA-3'
+X) 5'-GGGU-3'
+Y) 5'-UACU-3'
+Z) 5'-CUCG-3'
+Answer: Z
+
+
+Question 341: What is the mRNA sequence transcribed from the DNA sequence 3'-CAGT-5'?
+W) 5'-AAAU-3'
+X) 5'-UUGC-3'
+Y) 5'-CCGU-3'
+Z) 5'-GUCA-3'
+Answer: Z
+
+
+Question 342: What is the mRNA sequence transcribed from the DNA sequence 3'-TCAGGG-5'?
+W) 5'-CUGUAG-3'
+X) 5'-AGUCCC-3'
+Y) 5'-CACCCA-3'
+Z) 5'-CGGCAA-3'
+Answer: X
+
+
+Question 343: What is the mRNA sequence transcribed from the DNA sequence 3'-ATGGGA-5'?
+W) 5'-UUUGCC-3'
+X) 5'-UACCCU-3'
+Y) 5'-AGGUCC-3'
+Z) 5'-UCAUAG-3'
+Answer: X
+
+
+Question 344: What is the mRNA sequence transcribed from the DNA sequence 3'-ACCGGAA-5'?
+W) 5'-CGUAACA-3'
+X) 5'-UGGCCUU-3'
+Y) 5'-GUGGAUG-3'
+Z) 5'-UAGUUAA-3'
+Answer: X
+
+
+Question 345: What is the mRNA sequence transcribed from the DNA sequence 3'-TCCAGGA-5'?
+W) 5'-CCCUUUG-3'
+X) 5'-CUAGAGC-3'
+Y) 5'-UAACGAA-3'
+Z) 5'-AGGUCCU-3'
+Answer: Z
+
+
+Question 346: What is the mRNA sequence transcribed from the DNA sequence 3'-CGGCCTA-5'?
+W) 5'-CGAGCAA-3'
+X) 5'-ACCGGUU-3'
+Y) 5'-GCGAACA-3'
+Z) 5'-GCCGGAU-3'
+Answer: Z
+
+
+Question 347: What is the mRNA sequence transcribed from the DNA sequence 3'-AAAA-5'?
+W) 5'-GAAC-3'
+X) 5'-AGAA-3'
+Y) 5'-AGUA-3'
+Z) 5'-UUUU-3'
+Answer: Z
+
+
+Question 348: What is the mRNA sequence transcribed from the DNA sequence 3'-GGCTTT-5'?
+W) 5'-GAGUGA-3'
+X) 5'-CCGAAA-3'
+Y) 5'-ACACGA-3'
+Z) 5'-ACUGCC-3'
+Answer: X
+
+
+Question 349: What is the mRNA sequence transcribed from the DNA sequence 3'-GCGCC-5'?
+W) 5'-GUAUC-3'
+X) 5'-GCGCG-3'
+Y) 5'-GACCA-3'
+Z) 5'-CGCGG-3'
+Answer: Z
+
+
+Question 350: What is the mRNA sequence transcribed from the DNA sequence 3'-CGGAAT-5'?
+W) 5'-GCCUUA-3'
+X) 5'-GAUUAA-3'
+Y) 5'-GUUUGC-3'
+Z) 5'-AACAGU-3'
+Answer: W
+
+
+Question 351: What is the mRNA sequence transcribed from the DNA sequence 3'-TCCTGC-5'?
+W) 5'-GUAUAU-3'
+X) 5'-UAUCGU-3'
+Y) 5'-CCCAGA-3'
+Z) 5'-AGGACG-3'
+Answer: Z
+
+
+Question 352: What is the mRNA sequence transcribed from the DNA sequence 3'-GATTGTC-5'?
+W) 5'-UUAAUCU-3'
+X) 5'-ACUGUUU-3'
+Y) 5'-AGGCUCA-3'
+Z) 5'-CUAACAG-3'
+Answer: Z
+
+
+Question 353: What is the mRNA sequence transcribed from the DNA sequence 3'-TCGC-5'?
+W) 5'-AGCG-3'
+X) 5'-GUGA-3'
+Y) 5'-CUGA-3'
+Z) 5'-UUUC-3'
+Answer: W
+
+
+Question 354: What is the mRNA sequence transcribed from the DNA sequence 3'-GCGCGA-5'?
+W) 5'-CGCGCU-3'
+X) 5'-CCACGC-3'
+Y) 5'-GCAGGU-3'
+Z) 5'-UGCUCG-3'
+Answer: W
+
+
+Question 355: What is the mRNA sequence transcribed from the DNA sequence 3'-ACAC-5'?
+W) 5'-UUUG-3'
+X) 5'-GCAA-3'
+Y) 5'-ACGU-3'
+Z) 5'-UGUG-3'
+Answer: Z
+
+
+Question 356: What is the mRNA sequence transcribed from the DNA sequence 3'-TTGTGTG-5'?
+W) 5'-CCCGGAA-3'
+X) 5'-GAAGACC-3'
+Y) 5'-UUCAUUC-3'
+Z) 5'-AACACAC-3'
+Answer: Z
+
+
+Question 357: What is the mRNA sequence transcribed from the DNA sequence 3'-CGAG-5'?
+W) 5'-GCUC-3'
+X) 5'-CGUG-3'
+Y) 5'-UGUG-3'
+Z) 5'-CAGG-3'
+Answer: W
+
+
+Question 358: What is the mRNA sequence transcribed from the DNA sequence 3'-GTGGTA-5'?
+W) 5'-CACCAU-3'
+X) 5'-GCUGGA-3'
+Y) 5'-GACGGC-3'
+Z) 5'-GUAAUG-3'
+Answer: W
+
+
+Question 359: What is the mRNA sequence transcribed from the DNA sequence 3'-TTAAC-5'?
+W) 5'-AACUG-3'
+X) 5'-GGAUA-3'
+Y) 5'-AAGAC-3'
+Z) 5'-AAUUG-3'
+Answer: Z
+
+
+Question 360: What is the mRNA sequence transcribed from the DNA sequence 3'-CATC-5'?
+W) 5'-UAGU-3'
+X) 5'-GCUG-3'
+Y) 5'-CAGG-3'
+Z) 5'-GUAG-3'
+Answer: Z
+
+
+Question 361: What is the mRNA sequence transcribed from the DNA sequence 3'-TCAT-5'?
+W) 5'-AGUA-3'
+X) 5'-GUUA-3'
+Y) 5'-GAUU-3'
+Z) 5'-AGAC-3'
+Answer: W
+
+
+Question 362: What is the mRNA sequence transcribed from the DNA sequence 3'-AAACC-5'?
+W) 5'-AACAG-3'
+X) 5'-CACGA-3'
+Y) 5'-AGGUC-3'
+Z) 5'-UUUGG-3'
+Answer: Z
+
+
+Question 363: What is the mRNA sequence transcribed from the DNA sequence 3'-AACATA-5'?
+W) 5'-UUGUAU-3'
+X) 5'-GAGCAA-3'
+Y) 5'-GGUAGC-3'
+Z) 5'-ACCUGU-3'
+Answer: W
+
+
+Question 364: What is the mRNA sequence transcribed from the DNA sequence 3'-CTTATAT-5'?
+W) 5'-GGUGGUU-3'
+X) 5'-CGGCUAG-3'
+Y) 5'-UAAAUAU-3'
+Z) 5'-GAAUAUA-3'
+Answer: Z
+
+
+Question 365: What is the mRNA sequence transcribed from the DNA sequence 3'-ACTAAT-5'?
+W) 5'-AACCGG-3'
+X) 5'-CCCCUG-3'
+Y) 5'-UGAUUA-3'
+Z) 5'-AAUAUA-3'
+Answer: Y
+
+
+Question 366: What is the mRNA sequence transcribed from the DNA sequence 3'-AAAGCAT-5'?
+W) 5'-AGACCUA-3'
+X) 5'-GUAUGUC-3'
+Y) 5'-UGUUUUA-3'
+Z) 5'-UUUCGUA-3'
+Answer: Z
+
+
+Question 367: What is the mRNA sequence transcribed from the DNA sequence 3'-AGAG-5'?
+W) 5'-CGGC-3'
+X) 5'-GCAA-3'
+Y) 5'-ACAG-3'
+Z) 5'-UCUC-3'
+Answer: Z
+
+
+Question 368: What is the mRNA sequence transcribed from the DNA sequence 3'-ATCGTA-5'?
+W) 5'-GUUACC-3'
+X) 5'-UAGCAU-3'
+Y) 5'-CGUCAU-3'
+Z) 5'-AUAGGG-3'
+Answer: X
+
+
+Question 369: What is the mRNA sequence transcribed from the DNA sequence 3'-CGCCAA-5'?
+W) 5'-GCGGUU-3'
+X) 5'-GAAAGA-3'
+Y) 5'-UUACGA-3'
+Z) 5'-AACCGG-3'
+Answer: W
+
+
+Question 370: What is the mRNA sequence transcribed from the DNA sequence 3'-GATAT-5'?
+W) 5'-CUAUA-3'
+X) 5'-GCAGC-3'
+Y) 5'-AGAAC-3'
+Z) 5'-UUGAU-3'
+Answer: W
+
+
+Question 371: What is the mRNA sequence transcribed from the DNA sequence 3'-ATACCT-5'?
+W) 5'-UUCCUU-3'
+X) 5'-UAUGGA-3'
+Y) 5'-UAAACC-3'
+Z) 5'-CCGAAA-3'
+Answer: X
+
+
+Question 372: What is the mRNA sequence transcribed from the DNA sequence 3'-CGTAG-5'?
+W) 5'-AUAAG-3'
+X) 5'-UUCCA-3'
+Y) 5'-GCAUC-3'
+Z) 5'-CCUUG-3'
+Answer: Y
+
+
+Question 373: What is the mRNA sequence transcribed from the DNA sequence 3'-TATACGC-5'?
+W) 5'-CUCGUUU-3'
+X) 5'-GCUAAGC-3'
+Y) 5'-GGCAAAU-3'
+Z) 5'-AUAUGCG-3'
+Answer: Z
+
+
+Question 374: What is the mRNA sequence transcribed from the DNA sequence 3'-GGGGCA-5'?
+W) 5'-CCAGGC-3'
+X) 5'-CCCCGU-3'
+Y) 5'-AUACGU-3'
+Z) 5'-CAGCGG-3'
+Answer: X
+
+
+Question 375: What is the mRNA sequence transcribed from the DNA sequence 3'-GTTCGT-5'?
+W) 5'-ACCUCA-3'
+X) 5'-CAAGCA-3'
+Y) 5'-ACCGAG-3'
+Z) 5'-CGUAAG-3'
+Answer: X
+
+
+Question 376: What is the mRNA sequence transcribed from the DNA sequence 3'-AATCAT-5'?
+W) 5'-GCGAAU-3'
+X) 5'-GACAAU-3'
+Y) 5'-UUAGUA-3'
+Z) 5'-UCAUUU-3'
+Answer: Y
+
+
+Question 377: What is the mRNA sequence transcribed from the DNA sequence 3'-TGGGCAT-5'?
+W) 5'-ACCCGUA-3'
+X) 5'-ACCCCUU-3'
+Y) 5'-GGAGUUA-3'
+Z) 5'-UUGUAGG-3'
+Answer: W
+
+
+Question 378: What is the mRNA sequence transcribed from the DNA sequence 3'-ACGTGCT-5'?
+W) 5'-ACACCUG-3'
+X) 5'-AGCUAUU-3'
+Y) 5'-UGCACGA-3'
+Z) 5'-UUAGGUA-3'
+Answer: Y
+
+
+Question 379: What is the mRNA sequence transcribed from the DNA sequence 3'-CCCG-5'?
+W) 5'-CCGG-3'
+X) 5'-CAAA-3'
+Y) 5'-AGCA-3'
+Z) 5'-GGGC-3'
+Answer: Z
+
+
+Question 380: What is the mRNA sequence transcribed from the DNA sequence 3'-ATGTA-5'?
+W) 5'-AUGGG-3'
+X) 5'-UACAU-3'
+Y) 5'-CGCGC-3'
+Z) 5'-UCAGC-3'
+Answer: X
+
+
+Question 381: What is the mRNA sequence transcribed from the DNA sequence 3'-TTACTTT-5'?
+W) 5'-AAUGAAA-3'
+X) 5'-CACCUGU-3'
+Y) 5'-GUGAUAU-3'
+Z) 5'-AGUAACG-3'
+Answer: W
+
+
+Question 382: What is the mRNA sequence transcribed from the DNA sequence 3'-AACC-5'?
+W) 5'-UGAG-3'
+X) 5'-CGAG-3'
+Y) 5'-UUGG-3'
+Z) 5'-UGCA-3'
+Answer: Y
+
+
+Question 383: What is the mRNA sequence transcribed from the DNA sequence 3'-CGAACA-5'?
+W) 5'-GGAUAC-3'
+X) 5'-GCUUGU-3'
+Y) 5'-GGAGCU-3'
+Z) 5'-CUCUAG-3'
+Answer: X
+
+
+Question 384: What is the mRNA sequence transcribed from the DNA sequence 3'-TCTGC-5'?
+W) 5'-CCAGG-3'
+X) 5'-AGACG-3'
+Y) 5'-AGGAC-3'
+Z) 5'-AUUUA-3'
+Answer: X
+
+
+Question 385: What is the mRNA sequence transcribed from the DNA sequence 3'-ACGCTG-5'?
+W) 5'-UGCGAC-3'
+X) 5'-UAACUA-3'
+Y) 5'-AUUAAG-3'
+Z) 5'-CUUCCA-3'
+Answer: W
+
+
+Question 386: What is the mRNA sequence transcribed from the DNA sequence 3'-AGGACG-5'?
+W) 5'-GCUACA-3'
+X) 5'-UGUAUU-3'
+Y) 5'-UGACCG-3'
+Z) 5'-UCCUGC-3'
+Answer: Z
+
+
+Question 387: What is the mRNA sequence transcribed from the DNA sequence 3'-GCCG-5'?
+W) 5'-CGGC-3'
+X) 5'-ACAU-3'
+Y) 5'-GUAU-3'
+Z) 5'-CGGU-3'
+Answer: W
+
+
+Question 388: What is the mRNA sequence transcribed from the DNA sequence 3'-TGGAGAG-5'?
+W) 5'-UACCAAC-3'
+X) 5'-ACCUCUC-3'
+Y) 5'-GUUGAAA-3'
+Z) 5'-ACUCAUU-3'
+Answer: X
+
+
+Question 389: What is the mRNA sequence transcribed from the DNA sequence 3'-GAAA-5'?
+W) 5'-CUUU-3'
+X) 5'-CCAG-3'
+Y) 5'-UUUC-3'
+Z) 5'-GGAU-3'
+Answer: W
+
+
+Question 390: What is the mRNA sequence transcribed from the DNA sequence 3'-TTTCG-5'?
+W) 5'-UUGUA-3'
+X) 5'-AGUCA-3'
+Y) 5'-GGCUC-3'
+Z) 5'-AAAGC-3'
+Answer: Z
+
+
+Question 391: What is the mRNA sequence transcribed from the DNA sequence 3'-GCCT-5'?
+W) 5'-AUAU-3'
+X) 5'-UGAU-3'
+Y) 5'-CUGU-3'
+Z) 5'-CGGA-3'
+Answer: Z
+
+
+Question 392: What is the mRNA sequence transcribed from the DNA sequence 3'-ATATCTA-5'?
+W) 5'-CGGGGCG-3'
+X) 5'-UGUUCCA-3'
+Y) 5'-UAUAGAU-3'
+Z) 5'-AUCCGGU-3'
+Answer: Y
+
+
+Question 393: What is the mRNA sequence transcribed from the DNA sequence 3'-CGAAGGA-5'?
+W) 5'-ACUUCUC-3'
+X) 5'-GCUUCCU-3'
+Y) 5'-AUUUGUG-3'
+Z) 5'-GGCACUU-3'
+Answer: X
+
+
+Question 394: What is the mRNA sequence transcribed from the DNA sequence 3'-TCTA-5'?
+W) 5'-AGAU-3'
+X) 5'-AAAC-3'
+Y) 5'-ACAC-3'
+Z) 5'-AGUG-3'
+Answer: W
+
+
+Question 395: What is the mRNA sequence transcribed from the DNA sequence 3'-CAGG-5'?
+W) 5'-GAGG-3'
+X) 5'-GUCC-3'
+Y) 5'-CGCA-3'
+Z) 5'-CAAA-3'
+Answer: X
+
+
+Question 396: What is the mRNA sequence transcribed from the DNA sequence 3'-TGTT-5'?
+W) 5'-CUGC-3'
+X) 5'-ACGC-3'
+Y) 5'-ACAA-3'
+Z) 5'-AAGG-3'
+Answer: Y
+
+
+Question 397: What is the mRNA sequence transcribed from the DNA sequence 3'-CAGC-5'?
+W) 5'-GUCG-3'
+X) 5'-GGGC-3'
+Y) 5'-AGGC-3'
+Z) 5'-GCCC-3'
+Answer: W
+
+
+Question 398: What is the mRNA sequence transcribed from the DNA sequence 3'-GTAAG-5'?
+W) 5'-GCCUU-3'
+X) 5'-CAUUC-3'
+Y) 5'-CGUUC-3'
+Z) 5'-UUCAA-3'
+Answer: X
+
+
+Question 399: What is the mRNA sequence transcribed from the DNA sequence 3'-CCCGTAT-5'?
+W) 5'-GAAACCU-3'
+X) 5'-GGGCAUA-3'
+Y) 5'-AUGCUAG-3'
+Z) 5'-CAUGAAU-3'
+Answer: X
+
+
+Question 400: What is the mRNA sequence transcribed from the DNA sequence 3'-CATTGTC-5'?
+W) 5'-ACAGGGC-3'
+X) 5'-GUAACAG-3'
+Y) 5'-CUGCCCC-3'
+Z) 5'-GCAACCU-3'
+Answer: X
+
+
+Question 401: If a DNA double helix contains 18% Cytosine, what is the percentage of Guanine?
+W) 20%
+X) 25%
+Y) 19%
+Z) 18%
+Answer: Z
+
+
+Question 402: If a DNA double helix contains 25% Cytosine, what is the percentage of Adenine?
+W) 15%
+X) 20%
+Y) 25%
+Z) 34%
+Answer: Y
+
+
+Question 403: If a DNA double helix contains 31% Guanine, what is the percentage of Adenine?
+W) 38%
+X) 28%
+Y) 19%
+Z) 29%
+Answer: Y
+
+
+Question 404: If a DNA double helix contains 20% Cytosine, what is the percentage of Guanine?
+W) 25%
+X) 18%
+Y) 20%
+Z) 19%
+Answer: Y
+
+
+Question 405: If a DNA double helix contains 23% Cytosine, what is the percentage of Thymine?
+W) 27%
+X) 39%
+Y) 13%
+Z) 34%
+Answer: W
+
+
+Question 406: If a DNA double helix contains 18% Thymine, what is the percentage of Adenine?
+W) 36%
+X) 27%
+Y) 18%
+Z) 26%
+Answer: Y
+
+
+Question 407: If a DNA double helix contains 15% Thymine, what is the percentage of Cytosine?
+W) 35%
+X) 36%
+Y) 21%
+Z) 10%
+Answer: W
+
+
+Question 408: If a DNA double helix contains 31% Guanine, what is the percentage of Cytosine?
+W) 24%
+X) 36%
+Y) 19%
+Z) 31%
+Answer: Z
+
+
+Question 409: If a DNA double helix contains 28% Guanine, what is the percentage of Adenine?
+W) 12%
+X) 22%
+Y) 37%
+Z) 18%
+Answer: X
+
+
+Question 410: If a DNA double helix contains 17% Cytosine, what is the percentage of Thymine?
+W) 12%
+X) 17%
+Y) 33%
+Z) 35%
+Answer: Y
+
+
+Question 411: If a DNA double helix contains 29% Cytosine, what is the percentage of Thymine?
+W) 31%
+X) 33%
+Y) 26%
+Z) 21%
+Answer: Z
+
+
+Question 412: If a DNA double helix contains 28% Adenine, what is the percentage of Thymine?
+W) 32%
+X) 39%
+Y) 28%
+Z) 35%
+Answer: Y
+
+
+Question 413: If a DNA double helix contains 22% Adenine, what is the percentage of Thymine?
+W) 37%
+X) 22%
+Y) 28%
+Z) 40%
+Answer: X
+
+
+Question 414: If a DNA double helix contains 30% Cytosine, what is the percentage of Guanine?
+W) 36%
+X) 30%
+Y) 25%
+Z) 15%
+Answer: X
+
+
+Question 415: If a DNA double helix contains 35% Thymine, what is the percentage of Adenine?
+W) 26%
+X) 37%
+Y) 35%
+Z) 40%
+Answer: Y
+
+
+Question 416: If a DNA double helix contains 30% Adenine, what is the percentage of Guanine?
+W) 32%
+X) 29%
+Y) 20%
+Z) 16%
+Answer: Y
+
+
+Question 417: If a DNA double helix contains 34% Cytosine, what is the percentage of Adenine?
+W) 30%
+X) 16%
+Y) 17%
+Z) 28%
+Answer: X
+
+
+Question 418: If a DNA double helix contains 22% Cytosine, what is the percentage of Adenine?
+W) 28%
+X) 25%
+Y) 35%
+Z) 31%
+Answer: W
+
+
+Question 419: If a DNA double helix contains 24% Guanine, what is the percentage of Cytosine?
+W) 24%
+X) 13%
+Y) 40%
+Z) 17%
+Answer: W
+
+
+Question 420: If a DNA double helix contains 22% Cytosine, what is the percentage of Thymine?
+W) 13%
+X) 28%
+Y) 15%
+Z) 23%
+Answer: X
+
+
+Question 421: If a DNA double helix contains 27% Cytosine, what is the percentage of Thymine?
+W) 23%
+X) 34%
+Y) 38%
+Z) 14%
+Answer: W
+
+
+Question 422: If a DNA double helix contains 15% Thymine, what is the percentage of Cytosine?
+W) 18%
+X) 16%
+Y) 35%
+Z) 26%
+Answer: Y
+
+
+Question 423: If a DNA double helix contains 25% Cytosine, what is the percentage of Adenine?
+W) 25%
+X) 35%
+Y) 24%
+Z) 22%
+Answer: W
+
+
+Question 424: If a DNA double helix contains 23% Adenine, what is the percentage of Cytosine?
+W) 17%
+X) 20%
+Y) 33%
+Z) 27%
+Answer: Z
+
+
+Question 425: If a DNA double helix contains 22% Guanine, what is the percentage of Thymine?
+W) 15%
+X) 28%
+Y) 38%
+Z) 27%
+Answer: X
+
+
+Question 426: If a DNA double helix contains 19% Cytosine, what is the percentage of Thymine?
+W) 10%
+X) 27%
+Y) 40%
+Z) 31%
+Answer: Z
+
+
+Question 427: If a DNA double helix contains 26% Cytosine, what is the percentage of Thymine?
+W) 12%
+X) 24%
+Y) 30%
+Z) 11%
+Answer: X
+
+
+Question 428: If a DNA double helix contains 32% Thymine, what is the percentage of Cytosine?
+W) 37%
+X) 32%
+Y) 18%
+Z) 17%
+Answer: Y
+
+
+Question 429: If a DNA double helix contains 28% Cytosine, what is the percentage of Guanine?
+W) 33%
+X) 27%
+Y) 17%
+Z) 28%
+Answer: Z
+
+
+Question 430: If a DNA double helix contains 31% Adenine, what is the percentage of Cytosine?
+W) 19%
+X) 25%
+Y) 35%
+Z) 11%
+Answer: W
+
+
+Question 431: If a DNA double helix contains 22% Adenine, what is the percentage of Guanine?
+W) 17%
+X) 34%
+Y) 32%
+Z) 28%
+Answer: Z
+
+
+Question 432: If a DNA double helix contains 35% Guanine, what is the percentage of Adenine?
+W) 33%
+X) 14%
+Y) 15%
+Z) 36%
+Answer: Y
+
+
+Question 433: If a DNA double helix contains 31% Adenine, what is the percentage of Guanine?
+W) 32%
+X) 33%
+Y) 19%
+Z) 34%
+Answer: Y
+
+
+Question 434: If a DNA double helix contains 18% Thymine, what is the percentage of Guanine?
+W) 32%
+X) 22%
+Y) 28%
+Z) 35%
+Answer: W
+
+
+Question 435: If a DNA double helix contains 28% Cytosine, what is the percentage of Thymine?
+W) 19%
+X) 22%
+Y) 33%
+Z) 10%
+Answer: X
+
+
+Question 436: If a DNA double helix contains 23% Adenine, what is the percentage of Guanine?
+W) 22%
+X) 27%
+Y) 25%
+Z) 28%
+Answer: X
+
+
+Question 437: If a DNA double helix contains 28% Thymine, what is the percentage of Guanine?
+W) 18%
+X) 22%
+Y) 19%
+Z) 25%
+Answer: X
+
+
+Question 438: If a DNA double helix contains 27% Guanine, what is the percentage of Adenine?
+W) 34%
+X) 27%
+Y) 32%
+Z) 23%
+Answer: Z
+
+
+Question 439: If a DNA double helix contains 27% Adenine, what is the percentage of Thymine?
+W) 21%
+X) 24%
+Y) 25%
+Z) 27%
+Answer: Z
+
+
+Question 440: If a DNA double helix contains 19% Cytosine, what is the percentage of Thymine?
+W) 12%
+X) 13%
+Y) 31%
+Z) 27%
+Answer: Y
+
+
+Question 441: If a DNA double helix contains 17% Thymine, what is the percentage of Adenine?
+W) 36%
+X) 17%
+Y) 29%
+Z) 22%
+Answer: X
+
+
+Question 442: If a DNA double helix contains 30% Adenine, what is the percentage of Cytosine?
+W) 33%
+X) 23%
+Y) 20%
+Z) 19%
+Answer: Y
+
+
+Question 443: If a DNA double helix contains 33% Cytosine, what is the percentage of Thymine?
+W) 10%
+X) 17%
+Y) 23%
+Z) 37%
+Answer: X
+
+
+Question 444: If a DNA double helix contains 32% Guanine, what is the percentage of Adenine?
+W) 18%
+X) 20%
+Y) 30%
+Z) 40%
+Answer: W
+
+
+Question 445: If a DNA double helix contains 31% Guanine, what is the percentage of Thymine?
+W) 12%
+X) 37%
+Y) 33%
+Z) 19%
+Answer: Z
+
+
+Question 446: If a DNA double helix contains 19% Guanine, what is the percentage of Cytosine?
+W) 33%
+X) 26%
+Y) 15%
+Z) 19%
+Answer: Z
+
+
+Question 447: If a DNA double helix contains 18% Guanine, what is the percentage of Cytosine?
+W) 18%
+X) 23%
+Y) 38%
+Z) 25%
+Answer: W
+
+
+Question 448: If a DNA double helix contains 32% Thymine, what is the percentage of Cytosine?
+W) 22%
+X) 19%
+Y) 10%
+Z) 18%
+Answer: Z
+
+
+Question 449: If a DNA double helix contains 31% Cytosine, what is the percentage of Adenine?
+W) 29%
+X) 38%
+Y) 19%
+Z) 21%
+Answer: Y
+
+
+Question 450: If a DNA double helix contains 34% Thymine, what is the percentage of Guanine?
+W) 16%
+X) 21%
+Y) 26%
+Z) 29%
+Answer: W
+
+
+Question 451: If a DNA double helix contains 25% Thymine, what is the percentage of Guanine?
+W) 37%
+X) 39%
+Y) 25%
+Z) 33%
+Answer: Y
+
+
+Question 452: If a DNA double helix contains 25% Adenine, what is the percentage of Cytosine?
+W) 14%
+X) 15%
+Y) 12%
+Z) 25%
+Answer: Z
+
+
+Question 453: If a DNA double helix contains 18% Thymine, what is the percentage of Guanine?
+W) 13%
+X) 24%
+Y) 20%
+Z) 32%
+Answer: Z
+
+
+Question 454: If a DNA double helix contains 17% Thymine, what is the percentage of Cytosine?
+W) 27%
+X) 33%
+Y) 30%
+Z) 38%
+Answer: X
+
+
+Question 455: If a DNA double helix contains 23% Thymine, what is the percentage of Cytosine?
+W) 27%
+X) 36%
+Y) 37%
+Z) 39%
+Answer: W
+
+
+Question 456: If a DNA double helix contains 34% Cytosine, what is the percentage of Adenine?
+W) 39%
+X) 27%
+Y) 16%
+Z) 18%
+Answer: Y
+
+
+Question 457: If a DNA double helix contains 21% Adenine, what is the percentage of Cytosine?
+W) 28%
+X) 18%
+Y) 15%
+Z) 29%
+Answer: Z
+
+
+Question 458: If a DNA double helix contains 33% Cytosine, what is the percentage of Thymine?
+W) 40%
+X) 18%
+Y) 17%
+Z) 29%
+Answer: Y
+
+
+Question 459: If a DNA double helix contains 22% Adenine, what is the percentage of Thymine?
+W) 39%
+X) 12%
+Y) 22%
+Z) 35%
+Answer: Y
+
+
+Question 460: If a DNA double helix contains 15% Guanine, what is the percentage of Adenine?
+W) 35%
+X) 38%
+Y) 12%
+Z) 11%
+Answer: W
+
+
+Question 461: If a DNA double helix contains 30% Guanine, what is the percentage of Adenine?
+W) 19%
+X) 26%
+Y) 34%
+Z) 20%
+Answer: Z
+
+
+Question 462: If a DNA double helix contains 27% Guanine, what is the percentage of Thymine?
+W) 25%
+X) 23%
+Y) 21%
+Z) 19%
+Answer: X
+
+
+Question 463: If a DNA double helix contains 20% Thymine, what is the percentage of Guanine?
+W) 30%
+X) 18%
+Y) 36%
+Z) 32%
+Answer: W
+
+
+Question 464: If a DNA double helix contains 23% Guanine, what is the percentage of Thymine?
+W) 13%
+X) 23%
+Y) 27%
+Z) 38%
+Answer: Y
+
+
+Question 465: If a DNA double helix contains 29% Cytosine, what is the percentage of Thymine?
+W) 21%
+X) 33%
+Y) 23%
+Z) 16%
+Answer: W
+
+
+Question 466: If a DNA double helix contains 15% Thymine, what is the percentage of Adenine?
+W) 26%
+X) 21%
+Y) 15%
+Z) 24%
+Answer: Y
+
+
+Question 467: If a DNA double helix contains 18% Cytosine, what is the percentage of Adenine?
+W) 39%
+X) 18%
+Y) 26%
+Z) 32%
+Answer: Z
+
+
+Question 468: If a DNA double helix contains 35% Adenine, what is the percentage of Cytosine?
+W) 22%
+X) 25%
+Y) 30%
+Z) 15%
+Answer: Z
+
+
+Question 469: If a DNA double helix contains 35% Cytosine, what is the percentage of Guanine?
+W) 35%
+X) 10%
+Y) 28%
+Z) 36%
+Answer: W
+
+
+Question 470: If a DNA double helix contains 20% Guanine, what is the percentage of Adenine?
+W) 34%
+X) 33%
+Y) 37%
+Z) 30%
+Answer: Z
+
+
+Question 471: If a DNA double helix contains 34% Adenine, what is the percentage of Guanine?
+W) 14%
+X) 33%
+Y) 16%
+Z) 32%
+Answer: Y
+
+
+Question 472: If a DNA double helix contains 18% Guanine, what is the percentage of Cytosine?
+W) 32%
+X) 30%
+Y) 24%
+Z) 18%
+Answer: Z
+
+
+Question 473: If a DNA double helix contains 21% Cytosine, what is the percentage of Thymine?
+W) 33%
+X) 29%
+Y) 20%
+Z) 10%
+Answer: X
+
+
+Question 474: If a DNA double helix contains 31% Cytosine, what is the percentage of Guanine?
+W) 40%
+X) 22%
+Y) 23%
+Z) 31%
+Answer: Z
+
+
+Question 475: If a DNA double helix contains 23% Thymine, what is the percentage of Adenine?
+W) 24%
+X) 23%
+Y) 15%
+Z) 11%
+Answer: X
+
+
+Question 476: If a DNA double helix contains 20% Guanine, what is the percentage of Thymine?
+W) 36%
+X) 33%
+Y) 40%
+Z) 30%
+Answer: Z
+
+
+Question 477: If a DNA double helix contains 18% Cytosine, what is the percentage of Adenine?
+W) 36%
+X) 24%
+Y) 28%
+Z) 32%
+Answer: Z
+
+
+Question 478: If a DNA double helix contains 18% Adenine, what is the percentage of Thymine?
+W) 12%
+X) 18%
+Y) 15%
+Z) 33%
+Answer: X
+
+
+Question 479: If a DNA double helix contains 15% Thymine, what is the percentage of Adenine?
+W) 24%
+X) 30%
+Y) 21%
+Z) 15%
+Answer: Z
+
+
+Question 480: If a DNA double helix contains 35% Cytosine, what is the percentage of Guanine?
+W) 14%
+X) 33%
+Y) 35%
+Z) 34%
+Answer: Y
+
+
+Question 481: If a DNA double helix contains 20% Cytosine, what is the percentage of Adenine?
+W) 28%
+X) 20%
+Y) 30%
+Z) 14%
+Answer: Y
+
+
+Question 482: If a DNA double helix contains 21% Cytosine, what is the percentage of Guanine?
+W) 18%
+X) 21%
+Y) 32%
+Z) 19%
+Answer: X
+
+
+Question 483: If a DNA double helix contains 26% Guanine, what is the percentage of Thymine?
+W) 34%
+X) 24%
+Y) 21%
+Z) 30%
+Answer: X
+
+
+Question 484: If a DNA double helix contains 33% Adenine, what is the percentage of Cytosine?
+W) 17%
+X) 14%
+Y) 28%
+Z) 27%
+Answer: W
+
+
+Question 485: If a DNA double helix contains 35% Cytosine, what is the percentage of Thymine?
+W) 15%
+X) 19%
+Y) 35%
+Z) 16%
+Answer: W
+
+
+Question 486: If a DNA double helix contains 31% Adenine, what is the percentage of Thymine?
+W) 16%
+X) 18%
+Y) 31%
+Z) 24%
+Answer: Y
+
+
+Question 487: If a DNA double helix contains 30% Thymine, what is the percentage of Adenine?
+W) 30%
+X) 24%
+Y) 20%
+Z) 28%
+Answer: W
+
+
+Question 488: If a DNA double helix contains 25% Adenine, what is the percentage of Guanine?
+W) 13%
+X) 21%
+Y) 30%
+Z) 25%
+Answer: Z
+
+
+Question 489: If a DNA double helix contains 25% Guanine, what is the percentage of Adenine?
+W) 25%
+X) 13%
+Y) 30%
+Z) 38%
+Answer: W
+
+
+Question 490: If a DNA double helix contains 29% Thymine, what is the percentage of Guanine?
+W) 21%
+X) 34%
+Y) 10%
+Z) 15%
+Answer: W
+
+
+Question 491: If a DNA double helix contains 27% Guanine, what is the percentage of Adenine?
+W) 23%
+X) 17%
+Y) 36%
+Z) 18%
+Answer: W
+
+
+Question 492: If a DNA double helix contains 27% Guanine, what is the percentage of Adenine?
+W) 39%
+X) 23%
+Y) 38%
+Z) 11%
+Answer: X
+
+
+Question 493: If a DNA double helix contains 28% Guanine, what is the percentage of Adenine?
+W) 28%
+X) 22%
+Y) 10%
+Z) 40%
+Answer: X
+
+
+Question 494: If a DNA double helix contains 34% Cytosine, what is the percentage of Thymine?
+W) 26%
+X) 28%
+Y) 16%
+Z) 40%
+Answer: Y
+
+
+Question 495: If a DNA double helix contains 17% Adenine, what is the percentage of Cytosine?
+W) 33%
+X) 14%
+Y) 34%
+Z) 35%
+Answer: W
+
+
+Question 496: If a DNA double helix contains 29% Thymine, what is the percentage of Adenine?
+W) 29%
+X) 14%
+Y) 31%
+Z) 16%
+Answer: W
+
+
+Question 497: If a DNA double helix contains 20% Adenine, what is the percentage of Thymine?
+W) 16%
+X) 23%
+Y) 37%
+Z) 20%
+Answer: Z
+
+
+Question 498: If a DNA double helix contains 32% Thymine, what is the percentage of Cytosine?
+W) 15%
+X) 25%
+Y) 18%
+Z) 10%
+Answer: Y
+
+
+Question 499: If a DNA double helix contains 21% Guanine, what is the percentage of Adenine?
+W) 36%
+X) 29%
+Y) 22%
+Z) 31%
+Answer: X
+
+
+Question 500: If a DNA double helix contains 27% Adenine, what is the percentage of Thymine?
+W) 27%
+X) 20%
+Y) 39%
+Z) 34%
+Answer: W
+
+
+Question 501: If a DNA double helix contains 28% Cytosine, what is the percentage of Thymine?
+W) 27%
+X) 22%
+Y) 12%
+Z) 21%
+Answer: X
+
+
+Question 502: If a DNA double helix contains 34% Thymine, what is the percentage of Adenine?
+W) 21%
+X) 17%
+Y) 20%
+Z) 34%
+Answer: Z
+
+
+Question 503: If a DNA double helix contains 35% Adenine, what is the percentage of Thymine?
+W) 25%
+X) 16%
+Y) 14%
+Z) 35%
+Answer: Z
+
+
+Question 504: If a DNA double helix contains 17% Guanine, what is the percentage of Adenine?
+W) 22%
+X) 15%
+Y) 33%
+Z) 30%
+Answer: Y
+
+
+Question 505: If a DNA double helix contains 27% Cytosine, what is the percentage of Thymine?
+W) 36%
+X) 23%
+Y) 25%
+Z) 11%
+Answer: X
+
+
+Question 506: If a DNA double helix contains 27% Thymine, what is the percentage of Guanine?
+W) 36%
+X) 26%
+Y) 23%
+Z) 13%
+Answer: Y
+
+
+Question 507: If a DNA double helix contains 35% Adenine, what is the percentage of Cytosine?
+W) 15%
+X) 20%
+Y) 35%
+Z) 10%
+Answer: W
+
+
+Question 508: If a DNA double helix contains 15% Guanine, what is the percentage of Adenine?
+W) 30%
+X) 35%
+Y) 40%
+Z) 31%
+Answer: X
+
+
+Question 509: If a DNA double helix contains 28% Cytosine, what is the percentage of Adenine?
+W) 22%
+X) 33%
+Y) 13%
+Z) 30%
+Answer: W
+
+
+Question 510: If a DNA double helix contains 25% Guanine, what is the percentage of Thymine?
+W) 25%
+X) 35%
+Y) 21%
+Z) 13%
+Answer: W
+
+
+Question 511: If a DNA double helix contains 19% Adenine, what is the percentage of Thymine?
+W) 39%
+X) 40%
+Y) 19%
+Z) 20%
+Answer: Y
+
+
+Question 512: If a DNA double helix contains 16% Guanine, what is the percentage of Adenine?
+W) 34%
+X) 19%
+Y) 11%
+Z) 13%
+Answer: W
+
+
+Question 513: If a DNA double helix contains 34% Adenine, what is the percentage of Guanine?
+W) 16%
+X) 18%
+Y) 23%
+Z) 21%
+Answer: W
+
+
+Question 514: If a DNA double helix contains 32% Adenine, what is the percentage of Cytosine?
+W) 21%
+X) 19%
+Y) 18%
+Z) 15%
+Answer: Y
+
+
+Question 515: If a DNA double helix contains 24% Cytosine, what is the percentage of Thymine?
+W) 13%
+X) 26%
+Y) 29%
+Z) 11%
+Answer: X
+
+
+Question 516: If a DNA double helix contains 22% Guanine, what is the percentage of Cytosine?
+W) 13%
+X) 22%
+Y) 12%
+Z) 27%
+Answer: X
+
+
+Question 517: If a DNA double helix contains 28% Guanine, what is the percentage of Adenine?
+W) 22%
+X) 21%
+Y) 32%
+Z) 24%
+Answer: W
+
+
+Question 518: If a DNA double helix contains 17% Adenine, what is the percentage of Cytosine?
+W) 21%
+X) 14%
+Y) 11%
+Z) 33%
+Answer: Z
+
+
+Question 519: If a DNA double helix contains 35% Cytosine, what is the percentage of Thymine?
+W) 22%
+X) 19%
+Y) 23%
+Z) 15%
+Answer: Z
+
+
+Question 520: If a DNA double helix contains 28% Adenine, what is the percentage of Thymine?
+W) 16%
+X) 28%
+Y) 35%
+Z) 18%
+Answer: X
+
+
+Question 521: If a DNA double helix contains 26% Adenine, what is the percentage of Guanine?
+W) 25%
+X) 24%
+Y) 16%
+Z) 34%
+Answer: X
+
+
+Question 522: If a DNA double helix contains 31% Cytosine, what is the percentage of Thymine?
+W) 19%
+X) 22%
+Y) 29%
+Z) 11%
+Answer: W
+
+
+Question 523: If a DNA double helix contains 15% Cytosine, what is the percentage of Adenine?
+W) 35%
+X) 10%
+Y) 23%
+Z) 16%
+Answer: W
+
+
+Question 524: If a DNA double helix contains 34% Guanine, what is the percentage of Thymine?
+W) 20%
+X) 13%
+Y) 16%
+Z) 17%
+Answer: Y
+
+
+Question 525: If a DNA double helix contains 17% Thymine, what is the percentage of Guanine?
+W) 33%
+X) 32%
+Y) 19%
+Z) 29%
+Answer: W
+
+
+Question 526: If a DNA double helix contains 32% Cytosine, what is the percentage of Adenine?
+W) 39%
+X) 27%
+Y) 25%
+Z) 18%
+Answer: Z
+
+
+Question 527: If a DNA double helix contains 26% Cytosine, what is the percentage of Adenine?
+W) 33%
+X) 37%
+Y) 24%
+Z) 14%
+Answer: Y
+
+
+Question 528: If a DNA double helix contains 23% Guanine, what is the percentage of Adenine?
+W) 31%
+X) 11%
+Y) 37%
+Z) 27%
+Answer: Z
+
+
+Question 529: If a DNA double helix contains 17% Cytosine, what is the percentage of Guanine?
+W) 17%
+X) 21%
+Y) 33%
+Z) 26%
+Answer: W
+
+
+Question 530: If a DNA double helix contains 29% Guanine, what is the percentage of Cytosine?
+W) 29%
+X) 28%
+Y) 15%
+Z) 14%
+Answer: W
+
+
+Question 531: If a DNA double helix contains 15% Guanine, what is the percentage of Adenine?
+W) 27%
+X) 35%
+Y) 25%
+Z) 33%
+Answer: X
+
+
+Question 532: If a DNA double helix contains 34% Guanine, what is the percentage of Cytosine?
+W) 13%
+X) 22%
+Y) 34%
+Z) 16%
+Answer: Y
+
+
+Question 533: If a DNA double helix contains 20% Thymine, what is the percentage of Guanine?
+W) 23%
+X) 27%
+Y) 30%
+Z) 22%
+Answer: Y
+
+
+Question 534: If a DNA double helix contains 25% Cytosine, what is the percentage of Adenine?
+W) 25%
+X) 13%
+Y) 31%
+Z) 30%
+Answer: W
+
+
+Question 535: If a DNA double helix contains 27% Thymine, what is the percentage of Cytosine?
+W) 24%
+X) 34%
+Y) 23%
+Z) 19%
+Answer: Y
+
+
+Question 536: If a DNA double helix contains 24% Guanine, what is the percentage of Cytosine?
+W) 27%
+X) 24%
+Y) 36%
+Z) 20%
+Answer: X
+
+
+Question 537: If a DNA double helix contains 27% Adenine, what is the percentage of Guanine?
+W) 30%
+X) 10%
+Y) 23%
+Z) 16%
+Answer: Y
+
+
+Question 538: If a DNA double helix contains 15% Guanine, what is the percentage of Adenine?
+W) 17%
+X) 35%
+Y) 29%
+Z) 15%
+Answer: X
+
+
+Question 539: If a DNA double helix contains 15% Cytosine, what is the percentage of Thymine?
+W) 29%
+X) 35%
+Y) 38%
+Z) 30%
+Answer: X
+
+
+Question 540: If a DNA double helix contains 29% Thymine, what is the percentage of Cytosine?
+W) 37%
+X) 21%
+Y) 17%
+Z) 33%
+Answer: X
+
+
+Question 541: If a DNA double helix contains 19% Cytosine, what is the percentage of Adenine?
+W) 31%
+X) 38%
+Y) 12%
+Z) 10%
+Answer: W
+
+
+Question 542: If a DNA double helix contains 22% Guanine, what is the percentage of Thymine?
+W) 17%
+X) 28%
+Y) 29%
+Z) 24%
+Answer: X
+
+
+Question 543: If a DNA double helix contains 20% Cytosine, what is the percentage of Guanine?
+W) 24%
+X) 33%
+Y) 40%
+Z) 20%
+Answer: Z
+
+
+Question 544: If a DNA double helix contains 31% Guanine, what is the percentage of Adenine?
+W) 37%
+X) 19%
+Y) 12%
+Z) 22%
+Answer: X
+
+
+Question 545: If a DNA double helix contains 29% Adenine, what is the percentage of Cytosine?
+W) 36%
+X) 21%
+Y) 33%
+Z) 11%
+Answer: X
+
+
+Question 546: If a DNA double helix contains 27% Cytosine, what is the percentage of Thymine?
+W) 30%
+X) 23%
+Y) 26%
+Z) 39%
+Answer: X
+
+
+Question 547: If a DNA double helix contains 19% Adenine, what is the percentage of Cytosine?
+W) 34%
+X) 28%
+Y) 36%
+Z) 31%
+Answer: Z
+
+
+Question 548: If a DNA double helix contains 28% Cytosine, what is the percentage of Thymine?
+W) 14%
+X) 22%
+Y) 39%
+Z) 20%
+Answer: X
+
+
+Question 549: If a DNA double helix contains 18% Cytosine, what is the percentage of Adenine?
+W) 12%
+X) 24%
+Y) 32%
+Z) 30%
+Answer: Y
+
+
+Question 550: If a DNA double helix contains 24% Cytosine, what is the percentage of Thymine?
+W) 26%
+X) 24%
+Y) 35%
+Z) 20%
+Answer: W
+
+
+Question 551: If a DNA double helix contains 34% Cytosine, what is the percentage of Guanine?
+W) 19%
+X) 26%
+Y) 14%
+Z) 34%
+Answer: Z
+
+
+Question 552: If a DNA double helix contains 24% Cytosine, what is the percentage of Adenine?
+W) 26%
+X) 15%
+Y) 40%
+Z) 32%
+Answer: W
+
+
+Question 553: If a DNA double helix contains 19% Cytosine, what is the percentage of Thymine?
+W) 31%
+X) 14%
+Y) 35%
+Z) 32%
+Answer: W
+
+
+Question 554: If a DNA double helix contains 23% Guanine, what is the percentage of Thymine?
+W) 27%
+X) 37%
+Y) 10%
+Z) 17%
+Answer: W
+
+
+Question 555: If a DNA double helix contains 33% Thymine, what is the percentage of Adenine?
+W) 26%
+X) 33%
+Y) 18%
+Z) 21%
+Answer: X
+
+
+Question 556: If a DNA double helix contains 35% Cytosine, what is the percentage of Guanine?
+W) 35%
+X) 26%
+Y) 37%
+Z) 28%
+Answer: W
+
+
+Question 557: If a DNA double helix contains 30% Guanine, what is the percentage of Thymine?
+W) 37%
+X) 26%
+Y) 20%
+Z) 15%
+Answer: Y
+
+
+Question 558: If a DNA double helix contains 15% Guanine, what is the percentage of Thymine?
+W) 12%
+X) 35%
+Y) 20%
+Z) 40%
+Answer: X
+
+
+Question 559: If a DNA double helix contains 19% Thymine, what is the percentage of Cytosine?
+W) 33%
+X) 29%
+Y) 34%
+Z) 31%
+Answer: Z
+
+
+Question 560: If a DNA double helix contains 30% Cytosine, what is the percentage of Adenine?
+W) 28%
+X) 39%
+Y) 30%
+Z) 20%
+Answer: Z
+
+
+Question 561: If a DNA double helix contains 26% Thymine, what is the percentage of Guanine?
+W) 22%
+X) 30%
+Y) 11%
+Z) 24%
+Answer: Z
+
+
+Question 562: If a DNA double helix contains 32% Cytosine, what is the percentage of Thymine?
+W) 27%
+X) 33%
+Y) 37%
+Z) 18%
+Answer: Z
+
+
+Question 563: If a DNA double helix contains 22% Thymine, what is the percentage of Cytosine?
+W) 35%
+X) 15%
+Y) 28%
+Z) 33%
+Answer: Y
+
+
+Question 564: If a DNA double helix contains 16% Thymine, what is the percentage of Guanine?
+W) 12%
+X) 34%
+Y) 27%
+Z) 18%
+Answer: X
+
+
+Question 565: If a DNA double helix contains 31% Thymine, what is the percentage of Cytosine?
+W) 19%
+X) 11%
+Y) 17%
+Z) 16%
+Answer: W
+
+
+Question 566: If a DNA double helix contains 18% Guanine, what is the percentage of Thymine?
+W) 11%
+X) 32%
+Y) 38%
+Z) 35%
+Answer: X
+
+
+Question 567: If a DNA double helix contains 30% Thymine, what is the percentage of Adenine?
+W) 12%
+X) 25%
+Y) 30%
+Z) 24%
+Answer: Y
+
+
+Question 568: If a DNA double helix contains 24% Guanine, what is the percentage of Thymine?
+W) 23%
+X) 10%
+Y) 28%
+Z) 26%
+Answer: Z
+
+
+Question 569: If a DNA double helix contains 33% Thymine, what is the percentage of Guanine?
+W) 29%
+X) 34%
+Y) 24%
+Z) 17%
+Answer: Z
+
+
+Question 570: If a DNA double helix contains 30% Cytosine, what is the percentage of Thymine?
+W) 20%
+X) 25%
+Y) 15%
+Z) 26%
+Answer: W
+
+
+Question 571: If a DNA double helix contains 32% Cytosine, what is the percentage of Guanine?
+W) 32%
+X) 18%
+Y) 31%
+Z) 20%
+Answer: W
+
+
+Question 572: If a DNA double helix contains 20% Adenine, what is the percentage of Cytosine?
+W) 20%
+X) 30%
+Y) 10%
+Z) 38%
+Answer: X
+
+
+Question 573: If a DNA double helix contains 17% Thymine, what is the percentage of Cytosine?
+W) 13%
+X) 33%
+Y) 19%
+Z) 31%
+Answer: X
+
+
+Question 574: If a DNA double helix contains 18% Thymine, what is the percentage of Adenine?
+W) 18%
+X) 19%
+Y) 16%
+Z) 26%
+Answer: W
+
+
+Question 575: If a DNA double helix contains 24% Adenine, what is the percentage of Guanine?
+W) 28%
+X) 26%
+Y) 31%
+Z) 16%
+Answer: X
+
+
+Question 576: If a DNA double helix contains 27% Thymine, what is the percentage of Adenine?
+W) 27%
+X) 37%
+Y) 15%
+Z) 29%
+Answer: W
+
+
+Question 577: If a DNA double helix contains 23% Guanine, what is the percentage of Cytosine?
+W) 39%
+X) 23%
+Y) 25%
+Z) 18%
+Answer: X
+
+
+Question 578: If a DNA double helix contains 25% Cytosine, what is the percentage of Thymine?
+W) 25%
+X) 21%
+Y) 33%
+Z) 36%
+Answer: W
+
+
+Question 579: If a DNA double helix contains 33% Guanine, what is the percentage of Adenine?
+W) 10%
+X) 34%
+Y) 17%
+Z) 23%
+Answer: Y
+
+
+Question 580: If a DNA double helix contains 35% Cytosine, what is the percentage of Guanine?
+W) 24%
+X) 18%
+Y) 34%
+Z) 35%
+Answer: Z
+
+
+Question 581: If a DNA double helix contains 23% Thymine, what is the percentage of Cytosine?
+W) 27%
+X) 21%
+Y) 10%
+Z) 36%
+Answer: W
+
+
+Question 582: If a DNA double helix contains 32% Cytosine, what is the percentage of Thymine?
+W) 18%
+X) 35%
+Y) 33%
+Z) 16%
+Answer: W
+
+
+Question 583: If a DNA double helix contains 18% Cytosine, what is the percentage of Guanine?
+W) 18%
+X) 17%
+Y) 20%
+Z) 15%
+Answer: W
+
+
+Question 584: If a DNA double helix contains 27% Adenine, what is the percentage of Guanine?
+W) 32%
+X) 40%
+Y) 23%
+Z) 39%
+Answer: Y
+
+
+Question 585: If a DNA double helix contains 16% Guanine, what is the percentage of Cytosine?
+W) 16%
+X) 11%
+Y) 30%
+Z) 20%
+Answer: W
+
+
+Question 586: If a DNA double helix contains 24% Guanine, what is the percentage of Cytosine?
+W) 14%
+X) 25%
+Y) 38%
+Z) 24%
+Answer: Z
+
+
+Question 587: If a DNA double helix contains 19% Thymine, what is the percentage of Guanine?
+W) 19%
+X) 28%
+Y) 16%
+Z) 31%
+Answer: Z
+
+
+Question 588: If a DNA double helix contains 33% Cytosine, what is the percentage of Thymine?
+W) 34%
+X) 17%
+Y) 31%
+Z) 18%
+Answer: X
+
+
+Question 589: If a DNA double helix contains 17% Thymine, what is the percentage of Guanine?
+W) 20%
+X) 33%
+Y) 32%
+Z) 40%
+Answer: X
+
+
+Question 590: If a DNA double helix contains 25% Thymine, what is the percentage of Cytosine?
+W) 21%
+X) 24%
+Y) 25%
+Z) 17%
+Answer: Y
+
+
+Question 591: If a DNA double helix contains 34% Cytosine, what is the percentage of Thymine?
+W) 39%
+X) 10%
+Y) 14%
+Z) 16%
+Answer: Z
+
+
+Question 592: If a DNA double helix contains 27% Guanine, what is the percentage of Adenine?
+W) 36%
+X) 11%
+Y) 35%
+Z) 23%
+Answer: Z
+
+
+Question 593: If a DNA double helix contains 33% Adenine, what is the percentage of Cytosine?
+W) 17%
+X) 40%
+Y) 11%
+Z) 26%
+Answer: W
+
+
+Question 594: If a DNA double helix contains 33% Cytosine, what is the percentage of Adenine?
+W) 33%
+X) 30%
+Y) 12%
+Z) 17%
+Answer: Z
+
+
+Question 595: If a DNA double helix contains 32% Adenine, what is the percentage of Thymine?
+W) 37%
+X) 26%
+Y) 35%
+Z) 32%
+Answer: Z
+
+
+Question 596: If a DNA double helix contains 17% Thymine, what is the percentage of Guanine?
+W) 36%
+X) 33%
+Y) 18%
+Z) 23%
+Answer: X
+
+
+Question 597: If a DNA double helix contains 17% Cytosine, what is the percentage of Guanine?
+W) 17%
+X) 28%
+Y) 20%
+Z) 30%
+Answer: W
+
+
+Question 598: If a DNA double helix contains 27% Adenine, what is the percentage of Guanine?
+W) 10%
+X) 19%
+Y) 23%
+Z) 29%
+Answer: Y
+
+
+Question 599: If a DNA double helix contains 25% Thymine, what is the percentage of Cytosine?
+W) 25%
+X) 14%
+Y) 37%
+Z) 18%
+Answer: W
+
+
+Question 600: If a DNA double helix contains 35% Guanine, what is the percentage of Thymine?
+W) 16%
+X) 15%
+Y) 36%
+Z) 34%
+Answer: X
+
+
+Question 601: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (yellow)?
+W) 25%
+X) 0%
+Y) 100%
+Z) 50%
+Answer: Z
+
+
+Question 602: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (RR)?
+W) 50%
+X) 0%
+Y) 75%
+Z) 100%
+Answer: X
+
+
+Question 603: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (yellow)?
+W) 25%
+X) 0%
+Y) 50%
+Z) 75%
+Answer: X
+
+
+Question 604: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring having the dominant phenotype (round)?
+W) 25%
+X) 100%
+Y) 0%
+Z) 50%
+Answer: X
+
+
+Question 605: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Ii)?
+W) 75%
+X) 100%
+Y) 0%
+Z) 50%
+Answer: Z
+
+
+Question 606: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (white)?
+W) 25%
+X) 50%
+Y) 100%
+Z) 75%
+Answer: X
+
+
+Question 607: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous recessive (gg)?
+W) 100%
+X) 50%
+Y) 0%
+Z) 25%
+Answer: Z
+
+
+Question 608: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Tt)?
+W) 0%
+X) 50%
+Y) 75%
+Z) 25%
+Answer: X
+
+
+Question 609: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (terminal flowers)?
+W) 50%
+X) 100%
+Y) 0%
+Z) 75%
+Answer: Y
+
+
+Question 610: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring having the recessive phenotype (white fur)?
+W) 0%
+X) 25%
+Y) 75%
+Z) 100%
+Answer: X
+
+
+Question 611: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring having the dominant phenotype (round)?
+W) 100%
+X) 50%
+Y) 25%
+Z) 75%
+Answer: W
+
+
+Question 612: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring having the recessive phenotype (wrinkled)?
+W) 25%
+X) 0%
+Y) 75%
+Z) 100%
+Answer: X
+
+
+Question 613: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Rr)?
+W) 50%
+X) 100%
+Y) 0%
+Z) 75%
+Answer: W
+
+
+Question 614: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous dominant (TT)?
+W) 100%
+X) 25%
+Y) 50%
+Z) 75%
+Answer: X
+
+
+Question 615: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (aa)?
+W) 50%
+X) 0%
+Y) 75%
+Z) 100%
+Answer: Z
+
+
+Question 616: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring having the dominant phenotype (purple)?
+W) 100%
+X) 75%
+Y) 50%
+Z) 25%
+Answer: W
+
+
+Question 617: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (round)?
+W) 50%
+X) 25%
+Y) 0%
+Z) 100%
+Answer: Y
+
+
+Question 618: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (black fur)?
+W) 50%
+X) 25%
+Y) 0%
+Z) 75%
+Answer: Y
+
+
+Question 619: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (round)?
+W) 100%
+X) 50%
+Y) 75%
+Z) 25%
+Answer: X
+
+
+Question 620: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (GG)?
+W) 0%
+X) 25%
+Y) 75%
+Z) 100%
+Answer: W
+
+
+Question 621: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (BB)?
+W) 50%
+X) 75%
+Y) 25%
+Z) 0%
+Answer: Z
+
+
+Question 622: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (short)?
+W) 75%
+X) 100%
+Y) 50%
+Z) 25%
+Answer: Y
+
+
+Question 623: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous recessive (ff)?
+W) 25%
+X) 50%
+Y) 75%
+Z) 0%
+Answer: W
+
+
+Question 624: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Ii)?
+W) 100%
+X) 0%
+Y) 25%
+Z) 50%
+Answer: Z
+
+
+Question 625: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (white fur)?
+W) 25%
+X) 0%
+Y) 100%
+Z) 50%
+Answer: X
+
+
+Question 626: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (FF)?
+W) 100%
+X) 50%
+Y) 75%
+Z) 0%
+Answer: Z
+
+
+Question 627: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Pp)?
+W) 50%
+X) 25%
+Y) 100%
+Z) 75%
+Answer: W
+
+
+Question 628: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous recessive (ii)?
+W) 50%
+X) 0%
+Y) 100%
+Z) 75%
+Answer: X
+
+
+Question 629: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (round)?
+W) 75%
+X) 50%
+Y) 100%
+Z) 0%
+Answer: X
+
+
+Question 630: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (white fur)?
+W) 50%
+X) 75%
+Y) 0%
+Z) 100%
+Answer: Z
+
+
+Question 631: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (gg)?
+W) 0%
+X) 25%
+Y) 75%
+Z) 50%
+Answer: Z
+
+
+Question 632: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Aa)?
+W) 0%
+X) 50%
+Y) 75%
+Z) 25%
+Answer: W
+
+
+Question 633: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous dominant (TT)?
+W) 100%
+X) 0%
+Y) 50%
+Z) 25%
+Answer: Z
+
+
+Question 634: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring having the recessive phenotype (wrinkled)?
+W) 25%
+X) 0%
+Y) 75%
+Z) 100%
+Answer: X
+
+
+Question 635: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (green)?
+W) 50%
+X) 0%
+Y) 100%
+Z) 75%
+Answer: Y
+
+
+Question 636: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring having the recessive phenotype (yellow)?
+W) 50%
+X) 100%
+Y) 25%
+Z) 0%
+Answer: Z
+
+
+Question 637: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Pp)?
+W) 75%
+X) 25%
+Y) 0%
+Z) 100%
+Answer: Y
+
+
+Question 638: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous dominant (RR)?
+W) 0%
+X) 100%
+Y) 25%
+Z) 50%
+Answer: Y
+
+
+Question 639: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (terminal flowers)?
+W) 0%
+X) 50%
+Y) 25%
+Z) 100%
+Answer: Z
+
+
+Question 640: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Gg)?
+W) 50%
+X) 25%
+Y) 0%
+Z) 75%
+Answer: W
+
+
+Question 641: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (BB)?
+W) 25%
+X) 75%
+Y) 0%
+Z) 50%
+Answer: Y
+
+
+Question 642: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring having the recessive phenotype (white)?
+W) 25%
+X) 75%
+Y) 0%
+Z) 50%
+Answer: Y
+
+
+Question 643: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (aa)?
+W) 25%
+X) 0%
+Y) 50%
+Z) 100%
+Answer: Z
+
+
+Question 644: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (PP)?
+W) 0%
+X) 75%
+Y) 50%
+Z) 25%
+Answer: W
+
+
+Question 645: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (ii)?
+W) 75%
+X) 50%
+Y) 25%
+Z) 100%
+Answer: Z
+
+
+Question 646: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (tall)?
+W) 100%
+X) 0%
+Y) 75%
+Z) 25%
+Answer: W
+
+
+Question 647: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (white fur)?
+W) 0%
+X) 50%
+Y) 100%
+Z) 25%
+Answer: W
+
+
+Question 648: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (rr)?
+W) 100%
+X) 0%
+Y) 50%
+Z) 25%
+Answer: Y
+
+
+Question 649: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (PP)?
+W) 25%
+X) 100%
+Y) 75%
+Z) 0%
+Answer: Z
+
+
+Question 650: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (aa)?
+W) 25%
+X) 50%
+Y) 0%
+Z) 75%
+Answer: Y
+
+
+Question 651: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (II)?
+W) 25%
+X) 0%
+Y) 50%
+Z) 75%
+Answer: X
+
+
+Question 652: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (pp)?
+W) 25%
+X) 50%
+Y) 100%
+Z) 0%
+Answer: X
+
+
+Question 653: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring having the dominant phenotype (green)?
+W) 75%
+X) 50%
+Y) 25%
+Z) 0%
+Answer: W
+
+
+Question 654: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Aa)?
+W) 25%
+X) 75%
+Y) 100%
+Z) 50%
+Answer: Z
+
+
+Question 655: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring having the recessive phenotype (constricted pods)?
+W) 100%
+X) 75%
+Y) 0%
+Z) 25%
+Answer: Z
+
+
+Question 656: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (yellow)?
+W) 0%
+X) 75%
+Y) 50%
+Z) 25%
+Answer: Y
+
+
+Question 657: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous recessive (gg)?
+W) 75%
+X) 25%
+Y) 50%
+Z) 0%
+Answer: X
+
+
+Question 658: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Aa)?
+W) 0%
+X) 100%
+Y) 25%
+Z) 50%
+Answer: W
+
+
+Question 659: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (FF)?
+W) 50%
+X) 0%
+Y) 25%
+Z) 100%
+Answer: X
+
+
+Question 660: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous recessive (rr)?
+W) 0%
+X) 75%
+Y) 50%
+Z) 25%
+Answer: Z
+
+
+Question 661: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (white fur)?
+W) 100%
+X) 50%
+Y) 0%
+Z) 25%
+Answer: W
+
+
+Question 662: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Ii)?
+W) 50%
+X) 0%
+Y) 75%
+Z) 100%
+Answer: X
+
+
+Question 663: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring having the recessive phenotype (white fur)?
+W) 75%
+X) 100%
+Y) 50%
+Z) 0%
+Answer: Z
+
+
+Question 664: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous recessive (bb)?
+W) 0%
+X) 75%
+Y) 25%
+Z) 50%
+Answer: Y
+
+
+Question 665: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (BB)?
+W) 0%
+X) 25%
+Y) 50%
+Z) 100%
+Answer: W
+
+
+Question 666: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (tall)?
+W) 50%
+X) 100%
+Y) 25%
+Z) 0%
+Answer: Z
+
+
+Question 667: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (terminal flowers)?
+W) 0%
+X) 75%
+Y) 50%
+Z) 100%
+Answer: Y
+
+
+Question 668: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (purple)?
+W) 100%
+X) 50%
+Y) 75%
+Z) 25%
+Answer: W
+
+
+Question 669: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (wrinkled)?
+W) 0%
+X) 50%
+Y) 75%
+Z) 100%
+Answer: W
+
+
+Question 670: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring having the dominant phenotype (brown eyes)?
+W) 50%
+X) 75%
+Y) 100%
+Z) 0%
+Answer: Y
+
+
+Question 671: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Pp)?
+W) 75%
+X) 50%
+Y) 25%
+Z) 100%
+Answer: Z
+
+
+Question 672: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (tall)?
+W) 0%
+X) 50%
+Y) 75%
+Z) 100%
+Answer: Z
+
+
+Question 673: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous recessive (bb)?
+W) 25%
+X) 0%
+Y) 100%
+Z) 50%
+Answer: W
+
+
+Question 674: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (wrinkled)?
+W) 25%
+X) 100%
+Y) 0%
+Z) 75%
+Answer: X
+
+
+Question 675: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (ii)?
+W) 75%
+X) 100%
+Y) 0%
+Z) 50%
+Answer: Z
+
+
+Question 676: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (brown eyes)?
+W) 0%
+X) 75%
+Y) 100%
+Z) 25%
+Answer: Y
+
+
+Question 677: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (yellow)?
+W) 0%
+X) 75%
+Y) 100%
+Z) 25%
+Answer: Y
+
+
+Question 678: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (FF)?
+W) 100%
+X) 0%
+Y) 25%
+Z) 75%
+Answer: X
+
+
+Question 679: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Ff)?
+W) 50%
+X) 25%
+Y) 75%
+Z) 100%
+Answer: W
+
+
+Question 680: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (GG)?
+W) 0%
+X) 75%
+Y) 100%
+Z) 25%
+Answer: W
+
+
+Question 681: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Aa)?
+W) 100%
+X) 75%
+Y) 50%
+Z) 25%
+Answer: Y
+
+
+Question 682: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Ii)?
+W) 25%
+X) 50%
+Y) 100%
+Z) 0%
+Answer: Z
+
+
+Question 683: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous dominant (GG)?
+W) 0%
+X) 75%
+Y) 100%
+Z) 25%
+Answer: Z
+
+
+Question 684: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Tt)?
+W) 50%
+X) 100%
+Y) 0%
+Z) 75%
+Answer: X
+
+
+Question 685: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring having the recessive phenotype (white fur)?
+W) 25%
+X) 50%
+Y) 100%
+Z) 75%
+Answer: W
+
+
+Question 686: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Pp)?
+W) 0%
+X) 75%
+Y) 100%
+Z) 50%
+Answer: Z
+
+
+Question 687: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (purple)?
+W) 75%
+X) 100%
+Y) 50%
+Z) 0%
+Answer: X
+
+
+Question 688: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring having the dominant phenotype (black fur)?
+W) 100%
+X) 0%
+Y) 75%
+Z) 50%
+Answer: W
+
+
+Question 689: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Gg)?
+W) 50%
+X) 100%
+Y) 75%
+Z) 25%
+Answer: X
+
+
+Question 690: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (ii)?
+W) 75%
+X) 100%
+Y) 50%
+Z) 0%
+Answer: Z
+
+
+Question 691: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (round)?
+W) 25%
+X) 75%
+Y) 50%
+Z) 100%
+Answer: Y
+
+
+Question 692: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (FF)?
+W) 0%
+X) 25%
+Y) 50%
+Z) 75%
+Answer: W
+
+
+Question 693: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Pp)?
+W) 0%
+X) 100%
+Y) 50%
+Z) 75%
+Answer: Y
+
+
+Question 694: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring having the dominant phenotype (inflated pods)?
+W) 25%
+X) 50%
+Y) 100%
+Z) 75%
+Answer: Y
+
+
+Question 695: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Pp)?
+W) 100%
+X) 50%
+Y) 0%
+Z) 25%
+Answer: X
+
+
+Question 696: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (GG)?
+W) 0%
+X) 100%
+Y) 75%
+Z) 50%
+Answer: W
+
+
+Question 697: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Rr)?
+W) 0%
+X) 100%
+Y) 75%
+Z) 50%
+Answer: X
+
+
+Question 698: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (brown eyes)?
+W) 0%
+X) 100%
+Y) 25%
+Z) 75%
+Answer: W
+
+
+Question 699: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring having the dominant phenotype (tall)?
+W) 75%
+X) 50%
+Y) 100%
+Z) 0%
+Answer: Y
+
+
+Question 700: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring having the dominant phenotype (tall)?
+W) 75%
+X) 50%
+Y) 0%
+Z) 25%
+Answer: W
+
+
+Question 701: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring having the recessive phenotype (white fur)?
+W) 100%
+X) 75%
+Y) 50%
+Z) 25%
+Answer: Z
+
+
+Question 702: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous recessive (tt)?
+W) 75%
+X) 50%
+Y) 100%
+Z) 0%
+Answer: Z
+
+
+Question 703: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (aa)?
+W) 0%
+X) 75%
+Y) 25%
+Z) 50%
+Answer: W
+
+
+Question 704: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Ff)?
+W) 75%
+X) 100%
+Y) 50%
+Z) 0%
+Answer: Y
+
+
+Question 705: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous dominant (RR)?
+W) 0%
+X) 50%
+Y) 75%
+Z) 100%
+Answer: X
+
+
+Question 706: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Tt)?
+W) 100%
+X) 75%
+Y) 50%
+Z) 0%
+Answer: Y
+
+
+Question 707: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Aa)?
+W) 50%
+X) 75%
+Y) 0%
+Z) 25%
+Answer: W
+
+
+Question 708: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring having the recessive phenotype (white fur)?
+W) 25%
+X) 0%
+Y) 75%
+Z) 100%
+Answer: X
+
+
+Question 709: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous recessive (ff)?
+W) 75%
+X) 0%
+Y) 50%
+Z) 25%
+Answer: X
+
+
+Question 710: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous recessive (ii)?
+W) 0%
+X) 75%
+Y) 50%
+Z) 25%
+Answer: Z
+
+
+Question 711: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (white fur)?
+W) 25%
+X) 100%
+Y) 50%
+Z) 0%
+Answer: X
+
+
+Question 712: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous recessive (gg)?
+W) 75%
+X) 0%
+Y) 25%
+Z) 100%
+Answer: X
+
+
+Question 713: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous dominant (RR)?
+W) 75%
+X) 50%
+Y) 25%
+Z) 0%
+Answer: X
+
+
+Question 714: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring having the dominant phenotype (purple)?
+W) 100%
+X) 25%
+Y) 75%
+Z) 50%
+Answer: Y
+
+
+Question 715: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (white fur)?
+W) 50%
+X) 75%
+Y) 100%
+Z) 0%
+Answer: W
+
+
+Question 716: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous dominant (II)?
+W) 0%
+X) 100%
+Y) 75%
+Z) 50%
+Answer: Z
+
+
+Question 717: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Rr)?
+W) 50%
+X) 75%
+Y) 25%
+Z) 100%
+Answer: W
+
+
+Question 718: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (brown eyes)?
+W) 0%
+X) 75%
+Y) 100%
+Z) 50%
+Answer: Z
+
+
+Question 719: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Ii)?
+W) 75%
+X) 50%
+Y) 100%
+Z) 0%
+Answer: X
+
+
+Question 720: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Ii)?
+W) 100%
+X) 25%
+Y) 50%
+Z) 0%
+Answer: Y
+
+
+Question 721: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (RR)?
+W) 0%
+X) 25%
+Y) 75%
+Z) 50%
+Answer: W
+
+
+Question 722: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous dominant (BB)?
+W) 25%
+X) 50%
+Y) 0%
+Z) 75%
+Answer: W
+
+
+Question 723: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (GG)?
+W) 50%
+X) 75%
+Y) 0%
+Z) 100%
+Answer: Y
+
+
+Question 724: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Bb)?
+W) 100%
+X) 50%
+Y) 25%
+Z) 0%
+Answer: W
+
+
+Question 725: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (pp)?
+W) 100%
+X) 75%
+Y) 50%
+Z) 0%
+Answer: Z
+
+
+Question 726: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Gg)?
+W) 50%
+X) 25%
+Y) 75%
+Z) 0%
+Answer: W
+
+
+Question 727: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous dominant (AA)?
+W) 50%
+X) 75%
+Y) 100%
+Z) 0%
+Answer: W
+
+
+Question 728: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Bb)?
+W) 100%
+X) 25%
+Y) 75%
+Z) 50%
+Answer: Z
+
+
+Question 729: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (purple)?
+W) 100%
+X) 50%
+Y) 0%
+Z) 75%
+Answer: X
+
+
+Question 730: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring having the dominant phenotype (purple)?
+W) 25%
+X) 100%
+Y) 50%
+Z) 75%
+Answer: Z
+
+
+Question 731: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous recessive (ff)?
+W) 100%
+X) 25%
+Y) 75%
+Z) 50%
+Answer: X
+
+
+Question 732: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring having the dominant phenotype (round)?
+W) 25%
+X) 100%
+Y) 75%
+Z) 50%
+Answer: Y
+
+
+Question 733: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (aa)?
+W) 75%
+X) 0%
+Y) 25%
+Z) 100%
+Answer: X
+
+
+Question 734: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (ii)?
+W) 75%
+X) 100%
+Y) 50%
+Z) 0%
+Answer: Z
+
+
+Question 735: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (yellow)?
+W) 100%
+X) 25%
+Y) 75%
+Z) 0%
+Answer: Z
+
+
+Question 736: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (white fur)?
+W) 50%
+X) 0%
+Y) 25%
+Z) 75%
+Answer: W
+
+
+Question 737: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous dominant (GG)?
+W) 100%
+X) 25%
+Y) 0%
+Z) 50%
+Answer: Z
+
+
+Question 738: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (brown eyes)?
+W) 75%
+X) 50%
+Y) 100%
+Z) 25%
+Answer: X
+
+
+Question 739: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Aa)?
+W) 50%
+X) 25%
+Y) 75%
+Z) 100%
+Answer: W
+
+
+Question 740: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (PP)?
+W) 0%
+X) 100%
+Y) 25%
+Z) 50%
+Answer: W
+
+
+Question 741: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous dominant (BB)?
+W) 0%
+X) 100%
+Y) 75%
+Z) 50%
+Answer: Z
+
+
+Question 742: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Aa)?
+W) 100%
+X) 50%
+Y) 0%
+Z) 25%
+Answer: X
+
+
+Question 743: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Rr)?
+W) 75%
+X) 50%
+Y) 25%
+Z) 100%
+Answer: X
+
+
+Question 744: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (axial flowers)?
+W) 50%
+X) 100%
+Y) 0%
+Z) 25%
+Answer: X
+
+
+Question 745: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring having the dominant phenotype (green)?
+W) 25%
+X) 75%
+Y) 50%
+Z) 0%
+Answer: X
+
+
+Question 746: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Tt)?
+W) 75%
+X) 100%
+Y) 50%
+Z) 0%
+Answer: Y
+
+
+Question 747: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Ii)?
+W) 75%
+X) 100%
+Y) 50%
+Z) 0%
+Answer: Y
+
+
+Question 748: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous recessive (ff)?
+W) 100%
+X) 50%
+Y) 0%
+Z) 25%
+Answer: Y
+
+
+Question 749: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous dominant (II)?
+W) 0%
+X) 25%
+Y) 75%
+Z) 100%
+Answer: X
+
+
+Question 750: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (RR)?
+W) 0%
+X) 50%
+Y) 100%
+Z) 25%
+Answer: W
+
+
+Question 751: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Pp)?
+W) 0%
+X) 50%
+Y) 25%
+Z) 100%
+Answer: X
+
+
+Question 752: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous dominant (FF)?
+W) 25%
+X) 100%
+Y) 50%
+Z) 0%
+Answer: Y
+
+
+Question 753: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (gg)?
+W) 75%
+X) 50%
+Y) 100%
+Z) 0%
+Answer: Y
+
+
+Question 754: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring having the recessive phenotype (white)?
+W) 0%
+X) 100%
+Y) 50%
+Z) 25%
+Answer: W
+
+
+Question 755: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Pp)?
+W) 100%
+X) 75%
+Y) 50%
+Z) 0%
+Answer: Y
+
+
+Question 756: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (green)?
+W) 50%
+X) 100%
+Y) 25%
+Z) 0%
+Answer: W
+
+
+Question 757: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (ii)?
+W) 25%
+X) 75%
+Y) 100%
+Z) 0%
+Answer: Z
+
+
+Question 758: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (gg)?
+W) 75%
+X) 100%
+Y) 25%
+Z) 0%
+Answer: X
+
+
+Question 759: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (blue eyes)?
+W) 100%
+X) 75%
+Y) 25%
+Z) 0%
+Answer: Z
+
+
+Question 760: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Pp)?
+W) 100%
+X) 75%
+Y) 50%
+Z) 0%
+Answer: W
+
+
+Question 761: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous dominant (FF)?
+W) 0%
+X) 25%
+Y) 75%
+Z) 50%
+Answer: X
+
+
+Question 762: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (round)?
+W) 25%
+X) 100%
+Y) 50%
+Z) 75%
+Answer: X
+
+
+Question 763: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous recessive (ff)?
+W) 75%
+X) 0%
+Y) 100%
+Z) 50%
+Answer: X
+
+
+Question 764: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (black fur)?
+W) 100%
+X) 50%
+Y) 25%
+Z) 0%
+Answer: Z
+
+
+Question 765: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring having the dominant phenotype (inflated pods)?
+W) 0%
+X) 75%
+Y) 50%
+Z) 100%
+Answer: X
+
+
+Question 766: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (PP)?
+W) 25%
+X) 100%
+Y) 0%
+Z) 50%
+Answer: Y
+
+
+Question 767: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (axial flowers)?
+W) 75%
+X) 0%
+Y) 50%
+Z) 25%
+Answer: X
+
+
+Question 768: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring having the recessive phenotype (yellow)?
+W) 50%
+X) 100%
+Y) 0%
+Z) 75%
+Answer: Y
+
+
+Question 769: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Tt)?
+W) 100%
+X) 75%
+Y) 50%
+Z) 25%
+Answer: Y
+
+
+Question 770: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Ff)?
+W) 25%
+X) 50%
+Y) 100%
+Z) 0%
+Answer: Y
+
+
+Question 771: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring having the recessive phenotype (white)?
+W) 75%
+X) 50%
+Y) 25%
+Z) 100%
+Answer: Y
+
+
+Question 772: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (PP)?
+W) 100%
+X) 0%
+Y) 25%
+Z) 75%
+Answer: X
+
+
+Question 773: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (bb)?
+W) 50%
+X) 100%
+Y) 0%
+Z) 25%
+Answer: Y
+
+
+Question 774: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (FF)?
+W) 50%
+X) 0%
+Y) 100%
+Z) 25%
+Answer: X
+
+
+Question 775: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (ii)?
+W) 50%
+X) 25%
+Y) 0%
+Z) 100%
+Answer: Z
+
+
+Question 776: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (white)?
+W) 50%
+X) 100%
+Y) 25%
+Z) 0%
+Answer: W
+
+
+Question 777: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous recessive (tt)?
+W) 25%
+X) 0%
+Y) 50%
+Z) 100%
+Answer: Y
+
+
+Question 778: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (wrinkled)?
+W) 0%
+X) 75%
+Y) 25%
+Z) 50%
+Answer: W
+
+
+Question 779: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Rr)?
+W) 25%
+X) 100%
+Y) 0%
+Z) 50%
+Answer: Z
+
+
+Question 780: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous recessive (tt)?
+W) 100%
+X) 50%
+Y) 75%
+Z) 25%
+Answer: Z
+
+
+Question 781: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (terminal flowers)?
+W) 75%
+X) 100%
+Y) 25%
+Z) 50%
+Answer: X
+
+
+Question 782: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (axial flowers)?
+W) 75%
+X) 25%
+Y) 100%
+Z) 0%
+Answer: Y
+
+
+Question 783: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (BB)?
+W) 75%
+X) 25%
+Y) 50%
+Z) 0%
+Answer: Z
+
+
+Question 784: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring having the dominant phenotype (tall)?
+W) 100%
+X) 0%
+Y) 75%
+Z) 50%
+Answer: Y
+
+
+Question 785: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (white)?
+W) 75%
+X) 100%
+Y) 25%
+Z) 50%
+Answer: Z
+
+
+Question 786: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being heterozygous (Aa)?
+W) 0%
+X) 75%
+Y) 100%
+Z) 50%
+Answer: Z
+
+
+Question 787: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (II)?
+W) 50%
+X) 75%
+Y) 0%
+Z) 100%
+Answer: Y
+
+
+Question 788: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous recessive (tt)?
+W) 75%
+X) 25%
+Y) 50%
+Z) 0%
+Answer: X
+
+
+Question 789: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (brown eyes)?
+W) 100%
+X) 75%
+Y) 25%
+Z) 0%
+Answer: W
+
+
+Question 790: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (RR)?
+W) 0%
+X) 25%
+Y) 75%
+Z) 50%
+Answer: W
+
+
+Question 791: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Bb)?
+W) 25%
+X) 0%
+Y) 75%
+Z) 50%
+Answer: Z
+
+
+Question 792: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being homozygous dominant (RR)?
+W) 25%
+X) 50%
+Y) 75%
+Z) 0%
+Answer: Z
+
+
+Question 793: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the recessive phenotype (white fur)?
+W) 75%
+X) 0%
+Y) 50%
+Z) 100%
+Answer: Z
+
+
+Question 794: In a cross between a homozygous recessive parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (tall)?
+W) 0%
+X) 50%
+Y) 100%
+Z) 75%
+Answer: W
+
+
+Question 795: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous dominant (II)?
+W) 50%
+X) 0%
+Y) 25%
+Z) 100%
+Answer: Y
+
+
+Question 796: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring having the recessive phenotype (terminal flowers)?
+W) 50%
+X) 0%
+Y) 75%
+Z) 25%
+Answer: Z
+
+
+Question 797: In a cross between a heterozygous parent and a homozygous recessive parent for a single trait, what is the probability of an offspring having the dominant phenotype (inflated pods)?
+W) 100%
+X) 0%
+Y) 50%
+Z) 25%
+Answer: Y
+
+
+Question 798: In a cross between a heterozygous parent and a heterozygous parent for a single trait, what is the probability of an offspring having the dominant phenotype (green)?
+W) 25%
+X) 100%
+Y) 75%
+Z) 50%
+Answer: Y
+
+
+Question 799: In a cross between a homozygous dominant parent and a homozygous recessive parent for a single trait, what is the probability of an offspring being heterozygous (Pp)?
+W) 50%
+X) 75%
+Y) 100%
+Z) 25%
+Answer: Y
+
+
+Question 800: In a cross between a homozygous dominant parent and a heterozygous parent for a single trait, what is the probability of an offspring being homozygous dominant (FF)?
+W) 0%
+X) 50%
+Y) 75%
+Z) 100%
+Answer: X
+
+
+Question 801: What is the definition of the term 'Mitosis'?
+W) A change in the nucleotide sequence of an organism's DNA.
+X) An enzyme that untwists the double helix of DNA at replication forks.
+Y) A process of nuclear division in eukaryotic cells conventionally divided into five stages.
+Z) The genetic makeup of an organism.
+Answer: Y
+
+
+Question 802: What is the definition of the term 'Diploid'?
+W) An enzyme that untwists the double helix of DNA at replication forks.
+X) A cell containing two sets of chromosomes, one set inherited from each parent.
+Y) A small protein with a high proportion of positively charged amino acids that binds to the negatively charged DNA.
+Z) A type of nitrogenous base in DNA and RNA, including adenine and guanine.
+Answer: X
+
+
+Question 803: What is the definition of the term 'Codon'?
+W) A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.
+X) A cell containing only one set of chromosomes.
+Y) A modified type of cell division producing four haploid cells.
+Z) A sequence within a primary transcript that remains in the RNA after RNA processing.
+Answer: W
+
+
+Question 804: What is the definition of the term 'Allele'?
+W) An enzyme that catalyzes the elongation of new DNA by the addition of nucleotides.
+X) The observable physical traits of an organism.
+Y) A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.
+Z) An alternative version of a gene.
+Answer: Z
+
+
+Question 805: What is the definition of the term 'Ligase'?
+W) The diploid cell produced by the union of haploid gametes during fertilization.
+X) A cellular structure consisting of one DNA molecule and associated protein molecules.
+Y) The observable physical traits of an organism.
+Z) A linking enzyme essential for DNA replication; catalyzes the covalent bonding of DNA fragments.
+Answer: Z
+
+
+Question 806: What is the definition of the term 'Haploid'?
+W) A cellular structure consisting of one DNA molecule and associated protein molecules.
+X) A change in the nucleotide sequence of an organism's DNA.
+Y) A cell containing only one set of chromosomes.
+Z) A sequence within a primary transcript that remains in the RNA after RNA processing.
+Answer: Y
+
+
+Question 807: What is the definition of the term 'Locus'?
+W) The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.
+X) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+Y) A specific place along the length of a chromosome where a given gene is located.
+Z) A cell containing only one set of chromosomes.
+Answer: Y
+
+
+Question 808: What is the definition of the term 'Homozygous'?
+W) An allele that is fully expressed in the phenotype of a heterozygote.
+X) An alternative version of a gene.
+Y) A cell containing two sets of chromosomes, one set inherited from each parent.
+Z) Having two identical alleles for a given gene.
+Answer: Z
+
+
+Question 809: What is the definition of the term 'Phenotype'?
+W) The observable physical traits of an organism.
+X) A linking enzyme essential for DNA replication; catalyzes the covalent bonding of DNA fragments.
+Y) An enzyme that untwists the double helix of DNA at replication forks.
+Z) An allele whose phenotypic effect is not observed in a heterozygote.
+Answer: W
+
+
+Question 810: What is the definition of the term 'Nucleotide'?
+W) A modified type of cell division producing four haploid cells.
+X) A cell containing only one set of chromosomes.
+Y) A linking enzyme essential for DNA replication; catalyzes the covalent bonding of DNA fragments.
+Z) The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.
+Answer: Z
+
+
+Question 811: What is the definition of the term 'Diploid'?
+W) An enzyme that untwists the double helix of DNA at replication forks.
+X) A cell containing two sets of chromosomes, one set inherited from each parent.
+Y) An enzyme that catalyzes the elongation of new DNA by the addition of nucleotides.
+Z) An allele that is fully expressed in the phenotype of a heterozygote.
+Answer: X
+
+
+Question 812: What is the definition of the term 'Genotype'?
+W) A change in the nucleotide sequence of an organism's DNA.
+X) A modified type of cell division producing four haploid cells.
+Y) The genetic makeup of an organism.
+Z) The synthesis of RNA using a DNA template.
+Answer: Y
+
+
+Question 813: What is the definition of the term 'Purine'?
+W) The observable physical traits of an organism.
+X) An allele whose phenotypic effect is not observed in a heterozygote.
+Y) A type of nitrogenous base in DNA and RNA, including adenine and guanine.
+Z) An enzyme that untwists the double helix of DNA at replication forks.
+Answer: Y
+
+
+Question 814: What is the definition of the term 'Translation'?
+W) The diploid cell produced by the union of haploid gametes during fertilization.
+X) The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.
+Y) A type of nitrogenous base in DNA and RNA, including adenine and guanine.
+Z) The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.
+Answer: X
+
+
+Question 815: What is the definition of the term 'Locus'?
+W) A cellular structure consisting of one DNA molecule and associated protein molecules.
+X) An allele that is fully expressed in the phenotype of a heterozygote.
+Y) A specific place along the length of a chromosome where a given gene is located.
+Z) The synthesis of RNA using a DNA template.
+Answer: Y
+
+
+Question 816: What is the definition of the term 'Nucleotide'?
+W) An allele that is fully expressed in the phenotype of a heterozygote.
+X) Having two identical alleles for a given gene.
+Y) The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.
+Z) A cell containing two sets of chromosomes, one set inherited from each parent.
+Answer: Y
+
+
+Question 817: What is the definition of the term 'Anticodon'?
+W) The synthesis of RNA using a DNA template.
+X) An enzyme that catalyzes the elongation of new DNA by the addition of nucleotides.
+Y) A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.
+Z) A type of nitrogenous base in DNA and RNA, including adenine and guanine.
+Answer: Y
+
+
+Question 818: What is the definition of the term 'Meiosis'?
+W) Having two identical alleles for a given gene.
+X) A linking enzyme essential for DNA replication; catalyzes the covalent bonding of DNA fragments.
+Y) A modified type of cell division producing four haploid cells.
+Z) A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.
+Answer: Y
+
+
+Question 819: What is the definition of the term 'Codon'?
+W) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+X) A cell containing only one set of chromosomes.
+Y) A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.
+Z) A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.
+Answer: Z
+
+
+Question 820: What is the definition of the term 'Gene'?
+W) A cell containing two sets of chromosomes, one set inherited from each parent.
+X) A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.
+Y) A diagram of a family tree showing the occurrence of heritable characters in parents and offspring.
+Z) The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.
+Answer: X
+
+
+Question 821: What is the definition of the term 'Pedigree'?
+W) A small protein with a high proportion of positively charged amino acids that binds to the negatively charged DNA.
+X) Having two different alleles for a given gene.
+Y) Having two identical alleles for a given gene.
+Z) A diagram of a family tree showing the occurrence of heritable characters in parents and offspring.
+Answer: Z
+
+
+Question 822: What is the definition of the term 'Intron'?
+W) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+X) An allele that is fully expressed in the phenotype of a heterozygote.
+Y) A cell containing two sets of chromosomes, one set inherited from each parent.
+Z) An allele whose phenotypic effect is not observed in a heterozygote.
+Answer: W
+
+
+Question 823: What is the definition of the term 'Ligase'?
+W) A linking enzyme essential for DNA replication; catalyzes the covalent bonding of DNA fragments.
+X) The observable physical traits of an organism.
+Y) An enzyme that untwists the double helix of DNA at replication forks.
+Z) A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.
+Answer: W
+
+
+Question 824: What is the definition of the term 'Homozygous'?
+W) The genetic makeup of an organism.
+X) A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.
+Y) Having two identical alleles for a given gene.
+Z) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+Answer: Y
+
+
+Question 825: What is the definition of the term 'Heterozygous'?
+W) A cell containing only one set of chromosomes.
+X) A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.
+Y) The diploid cell produced by the union of haploid gametes during fertilization.
+Z) Having two different alleles for a given gene.
+Answer: Z
+
+
+Question 826: What is the definition of the term 'DNA Polymerase'?
+W) A type of nitrogenous base in DNA and RNA, including adenine and guanine.
+X) An enzyme that catalyzes the elongation of new DNA by the addition of nucleotides.
+Y) Having two identical alleles for a given gene.
+Z) An alternative version of a gene.
+Answer: X
+
+
+Question 827: What is the definition of the term 'Locus'?
+W) Having two different alleles for a given gene.
+X) A diagram of a family tree showing the occurrence of heritable characters in parents and offspring.
+Y) A specific place along the length of a chromosome where a given gene is located.
+Z) A type of nitrogenous base in DNA and RNA, including adenine and guanine.
+Answer: Y
+
+
+Question 828: What is the definition of the term 'Nucleotide'?
+W) A process of nuclear division in eukaryotic cells conventionally divided into five stages.
+X) The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.
+Y) An allele whose phenotypic effect is not observed in a heterozygote.
+Z) An enzyme that untwists the double helix of DNA at replication forks.
+Answer: X
+
+
+Question 829: What is the definition of the term 'Homozygous'?
+W) An allele whose phenotypic effect is not observed in a heterozygote.
+X) A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.
+Y) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+Z) Having two identical alleles for a given gene.
+Answer: Z
+
+
+Question 830: What is the definition of the term 'Pyrimidine'?
+W) Having two different alleles for a given gene.
+X) A small protein with a high proportion of positively charged amino acids that binds to the negatively charged DNA.
+Y) An enzyme that catalyzes the elongation of new DNA by the addition of nucleotides.
+Z) A type of nitrogenous base in DNA and RNA, including cytosine, thymine, and uracil.
+Answer: Z
+
+
+Question 831: What is the definition of the term 'Intron'?
+W) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+X) An allele that is fully expressed in the phenotype of a heterozygote.
+Y) A cellular structure consisting of one DNA molecule and associated protein molecules.
+Z) A process of nuclear division in eukaryotic cells conventionally divided into five stages.
+Answer: W
+
+
+Question 832: What is the definition of the term 'Chromosome'?
+W) A specific place along the length of a chromosome where a given gene is located.
+X) A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.
+Y) A type of nitrogenous base in DNA and RNA, including cytosine, thymine, and uracil.
+Z) A cellular structure consisting of one DNA molecule and associated protein molecules.
+Answer: Z
+
+
+Question 833: What is the definition of the term 'Pyrimidine'?
+W) The diploid cell produced by the union of haploid gametes during fertilization.
+X) A change in the nucleotide sequence of an organism's DNA.
+Y) The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.
+Z) A type of nitrogenous base in DNA and RNA, including cytosine, thymine, and uracil.
+Answer: Z
+
+
+Question 834: What is the definition of the term 'Translation'?
+W) A type of nitrogenous base in DNA and RNA, including cytosine, thymine, and uracil.
+X) The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.
+Y) A modified type of cell division producing four haploid cells.
+Z) An enzyme that untwists the double helix of DNA at replication forks.
+Answer: X
+
+
+Question 835: What is the definition of the term 'Helicase'?
+W) A modified type of cell division producing four haploid cells.
+X) An enzyme that untwists the double helix of DNA at replication forks.
+Y) A type of nitrogenous base in DNA and RNA, including adenine and guanine.
+Z) A linking enzyme essential for DNA replication; catalyzes the covalent bonding of DNA fragments.
+Answer: X
+
+
+Question 836: What is the definition of the term 'Chromosome'?
+W) A linking enzyme essential for DNA replication; catalyzes the covalent bonding of DNA fragments.
+X) A modified type of cell division producing four haploid cells.
+Y) A cellular structure consisting of one DNA molecule and associated protein molecules.
+Z) A change in the nucleotide sequence of an organism's DNA.
+Answer: Y
+
+
+Question 837: What is the definition of the term 'Exon'?
+W) An alternative version of a gene.
+X) The observable physical traits of an organism.
+Y) A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.
+Z) A sequence within a primary transcript that remains in the RNA after RNA processing.
+Answer: Z
+
+
+Question 838: What is the definition of the term 'Zygote'?
+W) The diploid cell produced by the union of haploid gametes during fertilization.
+X) The synthesis of RNA using a DNA template.
+Y) A modified type of cell division producing four haploid cells.
+Z) The genetic makeup of an organism.
+Answer: W
+
+
+Question 839: What is the definition of the term 'Anticodon'?
+W) A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.
+X) A process of nuclear division in eukaryotic cells conventionally divided into five stages.
+Y) A change in the nucleotide sequence of an organism's DNA.
+Z) A type of nitrogenous base in DNA and RNA, including adenine and guanine.
+Answer: W
+
+
+Question 840: What is the definition of the term 'Pedigree'?
+W) A type of nitrogenous base in DNA and RNA, including cytosine, thymine, and uracil.
+X) A diagram of a family tree showing the occurrence of heritable characters in parents and offspring.
+Y) A specific place along the length of a chromosome where a given gene is located.
+Z) An enzyme that untwists the double helix of DNA at replication forks.
+Answer: X
+
+
+Question 841: What is the definition of the term 'Helicase'?
+W) The observable physical traits of an organism.
+X) An enzyme that untwists the double helix of DNA at replication forks.
+Y) A change in the nucleotide sequence of an organism's DNA.
+Z) A cell containing only one set of chromosomes.
+Answer: X
+
+
+Question 842: What is the definition of the term 'Gene'?
+W) A process of nuclear division in eukaryotic cells conventionally divided into five stages.
+X) A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.
+Y) A small protein with a high proportion of positively charged amino acids that binds to the negatively charged DNA.
+Z) A specific place along the length of a chromosome where a given gene is located.
+Answer: X
+
+
+Question 843: What is the definition of the term 'Mutation'?
+W) A change in the nucleotide sequence of an organism's DNA.
+X) The synthesis of RNA using a DNA template.
+Y) A cellular structure consisting of one DNA molecule and associated protein molecules.
+Z) A diagram of a family tree showing the occurrence of heritable characters in parents and offspring.
+Answer: W
+
+
+Question 844: What is the definition of the term 'Recessive allele'?
+W) An allele whose phenotypic effect is not observed in a heterozygote.
+X) The synthesis of RNA using a DNA template.
+Y) A type of nitrogenous base in DNA and RNA, including cytosine, thymine, and uracil.
+Z) A linking enzyme essential for DNA replication; catalyzes the covalent bonding of DNA fragments.
+Answer: W
+
+
+Question 845: What is the definition of the term 'Exon'?
+W) A sequence within a primary transcript that remains in the RNA after RNA processing.
+X) An allele whose phenotypic effect is not observed in a heterozygote.
+Y) A cell containing two sets of chromosomes, one set inherited from each parent.
+Z) A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.
+Answer: W
+
+
+Question 846: What is the definition of the term 'Recessive allele'?
+W) A cell containing only one set of chromosomes.
+X) A cell containing two sets of chromosomes, one set inherited from each parent.
+Y) An allele whose phenotypic effect is not observed in a heterozygote.
+Z) The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.
+Answer: Y
+
+
+Question 847: What is the definition of the term 'Intron'?
+W) An enzyme that catalyzes the elongation of new DNA by the addition of nucleotides.
+X) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+Y) Having two identical alleles for a given gene.
+Z) An allele that is fully expressed in the phenotype of a heterozygote.
+Answer: X
+
+
+Question 848: What is the definition of the term 'Recessive allele'?
+W) A process of nuclear division in eukaryotic cells conventionally divided into five stages.
+X) A modified type of cell division producing four haploid cells.
+Y) An allele whose phenotypic effect is not observed in a heterozygote.
+Z) A type of nitrogenous base in DNA and RNA, including adenine and guanine.
+Answer: Y
+
+
+Question 849: What is the definition of the term 'Transcription'?
+W) The synthesis of RNA using a DNA template.
+X) A cellular structure consisting of one DNA molecule and associated protein molecules.
+Y) An enzyme that catalyzes the elongation of new DNA by the addition of nucleotides.
+Z) A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.
+Answer: W
+
+
+Question 850: What is the definition of the term 'Ligase'?
+W) Having two different alleles for a given gene.
+X) A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.
+Y) A change in the nucleotide sequence of an organism's DNA.
+Z) A linking enzyme essential for DNA replication; catalyzes the covalent bonding of DNA fragments.
+Answer: Z
+
+
+Question 851: What is the definition of the term 'Translation'?
+W) A type of nitrogenous base in DNA and RNA, including cytosine, thymine, and uracil.
+X) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+Y) A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.
+Z) The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.
+Answer: Z
+
+
+Question 852: What is the definition of the term 'Nucleotide'?
+W) The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.
+X) A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.
+Y) A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.
+Z) An enzyme that untwists the double helix of DNA at replication forks.
+Answer: W
+
+
+Question 853: What is the definition of the term 'Recessive allele'?
+W) A specific place along the length of a chromosome where a given gene is located.
+X) An allele whose phenotypic effect is not observed in a heterozygote.
+Y) The genetic makeup of an organism.
+Z) A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.
+Answer: X
+
+
+Question 854: What is the definition of the term 'Helicase'?
+W) A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.
+X) The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.
+Y) A change in the nucleotide sequence of an organism's DNA.
+Z) An enzyme that untwists the double helix of DNA at replication forks.
+Answer: Z
+
+
+Question 855: What is the definition of the term 'Homozygous'?
+W) The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.
+X) The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.
+Y) A type of nitrogenous base in DNA and RNA, including adenine and guanine.
+Z) Having two identical alleles for a given gene.
+Answer: Z
+
+
+Question 856: What is the definition of the term 'Gene'?
+W) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+X) A specific place along the length of a chromosome where a given gene is located.
+Y) A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.
+Z) Having two identical alleles for a given gene.
+Answer: Y
+
+
+Question 857: What is the definition of the term 'Recessive allele'?
+W) The genetic makeup of an organism.
+X) A diagram of a family tree showing the occurrence of heritable characters in parents and offspring.
+Y) A cell containing two sets of chromosomes, one set inherited from each parent.
+Z) An allele whose phenotypic effect is not observed in a heterozygote.
+Answer: Z
+
+
+Question 858: What is the definition of the term 'Mutation'?
+W) A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.
+X) A change in the nucleotide sequence of an organism's DNA.
+Y) A modified type of cell division producing four haploid cells.
+Z) The diploid cell produced by the union of haploid gametes during fertilization.
+Answer: X
+
+
+Question 859: What is the definition of the term 'Chromosome'?
+W) A cellular structure consisting of one DNA molecule and associated protein molecules.
+X) A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.
+Y) A sequence within a primary transcript that remains in the RNA after RNA processing.
+Z) A modified type of cell division producing four haploid cells.
+Answer: W
+
+
+Question 860: What is the definition of the term 'Purine'?
+W) A cellular structure consisting of one DNA molecule and associated protein molecules.
+X) An alternative version of a gene.
+Y) A type of nitrogenous base in DNA and RNA, including adenine and guanine.
+Z) Having two different alleles for a given gene.
+Answer: Y
+
+
+Question 861: What is the definition of the term 'Nucleotide'?
+W) A type of nitrogenous base in DNA and RNA, including cytosine, thymine, and uracil.
+X) The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.
+Y) An allele whose phenotypic effect is not observed in a heterozygote.
+Z) The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.
+Answer: Z
+
+
+Question 862: What is the definition of the term 'Intron'?
+W) The diploid cell produced by the union of haploid gametes during fertilization.
+X) A modified type of cell division producing four haploid cells.
+Y) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+Z) A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.
+Answer: Y
+
+
+Question 863: What is the definition of the term 'Chromosome'?
+W) A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.
+X) A cellular structure consisting of one DNA molecule and associated protein molecules.
+Y) A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.
+Z) A small protein with a high proportion of positively charged amino acids that binds to the negatively charged DNA.
+Answer: X
+
+
+Question 864: What is the definition of the term 'Histone'?
+W) An allele that is fully expressed in the phenotype of a heterozygote.
+X) A cellular structure consisting of one DNA molecule and associated protein molecules.
+Y) A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.
+Z) A small protein with a high proportion of positively charged amino acids that binds to the negatively charged DNA.
+Answer: Z
+
+
+Question 865: What is the definition of the term 'Mitosis'?
+W) A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.
+X) A process of nuclear division in eukaryotic cells conventionally divided into five stages.
+Y) A specific place along the length of a chromosome where a given gene is located.
+Z) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+Answer: X
+
+
+Question 866: What is the definition of the term 'Chromosome'?
+W) A cellular structure consisting of one DNA molecule and associated protein molecules.
+X) Having two identical alleles for a given gene.
+Y) A small protein with a high proportion of positively charged amino acids that binds to the negatively charged DNA.
+Z) The observable physical traits of an organism.
+Answer: W
+
+
+Question 867: What is the definition of the term 'Anticodon'?
+W) A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.
+X) Having two different alleles for a given gene.
+Y) The diploid cell produced by the union of haploid gametes during fertilization.
+Z) A diagram of a family tree showing the occurrence of heritable characters in parents and offspring.
+Answer: W
+
+
+Question 868: What is the definition of the term 'Allele'?
+W) An alternative version of a gene.
+X) A specific place along the length of a chromosome where a given gene is located.
+Y) The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.
+Z) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+Answer: W
+
+
+Question 869: What is the definition of the term 'Codon'?
+W) A linking enzyme essential for DNA replication; catalyzes the covalent bonding of DNA fragments.
+X) A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.
+Y) A type of nitrogenous base in DNA and RNA, including adenine and guanine.
+Z) A diagram of a family tree showing the occurrence of heritable characters in parents and offspring.
+Answer: X
+
+
+Question 870: What is the definition of the term 'Helicase'?
+W) A linking enzyme essential for DNA replication; catalyzes the covalent bonding of DNA fragments.
+X) An enzyme that untwists the double helix of DNA at replication forks.
+Y) A modified type of cell division producing four haploid cells.
+Z) The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.
+Answer: X
+
+
+Question 871: What is the definition of the term 'Transcription'?
+W) A cell containing only one set of chromosomes.
+X) Having two different alleles for a given gene.
+Y) The synthesis of RNA using a DNA template.
+Z) The observable physical traits of an organism.
+Answer: Y
+
+
+Question 872: What is the definition of the term 'Recessive allele'?
+W) The synthesis of RNA using a DNA template.
+X) An allele whose phenotypic effect is not observed in a heterozygote.
+Y) A cellular structure consisting of one DNA molecule and associated protein molecules.
+Z) The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.
+Answer: X
+
+
+Question 873: What is the definition of the term 'Diploid'?
+W) A cell containing two sets of chromosomes, one set inherited from each parent.
+X) A specific place along the length of a chromosome where a given gene is located.
+Y) A diagram of a family tree showing the occurrence of heritable characters in parents and offspring.
+Z) A cellular structure consisting of one DNA molecule and associated protein molecules.
+Answer: W
+
+
+Question 874: What is the definition of the term 'Allele'?
+W) A sequence within a primary transcript that remains in the RNA after RNA processing.
+X) A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.
+Y) A cell containing two sets of chromosomes, one set inherited from each parent.
+Z) An alternative version of a gene.
+Answer: Z
+
+
+Question 875: What is the definition of the term 'Translation'?
+W) A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.
+X) The synthesis of RNA using a DNA template.
+Y) A sequence within a primary transcript that remains in the RNA after RNA processing.
+Z) The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.
+Answer: Z
+
+
+Question 876: What is the definition of the term 'Haploid'?
+W) A cell containing only one set of chromosomes.
+X) A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.
+Y) A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.
+Z) The observable physical traits of an organism.
+Answer: W
+
+
+Question 877: What is the definition of the term 'Chromosome'?
+W) An enzyme that catalyzes the elongation of new DNA by the addition of nucleotides.
+X) The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.
+Y) A cellular structure consisting of one DNA molecule and associated protein molecules.
+Z) A specific place along the length of a chromosome where a given gene is located.
+Answer: Y
+
+
+Question 878: What is the definition of the term 'Pyrimidine'?
+W) A modified type of cell division producing four haploid cells.
+X) An enzyme that catalyzes the elongation of new DNA by the addition of nucleotides.
+Y) A type of nitrogenous base in DNA and RNA, including cytosine, thymine, and uracil.
+Z) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+Answer: Y
+
+
+Question 879: What is the definition of the term 'Transcription'?
+W) The genetic makeup of an organism.
+X) A cellular structure consisting of one DNA molecule and associated protein molecules.
+Y) The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.
+Z) The synthesis of RNA using a DNA template.
+Answer: Z
+
+
+Question 880: What is the definition of the term 'Phenotype'?
+W) A cell containing only one set of chromosomes.
+X) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+Y) A modified type of cell division producing four haploid cells.
+Z) The observable physical traits of an organism.
+Answer: Z
+
+
+Question 881: What is the definition of the term 'DNA Polymerase'?
+W) Having two different alleles for a given gene.
+X) A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.
+Y) An enzyme that catalyzes the elongation of new DNA by the addition of nucleotides.
+Z) A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.
+Answer: Y
+
+
+Question 882: What is the definition of the term 'Gene'?
+W) An allele that is fully expressed in the phenotype of a heterozygote.
+X) A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.
+Y) A small protein with a high proportion of positively charged amino acids that binds to the negatively charged DNA.
+Z) A cellular structure consisting of one DNA molecule and associated protein molecules.
+Answer: X
+
+
+Question 883: What is the definition of the term 'DNA Polymerase'?
+W) The observable physical traits of an organism.
+X) A small protein with a high proportion of positively charged amino acids that binds to the negatively charged DNA.
+Y) A cellular structure consisting of one DNA molecule and associated protein molecules.
+Z) An enzyme that catalyzes the elongation of new DNA by the addition of nucleotides.
+Answer: Z
+
+
+Question 884: What is the definition of the term 'Intron'?
+W) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+X) A type of nitrogenous base in DNA and RNA, including adenine and guanine.
+Y) A small protein with a high proportion of positively charged amino acids that binds to the negatively charged DNA.
+Z) A process of nuclear division in eukaryotic cells conventionally divided into five stages.
+Answer: W
+
+
+Question 885: What is the definition of the term 'Codon'?
+W) A diagram of a family tree showing the occurrence of heritable characters in parents and offspring.
+X) An allele that is fully expressed in the phenotype of a heterozygote.
+Y) A cellular structure consisting of one DNA molecule and associated protein molecules.
+Z) A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.
+Answer: Z
+
+
+Question 886: What is the definition of the term 'Phenotype'?
+W) A specific place along the length of a chromosome where a given gene is located.
+X) The observable physical traits of an organism.
+Y) Having two different alleles for a given gene.
+Z) The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.
+Answer: X
+
+
+Question 887: What is the definition of the term 'Zygote'?
+W) A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.
+X) The diploid cell produced by the union of haploid gametes during fertilization.
+Y) The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.
+Z) A linking enzyme essential for DNA replication; catalyzes the covalent bonding of DNA fragments.
+Answer: X
+
+
+Question 888: What is the definition of the term 'Heterozygous'?
+W) An allele whose phenotypic effect is not observed in a heterozygote.
+X) A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.
+Y) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+Z) Having two different alleles for a given gene.
+Answer: Z
+
+
+Question 889: What is the definition of the term 'Zygote'?
+W) A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.
+X) A type of nitrogenous base in DNA and RNA, including cytosine, thymine, and uracil.
+Y) An enzyme that catalyzes the elongation of new DNA by the addition of nucleotides.
+Z) The diploid cell produced by the union of haploid gametes during fertilization.
+Answer: Z
+
+
+Question 890: What is the definition of the term 'Translation'?
+W) Having two different alleles for a given gene.
+X) An allele that is fully expressed in the phenotype of a heterozygote.
+Y) The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.
+Z) The genetic makeup of an organism.
+Answer: Y
+
+
+Question 891: What is the definition of the term 'Chromosome'?
+W) A cellular structure consisting of one DNA molecule and associated protein molecules.
+X) A small protein with a high proportion of positively charged amino acids that binds to the negatively charged DNA.
+Y) A type of nitrogenous base in DNA and RNA, including cytosine, thymine, and uracil.
+Z) A modified type of cell division producing four haploid cells.
+Answer: W
+
+
+Question 892: What is the definition of the term 'Anticodon'?
+W) A cellular structure consisting of one DNA molecule and associated protein molecules.
+X) An allele that is fully expressed in the phenotype of a heterozygote.
+Y) An enzyme that untwists the double helix of DNA at replication forks.
+Z) A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.
+Answer: Z
+
+
+Question 893: What is the definition of the term 'Dominant allele'?
+W) A modified type of cell division producing four haploid cells.
+X) A process of nuclear division in eukaryotic cells conventionally divided into five stages.
+Y) The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.
+Z) An allele that is fully expressed in the phenotype of a heterozygote.
+Answer: Z
+
+
+Question 894: What is the definition of the term 'Heterozygous'?
+W) Having two different alleles for a given gene.
+X) An alternative version of a gene.
+Y) A change in the nucleotide sequence of an organism's DNA.
+Z) An enzyme that untwists the double helix of DNA at replication forks.
+Answer: W
+
+
+Question 895: What is the definition of the term 'Ligase'?
+W) A linking enzyme essential for DNA replication; catalyzes the covalent bonding of DNA fragments.
+X) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+Y) The diploid cell produced by the union of haploid gametes during fertilization.
+Z) The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.
+Answer: W
+
+
+Question 896: What is the definition of the term 'Nucleotide'?
+W) The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.
+X) A noncoding, intervening sequence within a primary transcript that is removed from the transcript.
+Y) A sequence within a primary transcript that remains in the RNA after RNA processing.
+Z) A cell containing two sets of chromosomes, one set inherited from each parent.
+Answer: W
+
+
+Question 897: What is the definition of the term 'Dominant allele'?
+W) An enzyme that catalyzes the elongation of new DNA by the addition of nucleotides.
+X) A small protein with a high proportion of positively charged amino acids that binds to the negatively charged DNA.
+Y) An allele that is fully expressed in the phenotype of a heterozygote.
+Z) A linking enzyme essential for DNA replication; catalyzes the covalent bonding of DNA fragments.
+Answer: Y
+
+
+Question 898: What is the definition of the term 'Phenotype'?
+W) A type of nitrogenous base in DNA and RNA, including cytosine, thymine, and uracil.
+X) A modified type of cell division producing four haploid cells.
+Y) The observable physical traits of an organism.
+Z) The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.
+Answer: Y
+
+
+Question 899: What is the definition of the term 'Translation'?
+W) The synthesis of RNA using a DNA template.
+X) A specific place along the length of a chromosome where a given gene is located.
+Y) A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.
+Z) The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.
+Answer: Z
+
+
+Question 900: What is the definition of the term 'Recessive allele'?
+W) The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.
+X) An allele whose phenotypic effect is not observed in a heterozygote.
+Y) An alternative version of a gene.
+Z) A cellular structure consisting of one DNA molecule and associated protein molecules.
+Answer: X
+
+
+Question 901: Which term is defined as: 'A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.'?
+W) Anticodon
+X) Purine
+Y) Exon
+Z) Histone
+Answer: W
+
+
+Question 902: Which term is defined as: 'The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.'?
+W) Translation
+X) Heterozygous
+Y) Allele
+Z) Chromosome
+Answer: W
+
+
+Question 903: Which term is defined as: 'An enzyme that untwists the double helix of DNA at replication forks.'?
+W) Anticodon
+X) Helicase
+Y) Translation
+Z) Haploid
+Answer: X
+
+
+Question 904: Which term is defined as: 'A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.'?
+W) Genotype
+X) Codon
+Y) Anticodon
+Z) Heterozygous
+Answer: Y
+
+
+Question 905: Which term is defined as: 'A specific place along the length of a chromosome where a given gene is located.'?
+W) Locus
+X) Translation
+Y) Genotype
+Z) Helicase
+Answer: W
+
+
+Question 906: Which term is defined as: 'The observable physical traits of an organism.'?
+W) Mutation
+X) Meiosis
+Y) Phenotype
+Z) Translation
+Answer: Y
+
+
+Question 907: Which term is defined as: 'The observable physical traits of an organism.'?
+W) Translation
+X) Phenotype
+Y) Chromosome
+Z) Transcription
+Answer: X
+
+
+Question 908: Which term is defined as: 'An alternative version of a gene.'?
+W) Heterozygous
+X) Zygote
+Y) Allele
+Z) Dominant allele
+Answer: Y
+
+
+Question 909: Which term is defined as: 'An enzyme that catalyzes the elongation of new DNA by the addition of nucleotides.'?
+W) Ligase
+X) Recessive allele
+Y) DNA Polymerase
+Z) Mitosis
+Answer: Y
+
+
+Question 910: Which term is defined as: 'The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.'?
+W) Translation
+X) Purine
+Y) Mutation
+Z) Meiosis
+Answer: W
+
+
+Question 911: Which term is defined as: 'A specific place along the length of a chromosome where a given gene is located.'?
+W) Purine
+X) Genotype
+Y) Translation
+Z) Locus
+Answer: Z
+
+
+Question 912: Which term is defined as: 'A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.'?
+W) Ligase
+X) Nucleotide
+Y) Genotype
+Z) Codon
+Answer: Z
+
+
+Question 913: Which term is defined as: 'A change in the nucleotide sequence of an organism's DNA.'?
+W) Diploid
+X) Helicase
+Y) Mutation
+Z) Haploid
+Answer: Y
+
+
+Question 914: Which term is defined as: 'The diploid cell produced by the union of haploid gametes during fertilization.'?
+W) Zygote
+X) Phenotype
+Y) Recessive allele
+Z) Exon
+Answer: W
+
+
+Question 915: Which term is defined as: 'A cellular structure consisting of one DNA molecule and associated protein molecules.'?
+W) Mutation
+X) Allele
+Y) Chromosome
+Z) Genotype
+Answer: Y
+
+
+Question 916: Which term is defined as: 'A noncoding, intervening sequence within a primary transcript that is removed from the transcript.'?
+W) Intron
+X) Codon
+Y) Purine
+Z) Recessive allele
+Answer: W
+
+
+Question 917: Which term is defined as: 'A diagram of a family tree showing the occurrence of heritable characters in parents and offspring.'?
+W) Allele
+X) Phenotype
+Y) Pedigree
+Z) Recessive allele
+Answer: Y
+
+
+Question 918: Which term is defined as: 'A cell containing only one set of chromosomes.'?
+W) Purine
+X) Haploid
+Y) Phenotype
+Z) Helicase
+Answer: X
+
+
+Question 919: Which term is defined as: 'A diagram of a family tree showing the occurrence of heritable characters in parents and offspring.'?
+W) Homozygous
+X) Mitosis
+Y) Helicase
+Z) Pedigree
+Answer: Z
+
+
+Question 920: Which term is defined as: 'The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.'?
+W) Nucleotide
+X) Exon
+Y) Pedigree
+Z) Mutation
+Answer: W
+
+
+Question 921: Which term is defined as: 'A noncoding, intervening sequence within a primary transcript that is removed from the transcript.'?
+W) Intron
+X) Ligase
+Y) Pyrimidine
+Z) Pedigree
+Answer: W
+
+
+Question 922: Which term is defined as: 'An enzyme that catalyzes the elongation of new DNA by the addition of nucleotides.'?
+W) Heterozygous
+X) DNA Polymerase
+Y) Pyrimidine
+Z) Diploid
+Answer: X
+
+
+Question 923: Which term is defined as: 'A cellular structure consisting of one DNA molecule and associated protein molecules.'?
+W) Chromosome
+X) Allele
+Y) Pyrimidine
+Z) Anticodon
+Answer: W
+
+
+Question 924: Which term is defined as: 'An enzyme that catalyzes the elongation of new DNA by the addition of nucleotides.'?
+W) Helicase
+X) Locus
+Y) DNA Polymerase
+Z) Zygote
+Answer: Y
+
+
+Question 925: Which term is defined as: 'The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.'?
+W) Homozygous
+X) Nucleotide
+Y) Gene
+Z) Histone
+Answer: X
+
+
+Question 926: Which term is defined as: 'A type of nitrogenous base in DNA and RNA, including cytosine, thymine, and uracil.'?
+W) Chromosome
+X) Pyrimidine
+Y) Pedigree
+Z) Nucleotide
+Answer: X
+
+
+Question 927: Which term is defined as: 'A diagram of a family tree showing the occurrence of heritable characters in parents and offspring.'?
+W) Pedigree
+X) Ligase
+Y) Homozygous
+Z) Diploid
+Answer: W
+
+
+Question 928: Which term is defined as: 'A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.'?
+W) Exon
+X) Mutation
+Y) Locus
+Z) Codon
+Answer: Z
+
+
+Question 929: Which term is defined as: 'A sequence within a primary transcript that remains in the RNA after RNA processing.'?
+W) Phenotype
+X) Helicase
+Y) Exon
+Z) Diploid
+Answer: Y
+
+
+Question 930: Which term is defined as: 'The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.'?
+W) Anticodon
+X) Translation
+Y) Pyrimidine
+Z) Heterozygous
+Answer: X
+
+
+Question 931: Which term is defined as: 'A change in the nucleotide sequence of an organism's DNA.'?
+W) Mutation
+X) Homozygous
+Y) Locus
+Z) Translation
+Answer: W
+
+
+Question 932: Which term is defined as: 'A diagram of a family tree showing the occurrence of heritable characters in parents and offspring.'?
+W) Intron
+X) Pedigree
+Y) Translation
+Z) Recessive allele
+Answer: X
+
+
+Question 933: Which term is defined as: 'A specific place along the length of a chromosome where a given gene is located.'?
+W) Meiosis
+X) Locus
+Y) Purine
+Z) Chromosome
+Answer: X
+
+
+Question 934: Which term is defined as: 'A sequence within a primary transcript that remains in the RNA after RNA processing.'?
+W) Mutation
+X) Intron
+Y) Translation
+Z) Exon
+Answer: Z
+
+
+Question 935: Which term is defined as: 'The observable physical traits of an organism.'?
+W) Phenotype
+X) Allele
+Y) Zygote
+Z) Purine
+Answer: W
+
+
+Question 936: Which term is defined as: 'An enzyme that untwists the double helix of DNA at replication forks.'?
+W) Purine
+X) Phenotype
+Y) Helicase
+Z) Pedigree
+Answer: Y
+
+
+Question 937: Which term is defined as: 'An enzyme that untwists the double helix of DNA at replication forks.'?
+W) Helicase
+X) Heterozygous
+Y) Dominant allele
+Z) Genotype
+Answer: W
+
+
+Question 938: Which term is defined as: 'A process of nuclear division in eukaryotic cells conventionally divided into five stages.'?
+W) Mitosis
+X) Phenotype
+Y) Genotype
+Z) Intron
+Answer: W
+
+
+Question 939: Which term is defined as: 'Having two identical alleles for a given gene.'?
+W) Genotype
+X) Phenotype
+Y) Exon
+Z) Homozygous
+Answer: Z
+
+
+Question 940: Which term is defined as: 'A type of nitrogenous base in DNA and RNA, including adenine and guanine.'?
+W) Nucleotide
+X) Purine
+Y) Recessive allele
+Z) Dominant allele
+Answer: X
+
+
+Question 941: Which term is defined as: 'A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.'?
+W) Meiosis
+X) Exon
+Y) Mutation
+Z) Gene
+Answer: Z
+
+
+Question 942: Which term is defined as: 'Having two different alleles for a given gene.'?
+W) Phenotype
+X) Meiosis
+Y) Heterozygous
+Z) Helicase
+Answer: Y
+
+
+Question 943: Which term is defined as: 'An enzyme that untwists the double helix of DNA at replication forks.'?
+W) Haploid
+X) Meiosis
+Y) Helicase
+Z) Chromosome
+Answer: Y
+
+
+Question 944: Which term is defined as: 'A type of nitrogenous base in DNA and RNA, including cytosine, thymine, and uracil.'?
+W) Pyrimidine
+X) Mitosis
+Y) Mutation
+Z) Dominant allele
+Answer: W
+
+
+Question 945: Which term is defined as: 'An enzyme that catalyzes the elongation of new DNA by the addition of nucleotides.'?
+W) Mitosis
+X) DNA Polymerase
+Y) Locus
+Z) Haploid
+Answer: X
+
+
+Question 946: Which term is defined as: 'The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.'?
+W) Histone
+X) Mitosis
+Y) Nucleotide
+Z) Locus
+Answer: Y
+
+
+Question 947: Which term is defined as: 'A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.'?
+W) Heterozygous
+X) Haploid
+Y) Genotype
+Z) Anticodon
+Answer: Z
+
+
+Question 948: Which term is defined as: 'Having two different alleles for a given gene.'?
+W) Dominant allele
+X) Heterozygous
+Y) Helicase
+Z) Homozygous
+Answer: X
+
+
+Question 949: Which term is defined as: 'A specific place along the length of a chromosome where a given gene is located.'?
+W) Nucleotide
+X) Locus
+Y) Haploid
+Z) Transcription
+Answer: X
+
+
+Question 950: Which term is defined as: 'A cell containing two sets of chromosomes, one set inherited from each parent.'?
+W) Helicase
+X) Diploid
+Y) Homozygous
+Z) Codon
+Answer: X
+
+
+Question 951: Which term is defined as: 'A small protein with a high proportion of positively charged amino acids that binds to the negatively charged DNA.'?
+W) Genotype
+X) Helicase
+Y) Histone
+Z) Meiosis
+Answer: Y
+
+
+Question 952: Which term is defined as: 'An allele whose phenotypic effect is not observed in a heterozygote.'?
+W) Genotype
+X) Phenotype
+Y) Translation
+Z) Recessive allele
+Answer: Z
+
+
+Question 953: Which term is defined as: 'An allele that is fully expressed in the phenotype of a heterozygote.'?
+W) Dominant allele
+X) Pyrimidine
+Y) DNA Polymerase
+Z) Helicase
+Answer: W
+
+
+Question 954: Which term is defined as: 'A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.'?
+W) Anticodon
+X) Heterozygous
+Y) Pyrimidine
+Z) Mutation
+Answer: W
+
+
+Question 955: Which term is defined as: 'A diagram of a family tree showing the occurrence of heritable characters in parents and offspring.'?
+W) Pyrimidine
+X) Intron
+Y) Pedigree
+Z) Zygote
+Answer: Y
+
+
+Question 956: Which term is defined as: 'A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA.'?
+W) Anticodon
+X) DNA Polymerase
+Y) Gene
+Z) Phenotype
+Answer: Y
+
+
+Question 957: Which term is defined as: 'A small protein with a high proportion of positively charged amino acids that binds to the negatively charged DNA.'?
+W) Chromosome
+X) Histone
+Y) Heterozygous
+Z) DNA Polymerase
+Answer: X
+
+
+Question 958: Which term is defined as: 'A cell containing only one set of chromosomes.'?
+W) Genotype
+X) Dominant allele
+Y) Codon
+Z) Haploid
+Answer: Z
+
+
+Question 959: Which term is defined as: 'A cell containing two sets of chromosomes, one set inherited from each parent.'?
+W) Exon
+X) Diploid
+Y) Mutation
+Z) Purine
+Answer: X
+
+
+Question 960: Which term is defined as: 'Having two identical alleles for a given gene.'?
+W) Pyrimidine
+X) Nucleotide
+Y) Homozygous
+Z) DNA Polymerase
+Answer: Y
+
+
+Question 961: Which term is defined as: 'A change in the nucleotide sequence of an organism's DNA.'?
+W) Mutation
+X) Diploid
+Y) Zygote
+Z) Histone
+Answer: W
+
+
+Question 962: Which term is defined as: 'A small protein with a high proportion of positively charged amino acids that binds to the negatively charged DNA.'?
+W) Intron
+X) Histone
+Y) Exon
+Z) DNA Polymerase
+Answer: X
+
+
+Question 963: Which term is defined as: 'A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.'?
+W) Anticodon
+X) Zygote
+Y) Intron
+Z) Exon
+Answer: W
+
+
+Question 964: Which term is defined as: 'The genetic makeup of an organism.'?
+W) Mutation
+X) Genotype
+Y) Transcription
+Z) Allele
+Answer: X
+
+
+Question 965: Which term is defined as: 'An enzyme that untwists the double helix of DNA at replication forks.'?
+W) Pyrimidine
+X) Helicase
+Y) Pedigree
+Z) Codon
+Answer: X
+
+
+Question 966: Which term is defined as: 'A diagram of a family tree showing the occurrence of heritable characters in parents and offspring.'?
+W) Pedigree
+X) Purine
+Y) Intron
+Z) Mutation
+Answer: W
+
+
+Question 967: Which term is defined as: 'A specific place along the length of a chromosome where a given gene is located.'?
+W) Mitosis
+X) Pedigree
+Y) Histone
+Z) Locus
+Answer: Z
+
+
+Question 968: Which term is defined as: 'The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.'?
+W) Ligase
+X) Allele
+Y) Translation
+Z) Gene
+Answer: Y
+
+
+Question 969: Which term is defined as: 'A type of nitrogenous base in DNA and RNA, including adenine and guanine.'?
+W) Chromosome
+X) Translation
+Y) Anticodon
+Z) Purine
+Answer: Z
+
+
+Question 970: Which term is defined as: 'The observable physical traits of an organism.'?
+W) Locus
+X) Purine
+Y) Phenotype
+Z) Intron
+Answer: Y
+
+
+Question 971: Which term is defined as: 'The diploid cell produced by the union of haploid gametes during fertilization.'?
+W) Exon
+X) Zygote
+Y) Mitosis
+Z) Genotype
+Answer: X
+
+
+Question 972: Which term is defined as: 'A linking enzyme essential for DNA replication; catalyzes the covalent bonding of DNA fragments.'?
+W) Intron
+X) Diploid
+Y) Locus
+Z) Ligase
+Answer: Z
+
+
+Question 973: Which term is defined as: 'A linking enzyme essential for DNA replication; catalyzes the covalent bonding of DNA fragments.'?
+W) Mutation
+X) Dominant allele
+Y) Ligase
+Z) Zygote
+Answer: Y
+
+
+Question 974: Which term is defined as: 'The observable physical traits of an organism.'?
+W) Transcription
+X) Mitosis
+Y) Phenotype
+Z) Gene
+Answer: Y
+
+
+Question 975: Which term is defined as: 'Having two different alleles for a given gene.'?
+W) Heterozygous
+X) Zygote
+Y) Recessive allele
+Z) Locus
+Answer: W
+
+
+Question 976: Which term is defined as: 'A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid.'?
+W) Anticodon
+X) Codon
+Y) Pedigree
+Z) Dominant allele
+Answer: X
+
+
+Question 977: Which term is defined as: 'The synthesis of RNA using a DNA template.'?
+W) Homozygous
+X) Transcription
+Y) Locus
+Z) Nucleotide
+Answer: X
+
+
+Question 978: Which term is defined as: 'The observable physical traits of an organism.'?
+W) Dominant allele
+X) Histone
+Y) Heterozygous
+Z) Phenotype
+Answer: Z
+
+
+Question 979: Which term is defined as: 'The diploid cell produced by the union of haploid gametes during fertilization.'?
+W) Purine
+X) Gene
+Y) Zygote
+Z) Nucleotide
+Answer: Y
+
+
+Question 980: Which term is defined as: 'A change in the nucleotide sequence of an organism's DNA.'?
+W) Homozygous
+X) Mutation
+Y) Ligase
+Z) Nucleotide
+Answer: X
+
+
+Question 981: Which term is defined as: 'An enzyme that untwists the double helix of DNA at replication forks.'?
+W) Meiosis
+X) Gene
+Y) Diploid
+Z) Helicase
+Answer: Z
+
+
+Question 982: Which term is defined as: 'The synthesis of RNA using a DNA template.'?
+W) Transcription
+X) Purine
+Y) Codon
+Z) Dominant allele
+Answer: W
+
+
+Question 983: Which term is defined as: 'A cell containing only one set of chromosomes.'?
+W) Allele
+X) Exon
+Y) Purine
+Z) Haploid
+Answer: Z
+
+
+Question 984: Which term is defined as: 'Having two different alleles for a given gene.'?
+W) Heterozygous
+X) Recessive allele
+Y) Ligase
+Z) Transcription
+Answer: W
+
+
+Question 985: Which term is defined as: 'An alternative version of a gene.'?
+W) Histone
+X) Transcription
+Y) Allele
+Z) Codon
+Answer: Y
+
+
+Question 986: Which term is defined as: 'An allele whose phenotypic effect is not observed in a heterozygote.'?
+W) Dominant allele
+X) Recessive allele
+Y) Chromosome
+Z) Meiosis
+Answer: X
+
+
+Question 987: Which term is defined as: 'A cell containing only one set of chromosomes.'?
+W) Haploid
+X) Chromosome
+Y) Pyrimidine
+Z) Mitosis
+Answer: W
+
+
+Question 988: Which term is defined as: 'The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule.'?
+W) Transcription
+X) Mitosis
+Y) Translation
+Z) Mutation
+Answer: Y
+
+
+Question 989: Which term is defined as: 'A nucleotide triplet at one end of a tRNA molecule that base-pairs with a complementary codon.'?
+W) Exon
+X) Recessive allele
+Y) Anticodon
+Z) Allele
+Answer: Y
+
+
+Question 990: Which term is defined as: 'A modified type of cell division producing four haploid cells.'?
+W) Zygote
+X) Codon
+Y) Mutation
+Z) Meiosis
+Answer: Z
+
+
+Question 991: Which term is defined as: 'The observable physical traits of an organism.'?
+W) Dominant allele
+X) Heterozygous
+Y) Pyrimidine
+Z) Phenotype
+Answer: Z
+
+
+Question 992: Which term is defined as: 'An enzyme that untwists the double helix of DNA at replication forks.'?
+W) DNA Polymerase
+X) Zygote
+Y) Helicase
+Z) Intron
+Answer: Y
+
+
+Question 993: Which term is defined as: 'The building block of a nucleic acid, consisting of a five-carbon sugar, a nitrogenous base, and a phosphate group.'?
+W) Nucleotide
+X) Meiosis
+Y) Mutation
+Z) Pyrimidine
+Answer: W
+
+
+Question 994: Which term is defined as: 'A specific place along the length of a chromosome where a given gene is located.'?
+W) Histone
+X) Homozygous
+Y) Genotype
+Z) Locus
+Answer: Z
+
+
+Question 995: Which term is defined as: 'A cell containing two sets of chromosomes, one set inherited from each parent.'?
+W) Diploid
+X) Pyrimidine
+Y) Translation
+Z) Gene
+Answer: W
+
+
+Question 996: Which term is defined as: 'A type of nitrogenous base in DNA and RNA, including cytosine, thymine, and uracil.'?
+W) DNA Polymerase
+X) Codon
+Y) Pyrimidine
+Z) Phenotype
+Answer: Y
+
+
+Question 997: Which term is defined as: 'A specific place along the length of a chromosome where a given gene is located.'?
+W) Mutation
+X) Zygote
+Y) Anticodon
+Z) Locus
+Answer: Z
+
+
+Question 998: Which term is defined as: 'A change in the nucleotide sequence of an organism's DNA.'?
+W) Phenotype
+X) Mutation
+Y) Haploid
+Z) Dominant allele
+Answer: X
+
+
+Question 999: Which term is defined as: 'The synthesis of RNA using a DNA template.'?
+W) Nucleotide
+X) Transcription
+Y) Homozygous
+Z) Gene
+Answer: X
+
+
+Question 1000: Which term is defined as: 'An allele that is fully expressed in the phenotype of a heterozygote.'?
+W) Exon
+X) Chromosome
+Y) Purine
+Z) Dominant allele
+Answer: Z
